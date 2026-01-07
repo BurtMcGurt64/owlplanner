@@ -1,0 +1,16 @@
+course,crn,instructor,days,start_time,end_time
+COMP 140,12345,Smith,"Mon,Wed",09:00,10:15
+COMP 140,12346,Johnson,"Tue,Thu",09:00,10:15
+COMP 140,12347,Lee,"Mon,Wed",14:00,15:15
+MATH 212,23456,Brown,"Mon,Wed",10:30,11:45
+MATH 212,23457,Garcia,"Tue,Thu",10:30,11:45
+MATH 212,23458,Kumar,"Mon,Wed",13:00,14:15
+PHYS 101,34567,Kim,"Tue,Thu",13:00,14:15
+PHYS 101,34568,Wong,"Mon,Wed",11:00,12:15
+PHYS 101,34569,Chen,"Fri",09:00,11:45
+CHEM 110,45678,Davis,"Tue,Thu",14:30,15:45
+CHEM 110,45679,Patel,"Mon,Wed",08:00,09:15
+CHEM 110,45680,Martinez,"Fri",13:00,15:45
+HIST 150,78901,Lopez,"Mon,Wed",15:30,16:45
+HIST 150,78902,Hall,"Tue,Thu",08:00,09:15
+HIST 150,78903,White,"Fri",10:00,11:15
