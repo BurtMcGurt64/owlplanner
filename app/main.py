@@ -2,10 +2,16 @@
 Create the FastAPI app
 """
 from fastapi import FastAPI
+from fastapi.responses import RedirectResponse
 from app.routers import courses, schedules
 from app.services.loader import load_courses_from_csv
 
 app = FastAPI(title="OwlPlanner API")
+
+@app.get("/")
+def root():
+    # Send users to the interactive docs when hitting the base URL
+    return RedirectResponse(url="/docs")
 
 @app.get("/health")
 def health():
