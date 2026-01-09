@@ -10,11 +10,13 @@ def parse_csv(filename, course_names: list[str] | None = None):
     If course_names is provided (in the form ["COURSE 1", "COURSE 2"]), only parse those courses.
 
     If course_names is None, parse all courses in the CSV file.
+    
+    Assumes rows with the same CRN are consecutive in the CSV.
     """
 
-    # group courses with same name in a dictionary
-    # keys are CRNs and values are CourseSection objects
-    sections = {}
+    sections = []
+    current_section = None
+    current_crn = None
 
     with open(filename) as file:
         reader = csv.DictReader(file)
@@ -32,23 +34,35 @@ def parse_csv(filename, course_names: list[str] | None = None):
             if course_names is not None and course_name not in course_names:
                 continue # skip the row
 
-            # create a new CourseSection object
-            new_course = CourseSection(course_name, crn, instructor)
+            # Check if this is the same CRN as previous row
+            if crn == current_crn:
+                # Same course, add meeting times to existing section
+                list_days = days.split(",")
+                for day in list_days:
+                    current_section.add_meet_time(
+                        MeetingTime(day, time_to_minutes(start_time),
+                                    time_to_minutes(end_time)))
+            else:
+                # New course, save the previous one and start fresh
+                if current_section is not None:
+                    sections.append(current_section)
+                
+                # Create new CourseSection
+                current_section = CourseSection(course_name, crn, instructor)
+                current_crn = crn
+                
+                # Add meeting times for this row
+                list_days = days.split(",")
+                for day in list_days:
+                    current_section.add_meet_time(
+                        MeetingTime(day, time_to_minutes(start_time),
+                                    time_to_minutes(end_time)))
 
-            # separate the days column
-            list_days = days.split(",")
-            for day in list_days:
-                # add new meeting time to the CourseSection object
-                new_course.add_meet_time(
-                    MeetingTime(day, time_to_minutes(start_time),
-                                time_to_minutes(end_time)))
+        # last section
+        if current_section is not None:
+            sections.append(current_section)
 
-
-            # add course to the dictionary
-            sections[crn] = new_course
-
-    # return a list of all courses
-    return list(sections.values())
+    return sections
 
 def write_csv(all_results: list[tuple], filename: str = "course_data.csv"):
     """

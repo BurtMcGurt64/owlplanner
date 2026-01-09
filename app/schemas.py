@@ -15,5 +15,5 @@ class ScheduleRequest(BaseModel):
 
 class ScheduleResponse(BaseModel):
     total: int
-    schedules: List[List[Dict[str, Any]]]  # list of schedules; each schedule is list of section dicts
+    schedules: List[Dict[str, Any]]  # Each item: {"score": float, "courses": [...]}
 
