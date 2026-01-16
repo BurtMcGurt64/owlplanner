@@ -24,6 +24,15 @@ def create_schedule(payload: ScheduleRequest):
     data_path = Path(__file__).parent.parent.parent / "course_data.csv"
     sections = parse_csv(str(data_path), payload.courses)
     
+    # deduplicate by CRN to ensure each section is unique
+    seen_crns = set()
+    unique_sections = []
+    for sec in sections:
+        if sec.crn not in seen_crns:
+            seen_crns.add(sec.crn)
+            unique_sections.append(sec)
+    sections = unique_sections
+    
     courses_by_name = {}
     for sec in sections:
         courses_by_name.setdefault(sec.course_name, []).append(sec)
