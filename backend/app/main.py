@@ -4,8 +4,8 @@ Create the FastAPI app
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import courses, schedules
-from app.services.loader import load_courses_from_csv
+from .routers import courses, schedules
+from .services.loader import load_courses_from_csv
 
 app = FastAPI(title="OwlPlanner API")
 

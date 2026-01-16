@@ -3,8 +3,8 @@ This router provides endpoints related to course data.
 """
 
 from fastapi import APIRouter, Query
-from app.services.loader import get_courses
-from app.schemas import SubjectsResponse, CoursesResponse
+from ..services.loader import get_courses
+from ..schemas import SubjectsResponse, CoursesResponse
 
 router = APIRouter()
 
