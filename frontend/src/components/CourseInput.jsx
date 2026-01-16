@@ -23,7 +23,11 @@ function CourseInput({ onGenerate, isLoading }) {
     const courses = courseText
       .split(',')
       .map(c => c.trim())
-      .filter(c => c);
+      .filter(c => c)
+      .map(c => {
+        // Normalize: uppercase, remove extra whitespace
+        return c.toUpperCase().replace(/\s+/g, ' ');
+      });
     
     if (courses.length === 0) {
       alert('Please enter at least one course');
