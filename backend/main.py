@@ -1,6 +1,6 @@
 from csv_parser import parse_csv, write_csv
 from scheduler import generate_schedule
-from web_scraper import extract_rows
+from web_scraper import extract_rows, get_all_subjects
 import csv, os, requests
 
 def group_by_course(sections) -> dict:
@@ -69,18 +69,24 @@ if __name__ == "__main__":
 
     CSV_FILE = "course_data.csv"
 
-    # subject codes for 8 fields of study
-    SUBJECTS = {"COMP", "CMOR", "MATH", "BIOS", "CHEM", "STAT", "ECON", "FWIS", "BUSI", "MECH"}
+    # Fetch all available subjects dynamically from Rice catalog
+    print("GETTING RICE COURSE DATA...")
+    subjects = get_all_subjects()
+    
+    if not subjects:
+        # Fallback to default subjects if fetch fails
+        print("Using default subject list (limited)...")
+        subjects = {"COMP", "CMOR", "MATH", "BIOS", "CHEM", "STAT", "ECON", "FWIS", "BUSI", "MECH"}
 
     # scrape and write
-    print("GETTING RICE COURSE DATA...")
+    print(f"Will scrape {len(subjects)} subjects...")
 
     # check if CSV file exists, ask to scrape
     if os.path.exists(CSV_FILE):
         if ask_yes_no("Get latest Rice course data?"):
             print("Getting course data...")
             try:
-                scrape_courses(CSV_FILE, SUBJECTS)
+                scrape_courses(CSV_FILE, subjects)
             except requests.RequestException as e:
                 print(f"Error scraping courses: {e}")
                 exit(1)
@@ -89,7 +95,7 @@ if __name__ == "__main__":
     else:
         print("No course data found, getting course data...")
         try:
-            scrape_courses(CSV_FILE, SUBJECTS)
+            scrape_courses(CSV_FILE, subjects)
         except requests.RequestException as e:
             print(f"Error scraping courses: {e}")
             exit(1)

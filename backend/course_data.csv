@@ -1,0 +1,2451 @@
+course,crn,instructor,days,start_time,end_time
+KINE 300,21524,"Schell, Wendy","Tue,Thu",08:00,09:15
+KINE 300,21524,"Schell, Wendy",Wed,08:00,08:50
+KINE 301,20414,"Kabiri, Laura","Tue,Thu",14:30,15:45
+KINE 302,21119,"Eng, Bradley","Mon,Wed",08:00,09:15
+KINE 310,20248,"Perkins Ball, Amanda","Mon,Wed",11:00,12:15
+KINE 311,20964,"Perkins Ball, Amanda","Mon,Wed",14:00,15:15
+KINE 319,21216,"Rodriguez, Augusto","Tue,Thu",13:00,14:15
+KINE 320,22312,"Kabiri, Laura",Mon,13:00,13:50
+KINE 321,20083,"Gibson, Brian","Tue,Thu",10:50,12:05
+KINE 326,22644,"Perkins, Heidi","Mon,Wed",11:00,12:15
+KINE 351,24118,"Schell, Wendy",Wed,16:00,18:00
+KINE 403,23728,"Anding, Roberta","Tue,Thu",08:00,09:15
+KINE 419,23512,"Kabiri, Laura","Tue,Thu",16:00,17:15
+KINE 440,23020,"Agha, Nadia","Tue,Thu",09:25,10:40
+KINE 455,23908,"Agha, Nadia","Tue,Thu",14:30,15:45
+KINE 498,23513,"DeWitt, John","Mon,Wed",08:00,09:15
+EEPS 101,24675,"Gordon, Richard G.","Mon,Wed,Fri",10:00,10:50
+EEPS 106,24676,"Diedesch, Tim","Tue,Thu",13:00,14:15
+EEPS 107,22634,"Dee, Sylvia","Mon,Wed",14:00,15:15
+EEPS 108,22983,"Schmandt, Brandon","Tue,Thu",09:25,10:40
+EEPS 110,22636,"Diedesch, Tim","Mon,Wed,Fri",13:00,13:50
+EEPS 114,22251,"Morgan, Julia",Tue,16:00,16:50
+EEPS 116,22702,"Izidoro Ferreira da Costa, Andre","Mon,Wed,Fri",11:00,11:50
+EEPS 220,24677,"Zelt, Colin A. Ajo-Franklin, Jonathan","Tue,Thu",10:50,12:05
+EEPS 307,22252,"Cohan, Daniel","Tue,Thu",09:25,10:40
+EEPS 323,22253,"French, Melodie Schmandt, Brandon","Mon,Wed,Fri",10:00,10:50
+EEPS 323,22253,"French, Melodie Schmandt, Brandon",Thu,13:00,15:50
+EEPS 325,22254,"Bunge, Isabelle","Mon,Wed,Fri",11:00,11:50
+EEPS 325,22254,"Bunge, Isabelle",Tue,13:00,15:50
+EEPS 334,24013,"Diedesch, Tim","Tue,Thu",09:25,10:40
+EEPS 401,22777,"Torres, Mark Diedesch, Tim",Fri,14:00,14:50
+EEPS 404,22571,"Izidoro Ferreira da Costa, Andre",Fri,12:00,12:50
+EEPS 406,22256,"Izidoro Ferreira da Costa, Andre","Tue,Thu",13:00,14:15
+EEPS 413,24678,"Dasgupta, Rajdeep","Mon,Wed",14:00,15:15
+EEPS 418,24680,"Torres, Mark Zhang, Bidong","Tue,Thu",09:25,10:40
+EEPS 435,24684,"Siebach, Kirsten","Tue,Thu",14:30,15:45
+EEPS 437,23711,"Lee, Cin-Ty",Tue,17:00,19:50
+EEPS 439,24691,"Torres, Mark","Tue,Thu",14:30,15:45
+EEPS 445,23712,"Levander, Alan","Mon,Wed,Fri",10:00,10:50
+EEPS 451,22258,"Zelt, Colin A.","Mon,Wed,Fri",09:00,09:50
+EEPS 457,23902,"Bakhshian, Sahar",Thu,16:00,18:50
+EEPS 458,24686,"Ajo-Franklin, Jonathan","Tue,Thu",14:30,15:45
+EEPS 485,24688,"Holley, Jennifer Garvin, Julie",Thu,16:15,18:00
+EEPS 495,22984,"Masiello, Carrie Dunham, Amy","Tue,Thu",09:25,10:40
+EEPS 530,22273,"Scott, Erik",Mon,17:00,19:50
+EEPS 533,22569,"Scott, Erik",Mon,20:00,20:50
+EEPS 537,23297,"Siebach, Kirsten",Fri,14:00,14:50
+EEPS 548,22864,"Abdulah, Kenneth",Wed,17:30,20:30
+EEPS 549,24008,"Medlock, Kenneth Meidl, Rachel","Tue,Thu",10:50,12:05
+EEPS 578,24100,"Donohue, Catherine",Fri,16:30,18:00
+EEPS 578,24100,"Donohue, Catherine",Thu,18:30,20:00
+EEPS 586,22986,"Celepcikay, Oner",Thu,18:30,21:00
+EEPS 604,22572,"Izidoro Ferreira da Costa, Andre",Fri,12:00,12:50
+EEPS 606,22257,"Izidoro Ferreira da Costa, Andre","Tue,Thu",13:00,14:15
+EEPS 613,24679,"Dasgupta, Rajdeep","Mon,Wed",14:00,15:15
+EEPS 618,24681,"Torres, Mark Zhang, Bidong","Tue,Thu",09:25,10:40
+EEPS 635,24685,"Siebach, Kirsten","Tue,Thu",14:30,15:45
+EEPS 637,23771,"Lee, Cin-Ty",Tue,17:00,19:50
+EEPS 639,24690,"Torres, Mark","Tue,Thu",14:30,15:45
+EEPS 645,23772,"Levander, Alan","Mon,Wed,Fri",10:00,10:50
+EEPS 651,22259,"Zelt, Colin A.","Mon,Wed,Fri",09:00,09:50
+EEPS 657,23951,"Bakhshian, Sahar",Thu,16:00,18:50
+EEPS 658,24687,"Ajo-Franklin, Jonathan","Tue,Thu",14:30,15:45
+EEPS 685,24689,"Holley, Jennifer Garvin, Julie",Thu,16:15,18:00
+CEVE 202,25681,"Loyo Rosales, Jorge","Tue,Thu",16:00,17:15
+CEVE 210,24459,"Tour, James",Fri,15:00,15:50
+CEVE 307,20045,"Cohan, Daniel","Tue,Thu",09:25,10:40
+CEVE 311,20047,"Nagarajaiah, Satish","Tue,Thu",13:00,14:15
+CEVE 312,20048,"Nagarajaiah, Satish",Tue,14:30,16:59
+CEVE 313,22302,"Duenas Osorio, Leonardo","Mon,Wed,Fri",10:00,10:50
+CEVE 314,24485,"Loyo Rosales, Jorge","Mon,Wed",11:00,12:15
+CEVE 315,22086,"Stadler, Lauren Getachew, Beza","Mon,Wed,Fri",11:00,11:50
+CEVE 316,22087,"Stadler, Lauren Getachew, Beza",Wed,14:45,17:15
+CEVE 363,22088,"Gori, Avantika","Mon,Wed,Fri",14:00,14:50
+CEVE 401,23997,"Tomson, Mason","Tue,Thu",13:00,14:15
+CEVE 406,21316,"Irvine, Charles","Tue,Thu",16:00,17:15
+CEVE 412,20345,"Bedient, Philip","Tue,Thu",10:50,12:05
+CEVE 417,22821,"Avila, Raudel","Tue,Thu",13:00,14:15
+CEVE 420,21318,"de Blanc, Phillip","Tue,Thu",16:00,17:15
+CEVE 421,24489,"Doss-Gollin, James","Mon,Wed,Fri",13:00,13:50
+CEVE 425,24491,"Gong, Kai","Mon,Wed",14:00,15:15
+CEVE 439,23175,"Simoes Novelino, Larissa","Mon,Wed,Fri",09:00,09:50
+CEVE 441,21451,"Rubiano Benavides, Nestor","Tue,Thu",16:00,17:15
+CEVE 452,20228,"Qian, Xinwu","Tue,Thu",09:25,10:40
+CEVE 455,21705,"Zhang, Lu","Tue,Thu",16:00,17:15
+CEVE 456,25695,"Yi, Sang-ri","Mon,Wed",15:30,16:45
+CEVE 482,23102,"Erazo, Kalil de Blanc, Phillip",Fri,14:00,16:30
+CEVE 501,23998,"Tomson, Mason","Tue,Thu",13:00,14:15
+CEVE 506,22089,"Irvine, Charles","Tue,Thu",16:00,17:15
+CEVE 507,20573,"Cohan, Daniel","Tue,Thu",09:25,10:40
+CEVE 509,20390,"Bedient, Philip","Tue,Thu",10:50,12:05
+CEVE 517,23032,"Avila, Raudel","Tue,Thu",13:00,14:15
+CEVE 520,21319,"de Blanc, Phillip","Tue,Thu",16:00,17:15
+CEVE 521,24488,"Doss-Gollin, James","Mon,Wed,Fri",13:00,13:50
+CEVE 525,24490,"Gong, Kai","Mon,Wed",14:00,15:15
+CEVE 535,21178,"Li, Qilin","Tue,Thu",09:25,10:40
+CEVE 536,20049,"Alvarez, Pedro","Mon,Wed,Fri",09:30,10:50
+CEVE 539,23174,"Simoes Novelino, Larissa","Mon,Wed,Fri",09:00,09:50
+CEVE 541,21452,"Rubiano Benavides, Nestor","Tue,Thu",16:00,17:15
+CEVE 555,20576,"Zhang, Lu","Tue,Thu",16:00,17:15
+CEVE 556,25696,"Yi, Sang-ri","Mon,Wed",15:30,16:45
+CEVE 564,25704,"Elimelech, Menachem","Mon,Wed",11:00,12:15
+CEVE 578,24492,"Erazo, Kalil","Mon,Wed,Fri",13:00,13:50
+CEVE 602,20050,"Qian, Xinwu",Thu,15:00,15:55
+CEVE 654,25743,"Tezduyar, Tayfun","Tue,Thu",09:25,10:40
+INDE 513,25757,"Li, Su","Mon,Wed",14:00,15:15
+INDE 517,24499,"Ma, Shiqian","Tue,Thu",14:30,15:45
+INDE 546,21661,"Schaefer, Andrew","Tue,Thu",13:00,14:15
+INDE 561,22115,"Tekin, Eylem","Tue,Thu",10:50,12:05
+INDE 565,24501,"Walczak, Darius",Tue,16:00,18:29
+INDE 577,22428,"Davila, Randy",Fri,13:00,15:30
+INDE 597,22718,"Zaghian, Maryam",Thu,16:00,18:30
+MEOS 404,22365,"Pereira Diaz, Gloria",Tue,14:30,17:20
+ITAL 106,22827,"Giliberti, Maria","Mon,Wed,Fri",14:00,14:50
+ITAL 142,21180,"Giliberti, Maria","Mon,Wed,Fri",12:00,12:50
+ITAL 264,24227,"Giliberti, Maria","Mon,Wed,Fri",15:00,15:50
+GLBL 200,25483,"Staisch, Matthias","Mon,Wed,Fri",13:00,13:50
+GLBL 502,21662,"Jones, Mark P.",Thu,18:00,20:59
+GLBL 524,21146,"DeNicco, James",Mon,18:00,21:00
+GLBL 525,21147,"McHugh, Scott",Tue,18:00,21:00
+CMOR 220,22902,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,22902,"Protasov, Anastasiya",Wed,18:00,18:50
+CMOR 220,23115,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23115,"Protasov, Anastasiya",Wed,18:00,18:50
+CMOR 220,23124,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23124,"Protasov, Anastasiya",Wed,18:00,18:50
+CMOR 220,23125,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23125,"Protasov, Anastasiya",Thu,18:00,18:50
+CMOR 220,23126,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23126,"Protasov, Anastasiya",Thu,18:00,18:50
+CMOR 220,23127,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23127,"Protasov, Anastasiya",Thu,18:00,18:50
+CMOR 220,23128,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23128,"Protasov, Anastasiya",Fri,14:00,14:50
+CMOR 220,23129,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23129,"Protasov, Anastasiya",Fri,14:00,14:50
+CMOR 220,23130,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23130,"Protasov, Anastasiya",Fri,14:00,14:50
+CMOR 220,23131,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23131,"Protasov, Anastasiya",Fri,14:00,14:50
+CMOR 220,23132,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,23132,"Protasov, Anastasiya",Wed,18:00,18:50
+CMOR 220,24149,"Protasov, Anastasiya","Mon,Wed",14:00,14:50
+CMOR 220,24149,"Protasov, Anastasiya",Wed,18:00,18:50
+CMOR 302,24495,"Kykkanen, Antti","Wed,Fri",14:00,15:15
+CMOR 303,23133,"LaPole, Alyssa","Mon,Wed,Fri",10:00,10:50
+CMOR 304,22903,"Anderson, Thomas Geoffrey","Mon,Wed,Fri",13:00,13:50
+CMOR 350,22904,"Tekin, Eylem","Tue,Thu",09:25,10:40
+CMOR 360,22905,"Ramani, Sivaramakrishnan","Tue,Thu",13:00,14:15
+CMOR 404,24496,"Davila, Randy",Fri,09:00,11:30
+CMOR 416,25982,"Flynn, Jonathan","Mon,Wed,Fri",11:00,11:50
+CMOR 417,24067,"Riviere, Beatrice","Tue,Thu",10:50,12:05
+CMOR 421,23206,"Hawkins, Elizabeth","Tue,Thu",13:00,14:15
+CMOR 423,22906,"Zhang, Lu","Tue,Thu",16:00,17:15
+CMOR 428,25717,"Protasov, Anastasiya","Tue,Thu",16:00,17:15
+CMOR 430,22924,"Heinkenschloss, Matthias","Tue,Thu",14:30,15:45
+CMOR 437,26009,"Ma, Shiqian","Tue,Thu",14:30,15:45
+CMOR 438,24071,"Davila, Randy",Fri,13:00,15:30
+CMOR 442,22908,"Schaefer, Andrew","Tue,Thu",13:00,14:15
+CMOR 461,22909,"Tekin, Eylem","Tue,Thu",10:50,12:05
+CMOR 463,24500,"Li, Su","Mon,Wed",14:00,15:15
+CMOR 465,24012,"Walczak, Darius",Tue,16:00,18:29
+CMOR 477,25598,"Liang, Jiaxing",Fri,13:00,15:30
+CMOR 493,22921,"Hicks, Illya V.",Wed,16:00,18:30
+CMOR 494,22922,"Protasov, Anastasiya","Mon,Wed",08:00,08:50
+CMOR 504,25730,"Davila, Randy",Fri,09:00,11:30
+CMOR 517,24497,"Riviere, Beatrice","Tue,Thu",10:50,12:05
+CMOR 521,23207,"Hawkins, Elizabeth","Tue,Thu",13:00,14:15
+CMOR 523,22907,"Zhang, Lu","Tue,Thu",16:00,17:15
+CMOR 527,24502,"Van Fleet, Samuel","Wed,Fri",14:00,15:15
+CMOR 528,24503,"Protasov, Anastasiya","Tue,Thu",16:00,17:15
+CMOR 530,22923,"Heinkenschloss, Matthias","Tue,Thu",14:30,15:45
+CMOR 537,24504,"Das Gupta, Shuvomoy",Wed,14:00,16:50
+CMOR 544,25748,"Ge, Puyao","Mon,Wed",16:00,17:15
+CMOR 552,25579,"Viens, Frederi",Tue,18:30,21:00
+CMOR 554,24226,"Pang, Guodong",Wed,16:00,18:15
+CMOR 646,24505,"Perez Salazar, Sebastian","Mon,Wed",12:30,13:45
+CMOR 677,25599,"Liang, Jiaxing",Fri,13:00,15:30
+CMOR 677,25880,"de Hoop, Maarten","Mon,Wed",16:00,17:15
+MACC 502,25261,"Butler, Lee Ann","Tue,Thu",09:45,11:15
+MACC 502,25261,"Butler, Lee Ann","Tue,Thu",09:45,11:15
+MACC 513,25262,"Zeff, Stephen","Mon,Wed",12:30,14:00
+MACC 513,25262,"Zeff, Stephen","Mon,Wed",12:30,14:00
+MACC 531,25263,"Wilson, David","Tue,Thu",12:30,14:00
+MACC 541,25264,"Drakey, Kelly","Mon,Tue,Wed,Thu,Fri",10:00,15:00
+MACC 542,25265,"Drakey, Kelly","Mon,Wed",09:45,11:15
+MACC 562,25266,"Cheek, Danielle","Tue,Thu",12:30,14:00
+MACC 564,25267,"Kaba, Yamil","Tue,Thu",08:00,09:30
+MACC 564,25267,"Kaba, Yamil","Tue,Thu",08:00,09:30
+MACC 573,25268,"Evetts, Nancy","Mon,Wed",09:45,11:15
+MATH 101,21526,"Gwaltney, Ethan","Mon,Wed,Fri",11:00,11:50
+MATH 101,23690,"Shupe, Chloe","Mon,Wed,Fri",10:00,10:50
+MATH 102,23141,"Wu, Yandi","Mon,Wed,Fri",11:00,11:50
+MATH 102,21329,"Harris, Isabel","Mon,Wed,Fri",09:00,09:50
+MATH 102,21217,"Pastrana, Jose","Mon,Wed,Fri",10:00,10:50
+MATH 102,20389,"Pastrana, Jose","Mon,Wed,Fri",11:00,11:50
+MATH 102,21688,"Wong, Richard","Mon,Wed,Fri",13:00,13:50
+MATH 102,23691,"Harris, Isabel","Mon,Wed,Fri",10:00,10:50
+MATH 110,24049,"Del Guercio, Olivia",Mon,19:00,19:50
+MATH 110,25808,"Del Guercio, Olivia",Mon,18:00,18:50
+MATH 112,21701,"Castro, Nickolas","Tue,Thu",09:25,10:40
+MATH 115,22349,"Orcan Ekmekci, Betul","Mon,Wed,Fri",10:00,10:50
+MATH 211,21330,"Ortiz, Alexander","Mon,Wed,Fri",10:00,10:50
+MATH 211,21099,"Orcan Ekmekci, Betul","Mon,Wed,Fri",11:00,11:50
+MATH 211,21527,"Liu Lopez, Fernando","Mon,Wed,Fri",09:00,09:50
+MATH 211,23692,"Gao, Zhiyong","Mon,Wed,Fri",13:00,13:50
+MATH 212,21528,"Radosevich, Matthew","Mon,Wed,Fri",09:00,09:50
+MATH 212,20054,"Gao, Zhiyong","Mon,Wed,Fri",11:00,11:50
+MATH 212,22129,"Huxford, Peter","Mon,Wed,Fri",13:00,13:50
+MATH 212,20055,"Huxford, Peter","Mon,Wed,Fri",11:00,11:50
+MATH 212,23693,"Wang, Stephen","Mon,Wed,Fri",10:00,10:50
+MATH 222,23694,"Mantoulidis, Christos","Mon,Wed,Fri",10:00,10:50
+MATH 232,23095,"Wong, Richard","Mon,Wed,Fri",10:00,10:50
+MATH 290,22744,"Gwaltney, Ethan","Mon,Wed",15:00,15:50
+MATH 302,20154,"Malinovitch, Tal","Mon,Wed,Fri",10:00,10:50
+MATH 322,23696,"Semmes, Stephen","Mon,Wed,Fri",11:00,11:50
+MATH 354,21331,"Katz, Nets","Mon,Wed,Fri",11:00,11:50
+MATH 355,20965,"Staffa, Bruno","Mon,Wed,Fri",10:00,10:50
+MATH 355,22092,"Staffa, Bruno","Mon,Wed,Fri",11:00,11:50
+MATH 355,23096,"Wang, Stephen","Mon,Wed,Fri",13:00,13:50
+MATH 355,23698,"Wu, Yandi","Mon,Wed,Fri",14:00,14:50
+MATH 357,22167,"Frei, Sarah","Tue,Thu",13:00,14:15
+MATH 365,22093,"Yu, Jize","Tue,Thu",14:30,15:45
+MATH 370,24696,"Nelson, Jo","Tue,Thu",09:25,10:40
+MATH 371,24697,"Gao, Zhiyong","Mon,Wed,Fri",10:00,10:50
+MATH 382,22451,"Jones, Frank","Mon,Wed,Fri",13:00,13:50
+MATH 412,24698,"Semmes, Stephen","Mon,Wed,Fri",14:00,14:50
+MATH 427,20056,"Arana-Herrera, Francisco","Mon,Wed,Fri",13:00,13:50
+MATH 433,25690,"Damanik, David","Tue,Thu",10:50,12:05
+MATH 443,25798,"Harvey, Shelly","Tue,Thu",10:50,12:05
+MATH 451,23097,"Nelson, Jo","Tue,Thu",10:50,12:05
+MATH 464,20058,"Levin, Brandon","Mon,Wed,Fri",11:00,11:50
+MATH 466,24699,"Walton, Chelsea","Tue,Thu",09:25,10:40
+MATH 468,25771,"McMillon, Emily","Mon,Wed,Fri",10:00,10:50
+MATH 490,21131,"Damanik, David",Tue,14:30,15:45
+MATH 517,20155,"Arana-Herrera, Francisco","Mon,Wed,Fri",13:00,13:50
+MATH 523,25691,"Damanik, David","Tue,Thu",10:50,12:05
+MATH 538,25799,"Harvey, Shelly","Tue,Thu",10:50,12:05
+MATH 543,23100,"Castro, Nickolas","Tue,Thu",10:50,12:05
+MATH 544,23703,"Harvey, Shelly","Tue,Thu",13:00,14:15
+MATH 551,23098,"Nelson, Jo","Tue,Thu",10:50,12:05
+MATH 564,20156,"Levin, Brandon","Mon,Wed,Fri",11:00,11:50
+MATH 566,24700,"Walton, Chelsea","Tue,Thu",09:25,10:40
+MATH 567,23101,"Varilly Alvarado, Anthony","Tue,Thu",10:50,12:05
+MATH 590,20060,"Harvey, Shelly",Thu,14:30,15:45
+MATH 591,20061,"Harris, Isabel Orcan Ekmekci, Betul Wang, Stephen Gwaltney, Ethan Pastrana, Jose Wong, Richard",Tue,14:30,15:45
+MATH 680,20157,"Arana-Herrera, Francisco Frei, Sarah",Thu,16:00,17:29
+MATH 681,20231,"Leininger, Christopher Harvey, Shelly",Mon,16:00,16:50
+MATH 682,20232,"Varilly Alvarado, Anthony Levin, Brandon",Tue,16:00,17:29
+MATH 683,20233,"Chambers, Gregory Nelson, Jo Mantoulidis, Christos",Wed,16:00,16:50
+MATH 684,22755,"Damanik, David Lukic, Milivoje",Tue,16:00,17:29
+MATH 690,21274,"Varilly Alvarado, Anthony",Fri,14:00,15:50
+MATH 690,21703,"Damanik, David",Tue,14:30,15:45
+MATH 699,20477,"Damanik, David",Wed,13:00,13:50
+MATH 699,21120,"Harvey, Shelly",Fri,16:00,16:50
+MECH 200,23225,"Schaefer, Laura","Tue,Thu",13:00,14:15
+MECH 200,25504,"Trevas, David","Tue,Thu",13:00,14:15
+MECH 203,22653,"Trevas, David","Mon,Wed,Fri",11:00,11:50
+MECH 210,25505,"Fregly, BJ","Mon,Wed,Fri",14:00,14:50
+MECH 231,21694,"Dugnani, Roberto",Tue,15:10,17:40
+MECH 231,21695,"Dugnani, Roberto",Thu,15:10,17:40
+MECH 231,25758,"Dugnani, Roberto",Mon,15:10,17:40
+MECH 310,23226,"Dugnani, Roberto","Mon,Wed,Fri",09:00,09:50
+MECH 310,24127,"Davydov, Sasha","Mon,Wed,Fri",10:00,10:50
+MECH 311,20035,"Nagarajaiah, Satish","Tue,Thu",13:00,14:15
+MECH 314,23937,"Brake, Matthew",Wed,09:00,09:50
+MECH 314,23938,"Brake, Matthew",Wed,10:00,10:50
+MECH 314,23935,"Brake, Matthew",Wed,11:00,11:50
+MECH 314,23943,"Brake, Matthew",Wed,19:00,19:50
+MECH 314,24231,"Brake, Matthew",Tue,16:30,17:20
+MECH 315,21654,"Brake, Matthew","Tue,Thu",09:25,10:40
+MECH 331,20036,"Yavas, Denizhan",Mon,15:00,17:30
+MECH 331,20037,"Yavas, Denizhan",Wed,15:00,17:30
+MECH 331,25759,"Yavas, Denizhan",Tue,15:00,17:30
+MECH 340,20038,"Henricks, Richard",Mon,14:00,16:50
+MECH 340,20160,"Henricks, Richard",Tue,14:30,17:20
+MECH 340,20039,"Henricks, Richard",Wed,14:00,16:50
+MECH 340,20161,"Henricks, Richard",Thu,14:30,17:20
+MECH 340,23520,"Henricks, Richard",Fri,14:00,16:50
+MECH 350,21655,,"Tue,Thu",10:50,12:05
+MECH 408,20178,"Trevas, David","Mon,Wed,Fri",09:00,09:50
+MECH 412,23104,"Spanos, Pol","Tue,Thu",10:50,12:05
+MECH 417,22816,"Avila, Raudel","Tue,Thu",13:00,14:15
+MECH 420,25854,"Ghorbel, Fathi","Mon,Wed,Fri",11:00,11:50
+MECH 474,25741,"Tezduyar, Tayfun","Tue,Thu",09:25,10:40
+MECH 481,20041,"Wehmeyer, Geoff","Tue,Thu",09:25,10:40
+MECH 481,22484,"Bayazitoglu, Yildiz","Tue,Thu",13:00,14:15
+MECH 487,25511,"Preston, Daniel","Tue,Thu",16:00,17:15
+MECH 488,25848,"O'Malley, Marcia","Tue,Thu",16:00,17:15
+MECH 489,25727,"Lillehoj, Peter","Tue,Thu",10:50,12:05
+MECH 498,25508,"Farrell, Logan","Tue,Thu",08:00,09:15
+MECH 502,23106,"Spanos, Pol","Tue,Thu",10:50,12:05
+MECH 503,26031,"Bhuiyan, Ariful","Mon,Wed",18:00,19:15
+MECH 517,23031,"Avila, Raudel","Tue,Thu",13:00,14:15
+MECH 525,23994,"Kong, Yong Lin","Mon,Wed",14:00,15:15
+MECH 544,23936,"Tezduyar, Tayfun","Mon,Wed,Fri",09:00,09:50
+MECH 578,21464,"Davis, Diane","Tue,Thu",16:00,17:15
+MECH 585,25510,"Sanchez, Vanessa","Tue,Thu",09:25,10:40
+MECH 587,25723,"Preston, Daniel","Tue,Thu",16:00,17:15
+MECH 588,25849,"O'Malley, Marcia","Tue,Thu",16:00,17:15
+MECH 589,23525,"Lillehoj, Peter","Tue,Thu",10:50,12:05
+MECH 590,24164,"Radke, Christopher",Fri,13:00,15:50
+MECH 596,25586,"Dugnani, Roberto","Mon,Wed,Fri",11:00,11:50
+MECH 598,25633,"Farrell, Logan","Tue,Thu",08:00,09:15
+MECH 599,26039,"Srivastava, Gagan","Tue,Thu",18:00,19:15
+MECH 606,20042,"O'Malley, Marcia",Wed,15:15,17:29
+MECH 620,25857,"Ghorbel, Fathi","Mon,Wed,Fri",11:00,11:50
+MECH 654,25735,"Tezduyar, Tayfun","Tue,Thu",09:25,10:40
+MECH 665,25509,"Brake, Matthew",Tue,15:30,17:59
+MSNE 203,25991,"Hautier, Geoffroy","Mon,Wed,Fri",14:00,14:50
+MSNE 210,24460,"Tour, James",Fri,15:00,15:50
+MSNE 211,23219,"Vajtai, Robert Tringides, Christina","Mon,Wed,Fri",10:00,10:50
+MSNE 302,21078,"Keene, Scott","Mon,Wed",15:00,16:15
+MSNE 311,22649,"Zednik, Ricardo J.","Tue,Thu",13:00,14:15
+MSNE 406,25841,"Pirie, Harris","Mon,Wed,Fri",13:00,13:50
+MSNE 408,20399,"Zednik, Ricardo J.","Tue,Thu",09:25,10:40
+MSNE 411,25988,"Ma, Xuedan","Tue,Thu",10:50,12:05
+MSNE 433,24648,"Yakobson, Boris","Tue,Thu",10:50,12:05
+MSNE 435,20378,"Han, Yimo","Mon,Wed,Fri",11:00,11:50
+MSNE 450,21092,"Vajtai, Robert",Thu,15:00,15:50
+MSNE 451,21093,"Vajtai, Robert",Thu,15:00,15:50
+MSNE 500,21094,"Vajtai, Robert",Thu,15:00,15:50
+MSNE 501,21035,"Tang, Ming",Tue,15:00,15:50
+MSNE 505,21653,"Tang, Ming","Tue,Thu",09:25,10:40
+MSNE 511,25989,"Ma, Xuedan","Tue,Thu",10:50,12:05
+MSNE 512,25925,"Zhu, Hanyu","Mon,Wed",16:00,17:15
+MSNE 533,24649,"Yakobson, Boris","Tue,Thu",10:50,12:05
+MSNE 535,20379,"Han, Yimo","Mon,Wed,Fri",11:00,11:50
+MSNE 540,23188,"Lee, Hae Yeon","Mon,Wed",14:00,15:15
+MSNE 569,23250,"John, Randy","Mon,Wed,Fri",13:00,13:50
+MSNE 594,24044,"Verduzco, Rafael","Mon,Wed",16:00,17:15
+MSNE 650,24650,"Lou, Jun","Tue,Thu",13:00,14:15
+MDEM 102,20383,"Mackie, Hilary","Mon,Wed,Fri",13:00,13:50
+MDEM 212,22891,"Somerville, Ted","Tue,Thu",09:25,10:40
+MDEM 222,20384,"Loewen, Peter","Mon,Wed,Fri",11:00,11:50
+MDEM 231,23886,"Gallant, Denva","Mon,Wed",16:00,17:15
+MDEM 271,25473,"Schwarze, Zach","Mon,Wed,Fri",10:00,10:50
+MDEM 350,25584,"Clements, Niki","Tue,Thu",13:00,14:15
+LALX 158,24565,"Branigan, Claire","Tue,Thu",08:00,09:15
+BIOS 122,21777,"Johnson, Cassidy","Tue,Thu",10:50,12:05
+BIOS 128,22095,"Flynn, Jonathan Lefeldt, Nele",Fri,13:00,13:50
+BIOS 201,21778,"Ross, Cana","Tue,Thu",09:25,10:40
+BIOS 202,21779,"Solomon, Scott","Mon,Wed,Fri",09:00,09:50
+BIOS 204,21780,"Novak, Joseph",Wed,17:00,18:00
+BIOS 207,23916,"Novak, Joseph","Tue,Thu",16:00,17:59
+BIOS 211,21781,"Catanese, Jamie Phillips, Dereth",Mon,13:00,16:50
+BIOS 211,21782,"Catanese, Jamie Phillips, Dereth",Tue,13:00,16:50
+BIOS 211,21783,"Catanese, Jamie Phillips, Dereth",Wed,13:00,16:50
+BIOS 211,21784,"Catanese, Jamie Phillips, Dereth",Thu,13:00,16:50
+BIOS 211,21785,"Catanese, Jamie Phillips, Dereth",Fri,13:00,16:50
+BIOS 211,21786,"Catanese, Jamie Phillips, Dereth","Mon,Wed",10:00,11:50
+BIOS 211,21787,"Catanese, Jamie Phillips, Dereth",Mon,13:00,16:50
+BIOS 211,21788,"Catanese, Jamie Phillips, Dereth",Tue,13:00,16:50
+BIOS 211,21789,"Catanese, Jamie Phillips, Dereth",Wed,13:00,16:50
+BIOS 211,21790,"Catanese, Jamie Phillips, Dereth",Thu,13:00,16:50
+BIOS 211,21791,"Catanese, Jamie Phillips, Dereth",Fri,13:00,16:50
+BIOS 212,21792,"Lefeldt, Nele",Tue,13:00,16:50
+BIOS 212,21793,"Olmos, Joey",Wed,13:00,16:50
+BIOS 213,24210,"Solomon, Scott",Tue,13:00,16:50
+BIOS 213,24210,"Solomon, Scott",Mon,14:00,14:50
+BIOS 271,24076,"Hartley, Maria Siemann, Evan",Thu,17:30,20:15
+BIOS 301,21803,"Shamoo, Yousif Glasscock, Cameron","Mon,Wed,Fri",11:00,11:50
+BIOS 302,21804,"Carson, Daniel","Mon,Wed,Fri",11:00,11:50
+BIOS 311,21849,"Beason-Abmayr, Beth",Mon,13:00,16:59
+BIOS 311,22291,"Beason-Abmayr, Beth",Tue,13:00,16:59
+BIOS 311,24437,"Beason-Abmayr, Beth",Wed,13:00,16:59
+BIOS 315,22955,"Lefeldt, Nele",Wed,09:00,12:00
+BIOS 315,22956,"Lefeldt, Nele",Fri,09:00,12:00
+BIOS 318,21851,"Ross, Cana",Mon,13:00,16:59
+BIOS 318,21852,"Ross, Cana",Tue,13:00,16:59
+BIOS 318,23468,"Ross, Cana",Wed,13:00,16:59
+BIOS 321,21853,"Evans, Kory","Tue,Thu",14:30,15:45
+BIOS 322,21854,"Johnson, Cassidy",Wed,13:30,17:29
+BIOS 324,24438,"Olmos, Joey",Thu,13:00,15:00
+BIOS 334,21856,"Egan, Scott","Mon,Wed,Fri",10:00,10:50
+BIOS 340,21859,"Beason-Abmayr, Beth","Tue,Thu",09:25,10:40
+BIOS 341,21861,"Phillips, Dereth","Tue,Thu",09:25,10:40
+BIOS 344,21862,"Stewart, Charles","Tue,Thu",10:50,12:05
+BIOS 368,21863,"Gustin, Michael","Tue,Thu",14:30,15:45
+BIOS 370,23143,"Matthews, Kirstin Johnson, Alicia","Tue,Thu",14:30,15:45
+BIOS 374,24445,"Kranz, Sven","Tue,Thu",09:25,10:40
+BIOS 385,24447,"Iyer, Harini","Tue,Thu",09:25,10:40
+BIOS 405,23469,"Bennett, Matthew","Tue,Thu",10:50,12:05
+BIOS 412,24442,"Glasscock, Cameron",Thu,16:00,17:59
+BIOS 423,23473,"Dunham, Amy","Tue,Thu",13:00,14:15
+BIOS 424,22292,"de Moraes, Marcos","Tue,Thu",10:50,12:05
+BIOS 442,23217,"Flynn, Jonathan Lefeldt, Nele","Wed,Fri",14:00,15:15
+BIOS 443,21904,"Wagner, Daniel","Tue,Thu",13:00,14:15
+BIOS 447,21906,"Wagner, Daniel Matthews, Kirstin","Tue,Thu",10:50,12:05
+BIOS 450,22732,"Tao, Yizhi","Tue,Thu",16:00,17:15
+BIOS 460,22294,"Uribe, Rosa","Tue,Thu",14:30,15:45
+BIOS 495,22985,"Masiello, Carrie Dunham, Amy","Tue,Thu",09:25,10:40
+BIOS 505,23471,"Bennett, Matthew","Tue,Thu",10:50,12:05
+BIOS 522,21855,"Johnson, Cassidy",Wed,13:30,17:29
+BIOS 523,23474,"Dunham, Amy","Tue,Thu",13:00,14:15
+BIOS 524,22293,"de Moraes, Marcos","Tue,Thu",10:50,12:05
+BIOS 528,22096,"Flynn, Jonathan Lefeldt, Nele",Fri,13:00,13:50
+BIOS 534,21857,"Egan, Scott","Mon,Wed,Fri",10:00,10:50
+BIOS 540,21860,"Beason-Abmayr, Beth","Tue,Thu",09:25,10:40
+BIOS 543,21905,"Wagner, Daniel","Tue,Thu",13:00,14:15
+BIOS 547,21907,"Wagner, Daniel Matthews, Kirstin","Tue,Thu",10:50,12:05
+BIOS 550,22733,"Tao, Yizhi","Tue,Thu",16:00,17:15
+BIOS 558,23317,"Tohme, Alberto","Mon,Wed",18:00,19:30
+BIOS 559,21916,"Abraham, David",Tue,17:30,20:15
+BIOS 560,22295,"Uribe, Rosa","Tue,Thu",14:30,15:45
+BIOS 562,22297,"Egan, Scott",Wed,15:00,15:50
+BIOS 568,23154,"Rudolf, Volker",Mon,14:00,14:50
+BIOS 571,24085,"Hartley, Maria Siemann, Evan",Thu,17:30,20:15
+BIOS 574,24444,"Kranz, Sven","Tue,Thu",09:25,10:40
+BIOS 582,21917,"Nikonowicz, Edward Cates, Susan",Mon,14:00,15:15
+BIOS 585,24446,"Iyer, Harini","Tue,Thu",09:25,10:40
+BIOS 586,21918,"Kranz, Sven",Mon,12:00,12:45
+BIOS 588,21919,"Bartel, Bonnie McNew, James Kirienko, Natasha Uribe, Rosa Lavery, Laura Loveless, Theresa Iyer, Harini","Wed,Fri",13:30,15:30
+BIOS 589,23151,"Kranz, Sven",Thu,12:00,12:50
+BIOS 592,21921,"Kavraki, Lydia",Fri,16:00,17:15
+BIOS 593,21922,"Bartel, Bonnie Braam, Janet",Tue,11:00,12:00
+BIOS 670,23145,"Matthews, Kirstin Johnson, Alicia","Tue,Thu",14:30,15:45
+ANTH 200,22646,"Englebretson, Robert","Tue,Thu",09:25,10:40
+ANTH 206,25950,"Gyal, Huatse",Fri,12:00,14:30
+ANTH 251,24321,"Prendergast, Mary","Tue,Thu",14:30,15:45
+ANTH 302,24322,"Lu, Vivian",Mon,12:00,14:30
+ANTH 308,25726,,Fri,12:00,14:30
+ANTH 318,24323,"Morgan, Molly","Tue,Thu",13:00,14:15
+ANTH 321,24324,"Massie, Victoria",Wed,13:00,15:30
+ANTH 324,25569,"Thirumalaisamy, Sindhu","Tue,Thu",14:30,15:59
+ANTH 326,24326,"Gershon, Ilana","Tue,Thu",09:25,10:40
+ANTH 355,24330,"Morgan, Molly","Tue,Thu",10:50,12:05
+ANTH 378,25595,"Harris, Khadene","Mon,Wed",16:00,17:15
+ANTH 381,24331,"Massie, Victoria","Tue,Thu",10:50,12:05
+ANTH 388,25655,"Lu, Vivian",Mon,15:00,17:30
+ANTH 507,24332,"Howe, Cymene",Wed,16:00,18:30
+ANTH 521,24325,"Massie, Victoria",Wed,13:00,15:30
+ANTH 526,24327,"Gershon, Ilana","Tue,Thu",09:25,10:40
+ANTH 587,25872,"Lu, Vivian",Mon,15:00,17:30
+ANTH 602,22715,"Howe, Cymene",Thu,16:00,18:30
+SOSC 301,23210,"Pugh, Alex","Tue,Thu",10:50,12:05
+SOSC 302,22073,"Ferguson, Todd","Mon,Wed,Fri",10:00,10:50
+SOSC 302,22074,"Ferguson, Todd","Mon,Wed,Fri",11:00,11:50
+SOSC 302,25676,"Li, Jing","Mon,Wed,Fri",09:00,09:50
+SOSC 445,21352,"Cacho-Diaz, Julio",Tue,19:00,20:00
+SOSC 446,23149,"Kulesza, Christopher",Mon,13:00,13:50
+BIOE 320,20084,"Abidi, Sabia",Mon,13:00,16:00
+BIOE 320,20530,"Abidi, Sabia",Wed,13:00,16:00
+BIOE 320,22287,"Abidi, Sabia",Thu,13:00,16:00
+BIOE 321,20343,"Diehl, Michael","Tue,Thu",13:00,14:15
+BIOE 322,20407,"Hilton, Isaac","Mon,Wed",11:00,12:15
+BIOE 330,21651,"Bashor, Caleb","Tue,Thu",10:50,12:05
+BIOE 332,20085,"Tabor, Jeffrey Lu, George","Mon,Wed,Fri",10:00,10:50
+BIOE 342,22288,"Ghosn, Bilal","Mon,Wed",13:00,18:00
+BIOE 342,22289,"Ghosn, Bilal","Tue,Thu",13:00,18:00
+BIOE 360,20193,"Bond, Meaghan","Tue,Thu",14:30,15:45
+BIOE 365,24486,"Loyo Rosales, Jorge","Mon,Wed",11:00,12:15
+BIOE 372,20086,"Szablowski, Jerzy Grande-Allen, K. Jane","Tue,Thu",09:25,10:40
+BIOE 391,22134,"Bao, Gang","Mon,Wed,Fri",09:00,09:50
+BIOE 406,24000,"Mikos, Antonios","Mon,Wed",11:00,12:15
+BIOE 415,25768,"McHugh, Kevin","Mon,Wed",14:00,15:15
+BIOE 447,22597,"Ghosn, Bilal",Fri,13:00,17:00
+BIOE 452,20181,"Abidi, Sabia","Mon,Wed,Fri",08:30,09:50
+BIOE 484,20195,"Tkaczyk, Tomasz","Tue,Thu",13:00,14:15
+BIOE 492,24203,"Raphael, Rob","Tue,Thu",14:30,15:45
+BIOE 502,23470,"Bennett, Matthew","Tue,Thu",10:50,12:05
+BIOE 512,20287,"Tkaczyk, Tomasz","Tue,Thu",13:00,14:15
+BIOE 515,23440,"McHugh, Kevin","Mon,Wed",14:00,15:15
+BIOE 518,25763,"Igoshin, Oleg","Tue,Thu",09:25,10:40
+BIOE 520,22716,"Vlassakis, Julea","Tue,Thu",16:00,17:15
+BIOE 529,22586,"Post, Allison","Mon,Wed",18:00,19:15
+BIOE 530,22585,"Wettergreen, Matthew",Wed,09:00,12:00
+BIOE 533,22452,"Hilton, Isaac","Mon,Wed",11:00,12:15
+BIOE 537,24205,"Hilton, Isaac","Mon,Wed",14:00,15:15
+BIOE 538,23442,"Butts, Jessica","Tue,Thu",14:30,15:45
+BIOE 541,24430,"Segatori, Laura","Tue,Thu",10:50,12:05
+BIOE 548,25623,"Shah, Nishal","Tue,Thu",10:50,12:05
+BIOE 550,26016,"Nash, Amanda","Tue,Thu",16:00,17:15
+BIOE 555,24212,"Wettergreen, Matthew","Tue,Thu",09:25,10:40
+BIOE 572,22171,"Szablowski, Jerzy Grande-Allen, K. Jane","Tue,Thu",09:25,10:40
+BIOE 585,24199,"King, Michael","Wed,Fri",14:00,15:15
+BIOE 592,24204,"Raphael, Rob","Tue,Thu",14:30,15:45
+BIOE 620,23443,"Mikos, Antonios","Mon,Wed",11:00,12:15
+BIOE 628,23904,"Holmes, Kevin",Mon,12:00,13:15
+BIOE 654,25742,"Tezduyar, Tayfun","Tue,Thu",09:25,10:40
+BIOE 677,25971,"Igoshin, Oleg Santos Dias Palma, Cristina Chae, Seokjoo","Tue,Thu",09:25,10:40
+BIOE 690,22290,"Drezek, Rebekah",Tue,13:00,15:30
+BIOE 699,22573,"Lu, George Vlassakis, Julea",Thu,12:10,12:50
+RCEL 100,21308,"Van Kleeck, David Karwowski, Kazimir",Wed,15:30,17:30
+RCEL 200,21309,"Van Kleeck, David Karwowski, Kazimir",Mon,15:30,17:30
+RCEL 400,23942,"Nguyen, Thanh Karwowski, Kazimir",Wed,15:30,17:30
+RCEL 436,23444,"Webb, George W.",Thu,16:00,16:50
+RCEL 440,21711,"Karwowski, Kazimir Raja Manuri, Pavan Raja",Thu,16:00,16:50
+RCEL 450,22170,"Nguyen, Thanh Karwowski, Kazimir","Tue,Thu",13:25,14:15
+RCEL 501,23231,"Gomez, Steve",Tue,18:15,21:15
+RCEL 501,23270,"Gomez, Steve",Wed,18:30,20:00
+RCEL 502,23235,"Zettner, Claudia",Tue,18:15,21:15
+RCEL 502,23269,"Zettner, Claudia",Mon,20:00,21:30
+RCEL 503,23236,"Abusomwan, Uyiosa",Mon,18:15,21:15
+RCEL 503,23268,"Abusomwan, Uyiosa",Tue,18:30,20:00
+RCEL 504,23237,"Cokar, Marya",Wed,18:15,21:30
+RCEL 504,23267,"Cokar, Marya",Mon,18:30,20:00
+RCEL 505,23238,"Gray, Joshua",Mon,18:30,21:20
+RCEL 505,23264,"Gray, Joshua",Tue,20:00,21:30
+RCEL 506,23243,"Avalos Gauna, Edgar",Wed,16:00,18:50
+RCEL 506,23266,"Avalos Gauna, Edgar",Wed,20:00,21:30
+RCEL 507,23239,"Via, John",Thu,16:00,18:30
+RCEL 507,23265,"Via, John",Wed,18:30,20:00
+RCEL 510,25722,"Vaughn, Ginger",Tue,16:00,18:30
+RCEL 536,24070,"Webb, George W.",Thu,16:00,16:50
+RCEL 541,24139,"Via, John Karwowski, Kazimir",Fri,08:00,09:30
+RCEL 615,25486,"Porche, Germaine",Mon,15:00,18:00
+RCEL 699,23445,"Zettner, Claudia",Thu,18:00,19:29
+RCEL 699,25795,"Zettner, Claudia",Thu,07:00,08:00
+RCEL 699,23446,"Zettner, Claudia",Thu,07:00,08:00
+EMBA 912,25257,"Andrews, George",Sat,08:00,18:00
+EMBA 912,25257,"Andrews, George",Fri,15:45,18:00
+EMBA 912,25257,"Andrews, George",Sat,15:45,18:00
+EMBA 912,25257,"Andrews, George",Sat,08:00,12:30
+EMBA 912,25257,"Andrews, George",Fri,08:00,18:00
+EMBA 912,25257,"Andrews, George",Fri,08:00,10:15
+EMBA 912,25257,"Andrews, George",Fri,13:30,18:00
+EMBA 912,25257,"Andrews, George",Fri,08:00,10:15
+EMBA 912,25257,"Andrews, George",Sat,13:30,18:00
+EMBA 914,25258,"Hackett, Jim",Fri,13:30,18:00
+EMBA 914,25258,"Hackett, Jim",Fri,08:00,12:30
+EMBA 914,25258,"Hackett, Jim",Fri,13:30,18:00
+EMBA 914,25258,"Hackett, Jim",Fri,13:30,15:30
+EMBA 914,25258,"Hackett, Jim",Fri,08:00,12:30
+EMBA 922,25259,"Zhang, Anthea",Fri,08:00,12:30
+EMBA 922,25259,"Zhang, Anthea",Fri,08:00,12:30
+EMBA 922,25259,"Zhang, Anthea",Fri,13:30,18:00
+EMBA 922,25259,"Zhang, Anthea",Fri,10:30,12:30
+EMBA 922,25259,"Zhang, Anthea",Fri,08:00,12:30
+EMBA 994,25260,"Kale, Prashant",Fri,08:00,10:15
+EMBA 994,25260,"Kale, Prashant",Fri,15:45,18:00
+EMBA 994,25260,"Kale, Prashant",Fri,13:30,18:00
+EMBA 994,25260,"Kale, Prashant",Fri,13:30,18:00
+EMBA 994,25260,"Kale, Prashant",Fri,08:00,12:30
+EMBA 994,25260,"Kale, Prashant","Sun,Mon,Tue,Wed,Thu,Fri,Sat",08:00,18:00
+COMP 140,21211,"Orooji, Marmar","Tue,Thu",13:00,14:15
+COMP 140,22130,"Fu, Xiaoyun","Tue,Thu",10:50,12:05
+COMP 182,20153,"Goldman, Ron","Tue,Thu",10:50,12:05
+COMP 182,22728,"Fu, Xiaoyun","Tue,Thu",13:00,14:15
+COMP 182,22729,"Treangen, Todd","Tue,Thu",14:30,15:45
+COMP 182,23950,"Chida, Anjum","Tue,Thu",09:25,10:40
+COMP 215,22727,"Guzman Nateras, Luis Fernando","Mon,Wed,Fri",13:00,13:50
+COMP 282,24693,"Kyrillidis, Tasos Wei, Chen","Mon,Wed,Fri",11:00,11:50
+COMP 301,21419,"Ferreira Flores, Rodrigo","Tue,Thu",16:00,17:15
+COMP 312,23716,"Schreib, Rebecca","Tue,Thu",10:50,12:05
+COMP 321,22822,"Johnson, Dave Fagan, Mike Cox, Alan L.","Tue,Thu",14:30,15:45
+COMP 321,22822,"Johnson, Dave Fagan, Mike Cox, Alan L.",Tue,16:00,17:15
+COMP 321,22823,"Johnson, Dave Fagan, Mike Cox, Alan L.","Tue,Thu",14:30,15:45
+COMP 321,22823,"Johnson, Dave Fagan, Mike Cox, Alan L.",Wed,15:30,16:45
+COMP 330,22973,"Koch, Simon Myers, Risa","Mon,Wed,Fri",10:00,10:50
+COMP 364,25715,"Schreib, Rebecca",Fri,14:00,16:30
+COMP 410,20387,"Wong, Stephen","Mon,Wed,Fri",15:00,15:50
+COMP 413,23331,"Koch, Simon","Mon,Wed,Fri",13:00,13:50
+COMP 413,23952,"Stolboushkin, Alexei","Mon,Wed",14:00,15:15
+COMP 418,22426,"Mamouras, Konstantinos","Mon,Wed,Fri",10:00,10:50
+COMP 421,20075,"Johnson, Dave","Tue,Thu",10:50,12:05
+COMP 422,22974,"Mellor-Crummey, John","Tue,Thu",13:00,14:15
+COMP 423,23717,"Goldman, Ron","Tue,Thu",13:00,14:15
+COMP 424,24053,"Garg, Nakul","Tue,Thu",09:25,10:40
+COMP 427,20409,"Joyner, Mack","Tue,Thu",14:30,15:45
+COMP 440,23120,"Subramanian, Devika","Tue,Thu",09:25,10:40
+COMP 447,21689,"Balakrishnan, Guha","Mon,Wed",16:00,17:15
+COMP 449,21725,"Lan, Xinjie Shaw, Chad Barman, Arko","Mon,Wed",16:00,17:30
+COMP 458,23185,"Patel, Tirthak","Tue,Thu",16:00,17:15
+COMP 459,23142,"Lopes da Silva, Arlei","Tue,Thu",10:50,12:05
+COMP 460,22174,"Warren, Joe D.","Mon,Fri",14:00,16:15
+COMP 462,22976,"Hang, Kaiyu","Mon,Wed",16:00,17:15
+COMP 464,25716,"Schreib, Rebecca",Fri,14:00,16:30
+COMP 468,25784,"Wang, Yuke","Wed,Fri",12:30,13:45
+COMP 484,24694,"Chen, Hanjie","Mon,Wed",16:00,17:15
+COMP 498,25587,"Farrell, Logan","Tue,Thu",08:00,09:15
+COMP 502,25760,"Merenyi, Erzsebet","Tue,Thu",13:00,14:15
+COMP 518,22483,"Mamouras, Konstantinos","Mon,Wed,Fri",10:00,10:50
+COMP 521,20615,"Johnson, Dave","Tue,Thu",10:50,12:05
+COMP 523,21659,"Goldman, Ron","Tue,Thu",13:00,14:15
+COMP 529,22978,"Ng, T. S. Eugene","Tue,Thu",09:25,10:40
+COMP 534,22975,"Mellor-Crummey, John","Tue,Thu",13:00,14:15
+COMP 539,20614,"Stolboushkin, Alexei","Mon,Wed",16:00,17:15
+COMP 541,20617,"Joyner, Mack","Tue,Thu",14:30,15:45
+COMP 543,25840,"Koch, Simon Myers, Risa","Mon,Wed,Fri",10:00,10:50
+COMP 546,22193,"Balakrishnan, Guha","Mon,Wed",16:00,17:15
+COMP 549,21727,"Lan, Xinjie Shaw, Chad Barman, Arko","Mon,Wed",16:00,17:30
+COMP 549,22980,"Lan, Xinjie","Tue,Thu",18:30,19:30
+COMP 557,23122,"Subramanian, Devika","Tue,Thu",09:25,10:40
+COMP 558,23186,"Patel, Tirthak","Tue,Thu",16:00,17:15
+COMP 559,22449,"Lopes da Silva, Arlei","Tue,Thu",10:50,12:05
+COMP 562,22977,"Hang, Kaiyu","Mon,Wed",16:00,17:15
+COMP 568,25785,"Wang, Yuke","Wed,Fri",12:30,13:45
+COMP 582,22455,"Chia, Nai-Hui","Tue,Thu",14:30,15:45
+COMP 584,24695,"Chen, Hanjie","Mon,Wed",16:00,17:15
+COMP 585,25951,"Aliakbarpour, Maryam","Tue,Thu",10:50,12:05
+COMP 600,20132,"Volz, Tracy Sapoval, Nick",Mon,12:00,12:50
+COMP 600,22726,"Volz, Tracy Sapoval, Nick",Wed,12:00,12:50
+COMP 607,21105,"Vardi, Moshe","Wed,Fri",14:00,15:15
+COMP 608,25732,"Glavan, Mary Joyner, Mack","Mon,Wed",14:00,15:15
+COMP 608,25755,"Glavan, Mary Joyner, Mack","Mon,Wed",12:30,13:45
+COMP 610,22982,"Wong, Stephen","Mon,Wed",20:00,21:25
+COMP 613,22778,"Guzman Nateras, Luis Fernando",Wed,18:30,19:55
+COMP 614,22443,"Chida, Anjum",Tue,18:30,19:55
+COMP 620,25825,"Xing, Jiarong",Fri,15:00,16:15
+COMP 628,23835,"Straach, Janell",Tue,20:00,21:25
+COMP 630,21657,"Greiner, John",Thu,18:30,19:55
+COMP 642,22439,"Boominathan, Vivek","Tue,Thu",13:00,14:15
+COMP 642,22441,"Boominathan, Vivek","Tue,Thu",13:00,14:15
+COMP 642,23223,"Straach, Janell",Mon,18:30,19:55
+COMP 643,23719,"Orooji, Marmar",Wed,18:30,19:55
+COMP 643,25729,"Orooji, Marmar",Wed,18:30,19:55
+COMP 644,23313,"Paul, Sanjoy","Mon,Wed",18:30,19:55
+COMP 646,22442,"Ordonez Roman, Vicente","Tue,Thu",16:00,17:15
+COMP 650,25821,"Kavraki, Lydia",Mon,16:00,16:59
+COMP 652,22779,"Barman, Arko",Mon,18:30,19:55
+COMP 665,22446,"Warren, Joe D.","Mon,Fri",16:15,17:30
+COMP 670,25887,"Yao, Vicky",Wed,15:00,16:15
+COMP 680,22131,"Ore Monago, Tilsa",Tue,20:00,21:25
+COMP 682,23720,"Greiner, John",Thu,20:00,21:25
+UNIV 154,25685,"Kemp, Mackenzie",Thu,17:30,18:45
+UNIV 154,25689,"Kemp, Mackenzie",Thu,10:50,12:05
+UNIV 194,25750,"Velez, Caroline",Wed,12:00,12:50
+UNIV 195,24284,"Haskins, Carla",Mon,12:00,12:50
+UNIV 195,24285,"Stokes, Rogbe",Tue,17:30,18:20
+UNIV 201,20127,"Walston, Lexi","Mon,Wed",16:00,16:50
+UNIV 235,21483,"Green, Ahjah Davis, Tamara",Sat,10:00,13:00
+UNIV 250,20164,"Brewer, Elisa","Tue,Thu",14:30,15:45
+UNIV 330,21762,"Martinez, Christine",Mon,07:00,10:30
+UNIV 330,22553,"Martinez, Christine",Mon,08:30,12:00
+UNIV 330,22554,"Martinez, Christine",Tue,07:00,10:30
+UNIV 330,22555,"Martinez, Christine",Tue,08:30,12:00
+UNIV 330,22556,"Martinez, Christine",Tue,13:00,16:30
+UNIV 330,22557,"Martinez, Christine",Wed,07:00,10:30
+UNIV 330,22558,"Martinez, Christine",Wed,08:30,12:00
+UNIV 330,22559,"Martinez, Christine",Thu,07:00,10:30
+UNIV 330,22560,"Martinez, Christine",Thu,08:30,12:00
+UNIV 330,22561,"Martinez, Christine",Thu,13:00,16:30
+UNIV 330,22563,"Martinez, Christine",Mon,13:00,16:30
+UNIV 330,22564,"Martinez, Christine",Wed,13:00,16:30
+UNIV 501,20385,"McCabe, Thomas Zimmerman, Carissa",Thu,09:00,11:30
+UNIV 502,20523,"Yates, AJ Barber, Catherine",Wed,09:00,11:30
+UNIV 502,22959,"Barber, Catherine",Thu,13:00,15:30
+UNIV 502,24451,"Ahmad, Fariha Monette, Callan",Mon,13:00,15:29
+SPAN 141,22971,"P Valadares, Marcus","Mon,Wed,Fri",11:00,11:50
+SPAN 141,20542,"P Valadares, Marcus","Mon,Wed,Fri",10:00,10:50
+SPAN 142,20543,"Jacobo, Jose","Mon,Wed,Fri",09:00,09:50
+SPAN 142,20544,"Jacobo, Jose","Mon,Wed,Fri",10:00,10:50
+SPAN 158,24566,"Branigan, Claire","Tue,Thu",08:00,09:15
+SPAN 204,24569,"Stasevicius, Maria","Mon,Wed,Fri",14:00,14:50
+SPAN 263,20391,"Diaz Montalvo, Thais","Mon,Wed,Fri",09:00,09:50
+SPAN 263,22611,"Diaz Montalvo, Thais","Mon,Wed,Fri",10:00,10:50
+SPAN 264,21181,"Garcia-Rueda, Claudia","Mon,Wed,Fri",10:00,10:50
+SPAN 264,22852,"P Valadares, Marcus","Mon,Wed,Fri",09:00,09:50
+SPAN 303,21182,"Morones, Jessica","Mon,Wed,Fri",14:00,14:50
+SPAN 321,21320,"Boggiano, Aymara","Mon,Wed,Fri",10:00,10:50
+SPAN 321,23288,"Diaz Montalvo, Thais","Mon,Wed,Fri",11:00,11:50
+SPAN 321,21183,"Jacobo, Jose","Mon,Wed,Fri",14:00,14:50
+SPAN 321,22612,"Garcia-Rueda, Claudia","Mon,Wed,Fri",12:00,12:50
+SPAN 322,21321,"Boggiano, Aymara","Mon,Wed,Fri",09:00,09:50
+SPAN 322,24570,"Boggiano, Aymara","Mon,Wed,Fri",11:00,11:50
+SPAN 322,22972,"Garcia-Rueda, Claudia","Mon,Wed,Fri",11:00,11:50
+SPAN 326,25615,"Duno-Gottberg, Luis","Tue,Thu",18:00,19:15
+SPAN 332,23035,"Cicerchia, Jose","Mon,Wed",14:00,15:15
+SPAN 332,25616,"Park, Paula","Mon,Wed,Fri",10:00,10:50
+SPAN 333,24571,"Turi, Luziris","Mon,Wed",14:00,15:15
+SPAN 340,25631,"Esch, Sophie",Thu,14:30,17:00
+SPAN 342,25617,"Linhard, Tabea",Tue,16:00,18:30
+SPAN 344,24572,"Park, Paula","Mon,Wed,Fri",11:00,11:50
+SPAN 350,24573,"Salaberry, Rafael",Thu,16:00,18:30
+SPAN 368,23378,"Stasevicius, Maria",Wed,16:00,18:30
+SPAN 370,24574,"Branigan, Claire","Tue,Thu",14:30,15:45
+SPAN 384,24575,"Castro, Azucena","Tue,Thu",13:00,14:15
+SPAN 402,23379,"Branigan, Claire","Tue,Thu",09:25,10:40
+SPAN 436,24576,"Salaberry, Rafael",Fri,14:00,16:30
+SPAN 470,25567,"Aranda, Jose",Mon,15:00,17:29
+SPAN 477,25603,"Cicerchia, Jose",Mon,16:00,18:30
+SPAN 477,25868,"Cicerchia, Jose",Wed,16:00,18:30
+ARCH 102,20019,"Schaum, Troy","Mon,Wed,Fri",13:00,17:00
+ARCH 102,22141,"Tsang, Maggie","Mon,Wed,Fri",13:00,17:00
+ARCH 105,23113,"Hill, Chaney",Tue,10:50,12:05
+ARCH 105,23113,"Hill, Chaney",Thu,10:50,12:05
+ARCH 105,25605,"Hill, Chaney",Tue,10:50,12:05
+ARCH 105,25605,"Hill, Chaney",Thu,10:50,12:05
+ARCH 202,20020,"Ansari Martinez, Amna","Mon,Wed,Fri",13:00,17:00
+ARCH 202,21168,"Pope, Albert","Mon,Wed,Fri",13:00,17:00
+ARCH 302,20021,"Springer, Nicola","Mon,Wed,Fri",13:00,17:00
+ARCH 302,21140,"Vassallo Fernandez, Jesus","Mon,Wed,Fri",13:00,17:00
+ARCH 305,23449,"Ansari Martinez, Amna",Mon,19:00,21:30
+ARCH 309,20170,"Castellon Gonzalez, Juan Jose","Tue,Thu",10:50,12:05
+ARCH 313,22734,"Taylor, Rives",Thu,19:00,21:30
+ARCH 316,20198,"Redding, Stephen","Tue,Thu",16:00,17:15
+ARCH 340,25687,"Jimenez, Carlos",Wed,19:00,21:30
+ARCH 345,20283,"Blakely, Shantel","Tue,Thu",09:25,10:40
+ARCH 350,23137,"Russell, Alan",Wed,09:30,12:00
+ARCH 350,23205,"Tsang, Maggie",Fri,09:30,12:00
+ARCH 352,20219,"Hight, Christopher","Tue,Thu",09:25,10:40
+ARCH 402,20022,"Nguyen, Tung","Mon,Wed,Fri",13:00,17:00
+ARCH 402,21141,"Ting, Ian","Mon,Wed,Fri",13:00,17:00
+ARCH 423,20023,"Fleishacker, Alan","Tue,Thu",14:30,15:45
+ARCH 450,23138,"Hight, Christopher",Thu,13:00,15:30
+ARCH 450,23213,"Schneider, Brett",Tue,13:00,15:30
+ARCH 502,20025,"Jimenez, Carlos","Mon,Wed,Fri",13:00,18:00
+ARCH 504,20026,"Colopy, Andrew","Mon,Wed,Fri",13:00,18:00
+ARCH 504,21142,,"Mon,Wed,Fri",13:00,18:00
+ARCH 509,20171,"Castellon Gonzalez, Juan Jose","Tue,Thu",10:50,12:05
+ARCH 516,20199,"Redding, Stephen","Tue,Thu",16:00,17:15
+ARCH 550,23139,"Geiser, Reto",Wed,09:30,12:00
+ARCH 550,23140,"Utting, Brittany",Fri,09:30,12:00
+ARCH 602,20027,"Baronian, Georgina","Mon,Wed,Fri",13:00,18:00
+ARCH 602,21143,,"Mon,Wed,Fri",13:00,18:00
+ARCH 602,21144,"Utting, Brittany","Mon,Wed,Fri",13:00,18:00
+ARCH 623,20288,"Fleishacker, Alan","Tue,Thu",14:30,15:45
+ARCH 645,20286,"Blakely, Shantel","Tue,Thu",09:25,10:40
+ARCH 650,25688,"Blakely, Shantel",Mon,09:30,12:00
+ARCH 652,20220,"Hight, Christopher","Tue,Thu",09:25,10:40
+ARCH 655,21432,"Rivera, Monica",Wed,09:30,12:00
+MILI 106,22317,,"Tue,Wed,Thu",06:30,07:29
+MILI 109,22318,,"Tue,Wed,Thu",06:30,07:29
+MILI 122,21720,,Thu,11:00,12:59
+MILI 122,21721,,Wed,10:00,11:59
+MILI 122,21722,,Wed,13:00,14:59
+MILI 123,20365,,Thu,16:00,17:59
+MILI 202,22184,,"Tue,Thu",09:00,09:59
+MILI 202,22185,,"Tue,Thu",14:00,14:59
+MILI 203,20353,,Thu,16:00,17:59
+MILI 302,22180,,"Tue,Thu",08:30,09:59
+MILI 302,22181,,"Tue,Thu",13:30,14:59
+MILI 304,20128,,Thu,16:00,17:59
+MILI 402,20296,,"Tue,Thu",08:30,09:59
+MILI 402,23409,,"Tue,Thu",13:30,14:59
+MILI 403,22179,,Thu,16:00,17:59
+MILI 439,22178,,Wed,09:00,11:59
+ENST 100,23004,"Hill, Chaney",Tue,10:50,12:05
+ENST 100,23004,"Hill, Chaney",Thu,10:50,12:05
+ENST 100,25604,"Hill, Chaney",Tue,10:50,12:05
+ENST 100,25604,"Hill, Chaney",Thu,10:50,12:05
+ENST 201,22635,"Dee, Sylvia","Mon,Wed",14:00,15:15
+ENST 205,23530,"Feltey, Zach","Mon,Wed",14:00,15:15
+ENST 301,23531,"Hill, Chaney","Mon,Wed,Fri",10:00,10:50
+ENST 307,20046,"Cohan, Daniel","Tue,Thu",09:25,10:40
+ENST 313,22741,"Taylor, Rives",Thu,19:00,21:30
+ENST 316,22311,"Pons, Michael","Mon,Wed,Fri",09:00,09:50
+ENST 320,25677,"Hill, Chaney","Mon,Wed,Fri",13:00,13:50
+ENST 368,25731,"Schneider-Mayerson, Matthew",Tue,18:00,20:30
+ENST 406,21317,"Irvine, Charles","Tue,Thu",16:00,17:15
+ENST 480,23882,"Hartley, Peter","Mon,Wed,Fri",11:00,11:50
+COLL 101,25800,"Zimmerman, Carissa Martz, Brandon",Mon,19:00,19:50
+COLL 101,25801,"Zimmerman, Carissa Martz, Brandon",Tue,19:00,19:50
+COLL 117,25802,"Zimmerman, Carissa Canon, Matthias",Tue,18:00,18:50
+COLL 117,25874,"Zimmerman, Carissa Canon, Matthias",Thu,18:00,18:50
+COLL 128,25803,"Zimmerman, Carissa Hernandez, Charlie",Wed,18:00,18:50
+COLL 130,25858,"Zimmerman, Carissa Donovan, Zack",Wed,18:00,18:50
+COLL 133,25805,"Zimmerman, Carissa Mayer, Daphne",Mon,19:00,19:50
+COLL 135,25862,"Zimmerman, Carissa Tharakan, Maher",Tue,19:00,19:50
+COLL 140,25855,"Zimmerman, Carissa Gantcher, Miles",Wed,19:00,19:50
+COLL 141,25804,"Zimmerman, Carissa Garcia, Elle",Thu,18:00,18:50
+COLL 148,25859,"Zimmerman, Carissa Schwander, Jaclynn Lai, Karis",Mon,19:00,19:50
+COLL 161,25863,"Zimmerman, Carissa Pham, Joseph",Tue,19:00,19:50
+COLL 165,25806,"Zimmerman, Carissa Chen, Wenshi",Thu,19:00,19:50
+COLL 166,25864,"Zimmerman, Carissa Quiroz Vargas, Ignacio",Mon,18:00,18:50
+COLL 168,25866,"Zimmerman, Carissa Nguyen, Lana",Thu,19:00,19:50
+COLL 170,25865,"Zimmerman, Carissa Narra, Suhas",Wed,19:00,19:50
+COLL 171,25856,"Zimmerman, Carissa Karsner, Jenny",Mon,20:00,20:50
+COLL 173,25807,"Zimmerman, Carissa Jordan, Jacob",Tue,18:00,18:50
+COLL 227,25999,"Scott, Kenneth",Mon,19:00,19:50
+COLL 300,20289,"Link, Schuyler McCabe, Thomas",Tue,16:00,16:50
+MDHM 142,23876,"Brennan, Marcia",Mon,13:00,15:50
+MDHM 201,21306,"Shwetz, Katherine","Tue,Thu",13:00,14:15
+MDHM 266,25583,"Havens, Dallas","Tue,Thu",16:00,17:15
+MDHM 272,23884,"Hammon, Cameron","Mon,Wed,Fri",11:00,11:50
+MDHM 272,25589,"Hammon, Cameron","Mon,Wed,Fri",10:00,10:50
+MDHM 275,25506,"Jou, Chin","Tue,Thu",16:00,17:15
+MDHM 275,25507,"Hemming, Matilda","Tue,Thu",09:25,10:40
+MDHM 305,25627,"Bailar, Melissa","Mon,Wed",16:00,17:15
+MDHM 312,25564,"Houlik-Ritchey, Emily","Tue,Thu",09:25,10:40
+MDHM 315,23821,"Jou, Chin","Tue,Thu",14:30,15:45
+MDHM 320,25626,"Hemming, Matilda","Mon,Wed",11:00,12:15
+MDHM 335,23874,"Brennan, Marcia",Wed,13:00,15:50
+MDHM 378,23911,"Thomsen, Carly","Mon,Wed",14:00,15:15
+MDHM 403,21307,"Hemming, Matilda",Thu,16:00,17:15
+MDHM 430,21448,"Bailar, Melissa",Tue,16:00,17:15
+MDHM 430,24555,"Shwetz, Katherine",Tue,16:00,17:15
+CSCI 340,21997,"Moore, Bart","Tue,Thu",09:25,10:40
+SMGT 260,20138,"Crossey, Diane","Tue,Thu",10:50,12:05
+SMGT 266,21028,"Crossey, Diane","Mon,Wed,Fri",10:00,10:50
+SMGT 266,21481,"Crossey, Diane","Mon,Wed,Fri",11:00,11:50
+SMGT 276,20570,"Stallings, Tom","Tue,Thu",09:25,10:40
+SMGT 276,23083,"Stallings, Tom","Tue,Thu",10:50,12:05
+SMGT 320,23084,"Rackley, Steven","Mon,Wed",08:00,09:15
+SMGT 350,23641,"Haptonstall, Clark",Tue,13:00,15:30
+SMGT 361,21648,"Potter, Carrie",Wed,14:00,16:30
+SMGT 364,20152,"Wilka, Stephanie","Mon,Wed",14:00,15:15
+SMGT 366,20143,"Rackley, Steven","Tue,Thu",10:50,12:05
+SMGT 400,25609,"Wilka, Stephanie","Tue,Thu",16:00,17:15
+SMGT 430,25610,"Powers, Scott","Tue,Thu",14:30,15:45
+SMGT 440,25611,"Gong, Hua","Tue,Thu",09:25,10:40
+SMGT 450,21690,"Rackley, Steven","Tue,Thu",08:00,09:15
+SMGT 464,23642,"Wilka, Stephanie","Tue,Thu",14:30,15:45
+SMGT 490,23643,"Gong, Hua","Tue,Thu",10:50,12:05
+SMGT 530,25612,"Powers, Scott","Tue,Thu",14:30,15:45
+SMGT 590,23973,"Gong, Hua","Tue,Thu",10:50,12:05
+RELI 101,23632,"Fanger, Claire","Tue,Thu",16:00,17:15
+RELI 111,25462,"Bongmba, Elias K.","Mon,Wed,Fri",10:00,10:50
+RELI 112,23074,"Willingham, Rochelle","Mon,Wed,Fri",11:00,11:50
+RELI 115,25656,"Nwokocha, Eziaku",Mon,16:00,18:29
+RELI 142,23635,"Brennan, Marcia",Mon,13:00,15:50
+RELI 157,25443,"Pinn, Anthony","Tue,Thu",09:25,10:40
+RELI 201,25534,"Cook, David","Mon,Wed,Fri",09:00,09:50
+RELI 203,25444,"Henze, Matthias","Tue,Thu",13:00,14:15
+RELI 216,25445,"Pinn, Anthony","Tue,Thu",10:50,12:05
+RELI 232,24421,"Huntington, Eric","Tue,Thu",13:00,14:15
+RELI 271,25446,"Schwarze, Zach","Mon,Wed,Fri",10:00,10:50
+RELI 280,23802,"Brunton, Judith Ellen","Tue,Thu",09:25,10:40
+RELI 311,25463,"Pinn, Anthony","Tue,Thu",09:25,10:40
+RELI 328,25464,"Bongmba, Elias K.","Mon,Wed,Fri",09:00,09:50
+RELI 334,25465,"Parsons, William","Tue,Thu",14:30,15:45
+RELI 335,22633,"Brennan, Marcia",Wed,13:00,15:50
+RELI 350,25472,"Clements, Niki","Tue,Thu",13:00,14:15
+RELI 384,21566,"Cook, David","Mon,Wed,Fri",11:00,11:50
+RELI 407,25447,"Kripal, Jeffrey",Wed,16:00,18:30
+RELI 476,24625,"Wood, Philip","Tue,Thu",16:00,17:15
+RELI 528,25466,"Bongmba, Elias K.","Mon,Wed,Fri",09:00,09:50
+RELI 587,25770,"Fanger, Claire",Fri,14:00,16:29
+RELI 600,25891,"Kripal, Jeffrey",Fri,16:30,17:59
+RELI 602,25557,"Kripal, Jeffrey",Fri,13:00,15:30
+RELI 607,25467,"Kripal, Jeffrey",Wed,16:00,18:30
+RELI 654,25468,"Clements, Niki",Mon,16:00,18:29
+RELI 677,25796,"Brunton, Judith Ellen",Thu,11:30,13:29
+PORT 206,20581,"Scutti Santos, Helade","Mon,Wed,Fri",11:00,11:50
+JAPA 142,20536,"Ozaki, Naoko","Mon,Wed,Fri",09:00,09:50
+JAPA 142,20538,"Ozaki, Naoko","Mon,Wed,Fri",10:00,10:50
+JAPA 142,20539,"Ozaki, Naoko","Mon,Wed,Fri",11:00,11:50
+JAPA 264,22498,"Takayama, Hiromi","Mon,Wed,Fri",10:00,10:50
+JAPA 264,22969,"Takayama, Hiromi","Mon,Wed,Fri",12:00,12:50
+JAPA 302,22499,"Suzuki, Mamiko","Mon,Wed,Fri",10:00,10:50
+JAPA 302,22608,"Suzuki, Mamiko","Mon,Wed,Fri",11:00,11:50
+JAPA 402,22609,"Takayama, Hiromi","Mon,Wed,Fri",11:00,11:50
+LPAP 100,23953,"Gutierrez, Dexter","Tue,Thu",09:00,09:50
+LPAP 101,22118,"Bobet, Jacqueline","Mon,Wed",17:00,17:50
+LPAP 102,22367,"Lewis, Kai-Johann","Tue,Thu",09:00,09:50
+LPAP 103,22493,"Wu, Chienli",Wed,19:00,20:30
+LPAP 103,23954,"Wu, Chienli","Tue,Thu",09:25,10:15
+LPAP 105,23729,"Watkins, Chris",Wed,10:00,11:40
+LPAP 107,22368,"Gutierrez, Dexter","Tue,Thu",10:00,10:50
+LPAP 108,22723,"Peron, Mike","Tue,Thu",13:00,13:50
+LPAP 110,22369,"Barron, John","Tue,Thu",09:25,10:15
+LPAP 110,22370,"Barron, John","Mon,Wed",09:00,09:50
+LPAP 113,21462,"Oliveira, Marcia",Wed,18:40,20:10
+LPAP 115,24651,"Dugar Stephenson, Alicia",Mon,11:00,12:40
+LPAP 116,24652,"Banta, Jill","Tue,Thu",11:00,11:50
+LPAP 118,23153,"Caspersen, Cara","Tue,Thu",14:30,15:20
+LPAP 118,23732,"Watkins, Chris","Mon,Wed",15:00,15:50
+LPAP 118,24653,"Ho, Faustina",Tue,13:00,14:40
+LPAP 120,22371,"Cortez, Kris",Wed,16:00,17:40
+LPAP 135,22372,"Bobet, Jacqueline","Mon,Wed",16:00,16:50
+LPAP 137,22438,"Banta, Jill",Sat,10:30,12:15
+LPAP 138,24654,"Peron, Mike","Tue,Thu",14:00,14:50
+LPAP 139,24655,"Rapalaviciute, Indre","Mon,Wed",14:00,14:50
+LPAP 144,24656,"Banta, Jill","Tue,Thu",13:00,13:50
+LPAP 151,24130,"Rarick, Janet",Tue,15:30,16:40
+LPAP 164,23024,"Rodriguez, Jessica","Mon,Wed",13:00,13:50
+LPAP 164,23945,"Buls, Guy","Tue,Thu",14:25,15:15
+LPAP 166,22375,"McGuffee, Maggie",Wed,14:15,15:55
+LPAP 170,22720,"Lewis, Kai-Johann","Tue,Thu",10:00,10:49
+LPAP 170,24157,"Horvilleur, Denise","Mon,Wed",09:30,10:20
+LPAP 170,24158,"Horvilleur, Denise","Mon,Wed",10:30,11:20
+LPAP 170,24169,"Horvilleur, Denise","Mon,Wed",11:30,12:20
+LPAP 170,24657,"Dugar Stephenson, Alicia",Mon,13:00,14:40
+LPAP 171,22126,"Lewis, Kai-Johann","Tue,Thu",08:00,08:50
+LPAP 171,24658,"Hun, Amy","Mon,Wed",09:00,09:50
+LPAP 172,22376,"Gorman, Dan","Mon,Wed",13:00,13:50
+LPAP 172,22721,"Gorman, Dan","Tue,Thu",11:00,11:50
+LPAP 175,22132,"Wu, Ernie",Wed,19:00,20:30
+LPAP 175,23025,"Wu, Ernie","Tue,Thu",09:25,10:15
+LPAP 176,24180,"Nipe, Kenneth","Mon,Wed",09:00,09:50
+LPAP 178,22133,"Buergermeister, Jennifer",Fri,16:30,18:00
+LPAP 180,22127,"Oliveira, Marcia","Tue,Thu",17:30,18:20
+LPAP 181,22377,"Oliveira, Marcia","Tue,Thu",18:30,19:20
+LPAP 183,23559,"Wright, Andrew","Tue,Thu",14:25,15:15
+LPAP 186,22119,"Lott, Christine","Mon,Wed",13:00,13:50
+LPAP 186,22120,"Lott, Christine","Mon,Wed",14:00,14:50
+LPAP 190,24659,"Cortez, Kris",Sat,10:00,12:00
+LPAP 194,22378,"Baber, Jim",Wed,18:30,21:59
+LPAP 197,22124,"Oliveira, Marcia",Wed,17:00,18:30
+LPAP 198,22121,"Hastings, Lisa",Wed,17:00,18:30
+LEAD 205,25954,"Ullom, Kelsey Heckler, Michi",Fri,12:00,12:50
+LEAD 216,22957,"Brown, Melia",Fri,15:00,15:50
+LEAD 260,25578,"Vann, Elizabeth","Tue,Thu",10:50,12:05
+LEAD 305,26001,"Ullom, Kelsey",Tue,17:30,19:10
+LEAD 340,23447,"Avery, Vida",Wed,16:00,18:50
+LEAD 403,22958,"Reyna, Veronica",Wed,15:00,17:30
+CLIC 369,22148,"Stasevicius, Maria","Mon,Wed,Fri",10:00,10:50
+SSPB 501,23472,"Bennett, Matthew","Tue,Thu",10:50,12:05
+SOPE 502,22433,"Snell, Clete",Thu,17:30,20:00
+SOPE 506,22434,"Kulesza, Christopher",Wed,17:45,20:45
+SOPE 508,22435,"Baumgartner, Erin",Tue,17:30,20:30
+SOPE 510,23135,"Potter, Daniel",Mon,18:00,21:00
+SOPE 512,23744,"Perry, Steven",Wed,16:30,17:30
+SWGS 100,23380,"Overdorf, Vic","Tue,Thu",10:50,12:05
+SWGS 200,24608,"Thomsen, Carly","Mon,Wed",16:00,17:15
+SWGS 238,25602,"Overdorf, Vic",Thu,14:30,17:00
+SWGS 325,23077,"Diaz, Christina","Tue,Thu",14:30,15:45
+SWGS 385,24609,"Riedel, Brian","Tue,Thu",10:50,12:05
+SWGS 497,20139,"Dong, Anzi Riedel, Brian",Mon,13:00,14:59
+SWGS 501,24040,"Lurie, Susan",Tue,14:30,17:00
+GERM 142,23516,"Baig, Fatima","Mon,Wed,Fri",12:00,12:50
+GERM 264,24046,"Baig, Fatima","Mon,Wed,Fri",13:00,13:50
+GERM 302,22427,"Suetterlin, Nicole","Tue,Thu",14:30,15:45
+GERM 326,24562,"Oesmann, Astrid",Wed,16:00,18:29
+GERM 335,24563,"Blumenthal-Barby, Martin","Tue,Thu",10:50,12:05
+GERM 336,24564,"Blumenthal-Barby, Martin","Tue,Thu",09:25,10:40
+GERM 541,24179,"Baig, Fatima","Mon,Wed,Fri",11:00,11:50
+EDUC 301,24672,"Austin, Meredith","Mon,Wed",14:00,15:15
+EDUC 316,20942,"Kohn, Lawrence",Thu,18:00,20:30
+EDUC 316,24674,"Villarreal, Javier",Wed,18:00,20:30
+EDUC 320,20367,"Sanchez, Christal",Tue,18:00,20:30
+EDUC 477,25811,"Kraut, Rachel",Thu,18:00,20:30
+EDUC 501,24673,"Austin, Meredith","Mon,Wed",14:00,15:15
+EDUC 516,20941,"Kohn, Lawrence",Thu,18:00,20:30
+EDUC 516,24006,"Villarreal, Javier",Wed,18:00,20:30
+EDUC 520,22125,"Sanchez, Christal",Tue,18:00,20:30
+EDUC 540,23448,"Rangel, Brenda",Wed,18:00,20:30
+EDUC 590,23116,"Sarabia, Sam",Tue,18:00,20:30
+EDUC 597,24273,"Amstutz, Steven",Mon,18:00,20:30
+EDUC 677,25812,"Kraut, Rachel",Thu,18:00,20:30
+PHYS 100,23224,"Hoeink, Julie",Thu,16:00,16:50
+PHYS 102,20006,"Yu, Lam Dunning, Barry Hazzard, Kaden Cone, Michael Hoeink, Julie Xie, Yonglong","Mon,Wed",09:00,09:50
+PHYS 104,20553,"Xie, Yonglong",Thu,08:25,09:15
+PHYS 104,20554,"Xie, Yonglong",Thu,09:25,10:15
+PHYS 104,20555,"Cone, Michael",Thu,16:00,16:50
+PHYS 104,20556,"Cone, Michael",Fri,09:00,09:50
+PHYS 104,20557,"Dunning, Barry",Fri,09:00,09:50
+PHYS 104,20558,"Hazzard, Kaden",Fri,09:00,09:50
+PHYS 104,22094,"Dunning, Barry",Fri,10:00,10:50
+PHYS 104,20559,"Hazzard, Kaden",Fri,10:00,10:50
+PHYS 104,20560,"Hazzard, Kaden",Fri,14:00,14:50
+PHYS 104,20561,"Hoeink, Julie",Fri,15:00,15:50
+PHYS 104,22347,"Hoeink, Julie",Fri,09:00,09:50
+PHYS 104,24579,"Xie, Yonglong",Thu,16:00,16:50
+PHYS 104,25927,"Yu, Lam",Fri,09:00,09:50
+PHYS 104,25928,"Yu, Lam",Thu,08:25,09:15
+PHYS 112,20007,"Yi, Ming Dodds, Stanley","Mon,Wed,Fri",09:00,09:50
+PHYS 126,20008,"Stenson, Jared Dodds, Stanley Bonomo, Melia Beaird, Robert Acosta, Darin","Wed,Fri",10:00,10:50
+PHYS 128,23673,"Beaird, Robert",Tue,08:25,09:15
+PHYS 128,23674,"Stenson, Jared",Tue,09:25,10:15
+PHYS 128,23675,"Acosta, Darin",Tue,16:00,16:50
+PHYS 128,23676,"Acosta, Darin",Mon,09:00,09:50
+PHYS 128,23679,"Acosta, Darin",Mon,10:00,10:50
+PHYS 128,23680,"Stenson, Jared",Mon,10:00,10:50
+PHYS 128,23681,"Beaird, Robert",Mon,10:00,10:50
+PHYS 128,23682,"Bonomo, Melia",Mon,10:00,10:50
+PHYS 128,23683,"Beaird, Robert",Mon,14:00,14:50
+PHYS 128,23684,"Stenson, Jared",Mon,15:00,15:50
+PHYS 202,20009,"Hafner, Jason Yu, Lam","Mon,Wed,Fri",09:00,09:50
+PHYS 302,20010,"Long, Andrew Bradshaw, Stephen","Tue,Thu",09:25,10:40
+PHYS 302,20010,"Long, Andrew Bradshaw, Stephen",Thu,16:00,17:15
+PHYS 312,20011,"Bulchandani, Vir Li, Wei","Mon,Wed,Fri",11:00,11:50
+PHYS 355,20137,"Onuchic, Jose","Tue,Thu",14:30,15:45
+PHYS 412,20012,"Nordlander, Peter","Tue,Thu",14:30,15:45
+PHYS 416,20013,"Toffoletto, Frank","Tue,Thu",13:00,14:15
+PHYS 477,25654,"Liang, Edison","Tue,Thu",10:50,12:05
+PHYS 494,20014,"Geurts, Frank Hulet, Randy",Mon,15:00,17:59
+PHYS 512,25937,"Zhu, Hanyu","Mon,Wed",16:00,17:15
+PHYS 517,20159,"Toffoletto, Frank","Tue,Thu",13:00,14:15
+PHYS 522,20015,"Pu, Han","Tue,Thu",14:30,15:45
+PHYS 526,20016,"Dai, Pengcheng","Mon,Wed,Fri",10:00,10:50
+PHYS 532,20017,"Chan, Anthony","Mon,Wed,Fri",11:00,11:50
+PHYS 535,20380,"Han, Yimo","Mon,Wed,Fri",11:00,11:50
+PHYS 551,24580,"Onuchic, Jose","Tue,Thu",16:00,17:15
+PHYS 568,24581,"Si, Qimiao","Tue,Thu",10:50,12:05
+PHYS 571,24582,"Pagano, Guido","Mon,Wed,Fri",13:00,13:50
+PHYS 664,24583,"Foster, Matthew","Tue,Thu",09:25,10:40
+HEAL 103,20167,"Anding, Roberta","Tue,Thu",09:25,10:40
+HEAL 132,23724,"Kabiri, Laura","Mon,Wed",08:00,09:15
+HEAL 212,24547,"Kusters, Isabelle","Tue,Thu",09:25,10:40
+HEAL 222,21734,"Diep, Cassandra","Mon,Wed,Fri",10:00,10:50
+HEAL 313,20130,"Diep, Cassandra","Tue,Thu",13:00,14:15
+HEAL 376,23928,"Ramphul, Ryan","Mon,Wed",14:00,15:15
+HEAL 407,23504,"Onwuka, Amanda","Tue,Thu",14:30,15:45
+HEAL 412,23136,"Kusters, Isabelle","Tue,Thu",10:50,12:05
+HEAL 422,20082,"Perkins, Heidi","Mon,Wed,Fri",09:00,09:50
+HEAL 498,24552,"Onwuka, Amanda",Wed,13:00,15:30
+HEAL 507,23505,"Onwuka, Amanda","Tue,Thu",14:30,15:45
+HEAL 522,20610,"Perkins, Heidi","Mon,Wed,Fri",09:00,09:50
+ARAB 142,21179,"Elsherbiny, Hossam","Mon,Wed,Fri",09:00,09:50
+ARAB 264,21723,"Elsherbiny, Hossam","Mon,Wed,Fri",10:00,10:50
+ARAB 302,24419,"Elsherbiny, Hossam","Mon,Wed,Fri",11:00,11:50
+CHIN 142,22381,"Yeh, Meng","Mon,Wed,Fri",12:00,12:50
+CHIN 142,20532,"Yeh, Meng","Mon,Wed,Fri",10:00,10:50
+CHIN 264,20392,"Fu, Liang","Mon,Wed,Fri",10:00,10:50
+CHIN 302,24048,"Fu, Liang","Mon,Wed,Fri",11:00,11:50
+CHIN 311,23755,"Hsu, Wei-Li","Mon,Wed,Fri",14:00,14:50
+CHIN 329,25636,"Fu, Liang","Mon,Wed,Fri",14:00,14:50
+CHIN 402,21996,"Hsu, Wei-Li","Mon,Wed,Fri",12:00,12:50
+HIST 102,23590,"Caldwell, Carl","Mon,Wed,Fri",09:00,09:50
+HIST 112,24522,"Takriti, Abdel Razzaq","Tue,Thu",09:25,10:40
+HIST 201,25582,"Henze, Matthias","Tue,Thu",13:00,14:15
+HIST 220,23591,"Lopez Alonso, Moramay","Tue,Thu",10:50,12:05
+HIST 227,23010,"Correa Ochoa, Laura","Tue,Thu",16:00,17:15
+HIST 238,25530,"Gan, Quan","Tue,Thu",14:30,15:45
+HIST 246,23594,"McDaniel, Caleb","Tue,Thu",09:25,10:40
+HIST 249,24524,"Wildenthal, Lora","Tue,Thu",13:00,14:15
+HIST 250,23012,"Metcalf, Alida","Mon,Wed,Fri",10:00,10:50
+HIST 260,24525,"Tomasson, Julia","Tue,Thu",09:25,10:40
+HIST 269,25532,"Osei-Opare, Nana","Tue,Thu",10:50,12:05
+HIST 307,23597,"Wright, Susannah","Mon,Wed,Fri",10:00,10:50
+HIST 325,24526,"Campos, Luis","Mon,Wed",14:00,15:15
+HIST 332,24527,"Sidbury, James","Mon,Wed,Fri",13:00,13:50
+HIST 346,24530,"Petrick, Elizabeth","Mon,Wed,Fri",11:00,11:50
+HIST 359,24532,"Citino, Nathan","Mon,Wed,Fri",09:00,09:50
+HIST 361,26018,"Mogen, Philip","Tue,Thu",16:00,17:15
+HIST 365,24533,"Lopez Alonso, Moramay","Tue,Thu",14:30,15:45
+HIST 368,24424,"Balabanlilar, Lisa",Mon,18:30,21:00
+HIST 378,24534,"Takriti, Abdel Razzaq","Tue,Thu",13:00,14:15
+HIST 380,25573,"Lu, Sidney","Tue,Thu",10:50,12:05
+HIST 390,22643,"Hall, Randal",Wed,18:00,20:30
+HIST 391,24535,"Campos, Luis","Mon,Wed",16:00,17:15
+HIST 392,23601,"Pollnitz, Aysha","Mon,Wed,Fri",15:00,15:50
+HIST 404,22717,"Mogen, Philip",Tue,18:30,21:00
+HIST 414,24536,"Caldwell, Carl",Mon,14:00,16:30
+HIST 464,24537,"Shimizu, Sayuri",Wed,13:00,15:30
+HIST 497,24538,"McDaniel, Caleb",Thu,13:00,15:30
+HIST 514,25529,"Petrick, Elizabeth",Mon,14:00,16:29
+HIST 570,24541,"Hall, Randal",Tue,13:00,15:30
+HIST 579,24542,"Bryant, Sherwin",Wed,09:00,11:30
+HIST 580,23706,"Sidbury, James",Thu,13:00,15:30
+HIST 590,24543,"Ward, Kerry",Wed,14:00,16:30
+PSYC 101,20106,"Nicolaou, Colette","Tue,Thu",10:50,12:05
+PSYC 101,20168,"Nicolaou, Colette","Tue,Thu",13:00,14:15
+PSYC 101,22613,"Hooge, Kim","Mon,Wed,Fri",10:00,10:50
+PSYC 102,22067,"Khalid, Maha",Thu,16:00,16:50
+PSYC 202,20108,"Parsons, Sandra","Mon,Wed,Fri",13:00,13:50
+PSYC 203,20107,"Hooge, Kim","Mon,Wed,Fri",14:00,14:50
+PSYC 203,22327,"Maynard, Mark","Tue,Thu",09:25,10:40
+PSYC 203,22328,"Byrne, Michael","Mon,Wed,Fri",13:00,13:50
+PSYC 231,22704,"Fernandez Castillo, Gabi","Tue,Thu",08:00,09:15
+PSYC 308,23051,"Zahn, Rachel","Mon,Wed,Fri",10:00,10:50
+PSYC 310,24628,"Zahn, Rachel","Mon,Wed,Fri",14:00,14:50
+PSYC 311,23134,"Adam, Kirsten","Tue,Thu",09:25,10:40
+PSYC 321,21334,"Westmoreland, Kirsten","Mon,Wed,Fri",10:00,10:50
+PSYC 330,23052,"Westmoreland, Kirsten","Mon,Wed,Fri",11:00,11:50
+PSYC 332,25888,"Garcini, Luz Mistry, Sejal","Mon,Wed",15:00,16:15
+PSYC 333,24629,"Lesane-Brown, Chase","Tue,Thu",13:00,14:15
+PSYC 340,21453,"Hooge, Kim","Mon,Wed,Fri",11:00,12:10
+PSYC 340,21454,"Zahn, Rachel","Tue,Thu",14:30,16:15
+PSYC 345,23761,"Standen, Erin","Tue,Thu",09:25,10:40
+PSYC 346,25935,"Fagundes, Christopher",Wed,15:00,17:30
+PSYC 351,24630,"DeLucia, Pat","Tue,Thu",13:00,14:15
+PSYC 353,23053,"Westmoreland, Kirsten","Tue,Thu",09:25,10:40
+PSYC 354,24631,"Denny, Bryan","Tue,Thu",14:30,15:45
+PSYC 362,21083,"Moore, Bart","Mon,Wed,Fri",11:00,11:50
+PSYC 362,22873,"Maynard, Mark","Tue,Thu",14:30,15:45
+PSYC 366,22068,"Denny, Bryan","Tue,Thu",16:00,17:15
+PSYC 440,24632,"Sun, Tianjun",Mon,14:00,16:30
+PSYC 441,24633,"Chen, Jing","Tue,Thu",14:30,15:45
+PSYC 455,22616,"Nicolaou, Colette","Tue,Thu",09:25,10:40
+PSYC 480,24634,"Maynard, Mark","Mon,Wed,Fri",09:00,09:50
+PSYC 480,24635,"Parsons, Sandra","Mon,Wed,Fri",14:00,14:50
+PSYC 488,20242,"Adam, Kirsten",Thu,08:25,09:15
+PSYC 488,20243,"Zahn, Rachel",Thu,08:25,09:15
+PSYC 488,21337,"Beier, Margaret",Thu,08:25,09:15
+PSYC 488,20247,"Byrne, Michael",Thu,08:25,09:15
+PSYC 488,20548,"Chen, Jing",Thu,08:25,09:15
+PSYC 488,20279,"DeLucia, Pat",Thu,08:25,09:15
+PSYC 488,20981,"Denny, Bryan",Thu,08:25,09:15
+PSYC 488,20109,"Fagundes, Christopher",Thu,08:25,09:15
+PSYC 488,21338,"Fischer-Baum, Simon",Thu,08:25,09:15
+PSYC 488,21170,"Garcini, Luz",Thu,08:25,09:15
+PSYC 488,20244,"Hebl, Mikki",Thu,08:25,09:15
+PSYC 488,22617,"Hooge, Kim",Thu,08:25,09:15
+PSYC 488,22069,"Jordan, Danielle",Thu,08:25,09:15
+PSYC 488,20983,"King, Eden",Thu,08:25,09:15
+PSYC 488,20245,"Kortum, Philip",Thu,08:25,09:15
+PSYC 488,21129,"Sun, Tianjun",Thu,08:25,09:15
+PSYC 488,20246,"Lesane-Brown, Chase",Thu,08:25,09:15
+PSYC 488,20982,,Thu,08:25,09:15
+PSYC 488,20549,"Maynard, Mark",Thu,08:25,09:15
+PSYC 488,23060,"Moore, Bart",Thu,08:25,09:15
+PSYC 488,20980,"Nicolaou, Colette",Thu,08:25,09:15
+PSYC 488,22618,"Standen, Erin",Thu,08:25,09:15
+PSYC 488,23061,"Parsons, Sandra",Thu,08:25,09:15
+PSYC 488,23062,"Salas, Eduardo",Thu,08:25,09:15
+PSYC 488,23063,"Westmoreland, Kirsten",Thu,08:25,09:15
+PSYC 503,20111,"Osborn, Seth","Tue,Thu",13:00,14:15
+PSYC 520,23064,"Adam, Kirsten",Mon,15:00,17:30
+PSYC 529,20112,"Adam, Kirsten",Mon,12:30,13:59
+PSYC 531,20114,"Chen, Jing",Tue,12:10,12:55
+PSYC 532,21171,"Adam, Kirsten",Mon,12:30,13:59
+PSYC 533,20113,"Brossoit, Rebecca",Mon,12:00,12:50
+PSYC 541,24636,"Chen, Jing","Tue,Thu",14:30,15:45
+PSYC 549,24637,"Fagundes, Christopher",Fri,09:00,11:30
+PSYC 571,20994,"Adam, Kirsten",Wed,08:00,08:50
+PSYC 571,20115,"Beier, Margaret",Wed,08:00,08:50
+PSYC 571,20993,"Byrne, Michael",Wed,08:00,08:50
+PSYC 571,21342,"Chen, Jing",Wed,08:00,08:50
+PSYC 571,20995,"DeLucia, Pat",Wed,08:00,08:50
+PSYC 571,20996,"Denny, Bryan",Wed,08:00,08:50
+PSYC 571,20845,"Fagundes, Christopher",Wed,08:00,08:50
+PSYC 571,22621,"Fischer-Baum, Simon",Wed,08:00,08:50
+PSYC 571,22622,"Garcini, Luz",Wed,08:00,08:50
+PSYC 571,21343,"Hebl, Mikki",Wed,08:00,08:50
+PSYC 571,21173,"Jordan, Danielle",Wed,08:00,08:50
+PSYC 571,20997,"King, Eden",Wed,08:00,08:50
+PSYC 571,20846,"Kortum, Philip",Wed,08:00,08:50
+PSYC 571,20998,"Sun, Tianjun",Wed,08:00,08:50
+PSYC 571,20847,"Standen, Erin",Wed,08:00,08:50
+PSYC 571,20848,,Wed,08:00,08:50
+PSYC 571,23067,"Salas, Eduardo",Wed,08:00,08:50
+PSYC 571,23787,"Brossoit, Rebecca",Wed,08:00,08:50
+PSYC 600,22071,"Byrne, Michael",Wed,14:00,14:50
+PSYC 630,23325,"Mueller, Stephen",Wed,13:00,15:30
+PSYC 630,23793,"Brossoit, Rebecca",Mon,15:00,17:30
+PSYC 634,22329,"Beier, Margaret",Wed,09:00,11:30
+PSYC 636,23110,"Brossoit, Rebecca",Tue,10:00,12:30
+PSYC 660,24638,"Kortum, Philip","Tue,Thu",10:50,12:05
+NEUR 362,21084,"Moore, Bart","Mon,Wed,Fri",11:00,11:50
+NEUR 362,22876,"Maynard, Mark","Tue,Thu",14:30,15:45
+NEUR 411,25674,"Kemmer, Suzanne","Tue,Thu",10:50,12:05
+NEUR 416,25980,"Flynn, Jonathan","Mon,Wed,Fri",11:00,11:50
+NAVA 103,20330,"Hansen, Trevor","Mon,Wed",10:50,12:10
+NAVA 301,20105,"Davis, Danyelle","Mon,Wed",08:00,09:15
+NAVA 304,20331,"Hansen, Trevor","Mon,Wed",09:25,10:45
+NAVA 402,21110,"Kinter, Michael","Tue,Thu",08:00,09:15
+LING 200,22645,"Englebretson, Robert","Tue,Thu",09:25,10:40
+LING 301,22647,"Crouch, Caroline","Mon,Wed,Fri",11:00,11:50
+LING 303,24361,"McCleary, Bryce","Tue,Thu",13:00,14:15
+LING 306,21145,"Kemmer, Suzanne","Tue,Thu",14:30,15:45
+LING 400,22313,"McCleary, Bryce","Tue,Thu",09:25,10:40
+LING 411,25659,"Kemmer, Suzanne","Tue,Thu",10:50,12:05
+LING 419,25658,"Crouch, Caroline","Mon,Wed,Fri",13:00,13:50
+LING 477,25769,"Niedzielski, Nancy","Mon,Wed,Fri",10:00,10:50
+LING 499,23029,"Crouch, Caroline","Mon,Wed",16:00,17:15
+HUMA 111,21520,"McGill, Scott","Mon,Wed,Fri",16:00,16:50
+HUMA 139,25644,"Duno-Gottberg, Luis","Tue,Thu",16:00,17:15
+HUMA 140,25647,"Duquet, Valentin","Wed,Fri",11:00,12:15
+HUMA 201,20172,"Worth, David","Tue,Thu",13:00,14:15
+HUMA 210,20200,"LaBove, Shannon",Tue,18:00,19:59
+HUMA 308,23941,"LaBove, Shannon","Tue,Thu",10:50,12:05
+HUMA 310,20249,"Worth, David",Tue,16:00,18:00
+HUMA 314,24544,"Worth, David","Tue,Thu",10:50,12:05
+HUMA 317,20545,"LaBove, Shannon","Tue,Thu",14:30,15:45
+HUMA 372,25577,"Oesmann, Astrid",Wed,16:00,18:29
+HUMA 499,25739,"Lu, Sidney","Mon,Tue,Wed,Thu,Fri",09:00,17:29
+HUMA 500,24545,"Gallant, Denva Correa Ochoa, Laura",Tue,08:00,09:50
+HUMA 502,24546,"Esch, Sophie",Tue,14:30,17:00
+HUMA 504,25503,"Garcia, Gabriela",Thu,14:30,16:10
+MGMW 502,25435,"Wilson, David",Sat,13:30,18:30
+MGMW 502,25435,"Wilson, David",Sat,07:30,12:30
+MGMW 502,25435,"Wilson, David",Sat,13:30,18:30
+MGMW 502,25435,"Wilson, David",Fri,16:00,21:30
+MGMW 511,25436,"Sonenshein, Scott",Fri,07:30,18:30
+MGMW 543,25437,"Umar, Tarik",Sat,07:30,12:30
+MGMW 543,25437,"Umar, Tarik",Fri,16:00,21:30
+MGMW 543,25437,"Umar, Tarik",Sat,07:30,12:30
+MGMW 543,25437,"Umar, Tarik",Sat,13:30,18:30
+MGMW 543,25437,"Umar, Tarik",Sat,07:30,12:30
+MGMW 543,25437,"Umar, Tarik",Fri,16:00,21:30
+MGMW 543,25437,"Umar, Tarik",Sat,07:30,12:30
+MGMW 543,25437,"Umar, Tarik",Fri,16:00,21:30
+MGMW 574,25438,"Pazgal, Amit",Fri,16:00,21:30
+MGMW 574,25438,"Pazgal, Amit",Sat,13:30,18:30
+MGMW 574,25438,"Pazgal, Amit",Fri,16:00,21:30
+MGMW 574,25438,"Pazgal, Amit",Sat,07:30,12:30
+MGMW 580,25439,"Porter, Constance",Fri,16:00,21:30
+MGMW 580,25439,"Porter, Constance",Sat,13:30,18:30
+MGMW 580,25439,"Porter, Constance",Fri,16:00,21:30
+MGMW 580,25439,"Porter, Constance",Sat,07:30,12:30
+MGMW 580,25439,"Porter, Constance",Sat,13:30,18:30
+MGMW 580,25439,"Porter, Constance",Sat,07:30,12:30
+MGMW 580,25439,"Porter, Constance",Sat,13:30,18:30
+MGMW 580,25439,"Porter, Constance",Sat,13:30,18:30
+MGMW 706,25441,"Smith, Brent",Fri,07:30,18:30
+MGMW 706,25441,"Smith, Brent",Sat,07:30,18:30
+BUSI 150,24009,"Vidal, Jorge","Mon,Wed,Fri",10:00,10:50
+BUSI 220,22773,"Panahi, Hesam","Tue,Thu",09:25,10:40
+BUSI 221,23957,"Panahi, Hesam","Tue,Thu",13:00,14:15
+BUSI 223,25497,"Ray, Patrick","Tue,Thu",16:00,17:15
+BUSI 305,20134,"Joffre, Anthony","Tue,Thu",08:00,09:15
+BUSI 305,20135,"Joffre, Anthony","Tue,Thu",13:00,14:15
+BUSI 305,22212,"Joffre, Anthony","Tue,Thu",14:30,15:45
+BUSI 305,23169,"Joffre, Anthony","Tue,Thu",08:00,09:15
+BUSI 305,23170,"Joffre, Anthony","Tue,Thu",13:00,14:15
+BUSI 305,23171,"Joffre, Anthony","Tue,Thu",14:30,15:45
+BUSI 310,21447,"Kwon, Mijeong","Tue,Thu",10:50,12:05
+BUSI 310,23960,"Kwon, Mijeong","Tue,Thu",09:25,10:40
+BUSI 310,25791,"Dhruva, Isha","Mon,Wed",14:00,15:15
+BUSI 310,25792,"Jiang, Zhenye","Mon,Wed",08:00,09:15
+BUSI 310,25793,"Shen, Manjiang","Tue,Thu",14:30,15:45
+BUSI 343,22431,"Piqueira, Natalia","Mon,Wed,Fri",10:00,10:50
+BUSI 343,23159,"Piqueira, Natalia","Mon,Wed,Fri",13:00,13:50
+BUSI 343,23961,"Vidal, Jorge","Tue,Thu",16:00,17:15
+BUSI 360,23184,"Judah, Kyle",Mon,18:00,18:50
+BUSI 361,22150,"Massaro, Diana",Wed,13:00,13:50
+BUSI 365,25762,"Panahi, Hesam Wulf, Adam",Mon,14:00,15:15
+BUSI 369,23163,"Randolph, Sophie","Tue,Thu",10:50,12:05
+BUSI 371,23172,"Prinsloo, Emily","Tue,Thu",16:00,17:15
+BUSI 374,22735,"Kerimov, Suleyman","Tue,Thu",13:00,14:15
+BUSI 374,22736,"Kerimov, Suleyman","Tue,Thu",14:30,15:45
+BUSI 380,20145,"Chung, Jaeyeon","Mon,Wed",12:30,13:45
+BUSI 380,20207,"Chung, Jaeyeon","Mon,Wed",14:00,15:15
+BUSI 390,20403,"Pan Fang, Tommy","Tue,Thu",08:00,09:15
+BUSI 390,20404,"Pan Fang, Tommy","Tue,Thu",09:25,10:40
+BUSI 390,23164,"Pan Fang, Tommy","Tue,Thu",08:00,09:15
+BUSI 390,23165,"Pan Fang, Tommy","Tue,Thu",09:25,10:40
+BUSI 395,22763,"Hamidieh, Kam","Mon,Wed",08:00,09:15
+BUSI 395,22763,"Hamidieh, Kam",Wed,12:00,12:50
+BUSI 395,22764,"Hamidieh, Kam","Mon,Wed",08:00,09:15
+BUSI 395,22764,"Hamidieh, Kam",Wed,14:00,14:50
+BUSI 395,22765,"Hamidieh, Kam","Mon,Wed",09:25,10:40
+BUSI 395,22765,"Hamidieh, Kam",Wed,15:00,15:50
+BUSI 395,22766,"Hamidieh, Kam","Mon,Wed",09:25,10:40
+BUSI 395,22766,"Hamidieh, Kam",Wed,16:00,16:50
+BUSI 396,23964,"Russell, Jeff","Mon,Wed,Fri",09:00,09:50
+BUSI 396,23965,"Russell, Jeff","Mon,Wed,Fri",10:00,10:50
+BUSI 405,20402,"Lansford, Benjamin","Mon,Wed,Fri",11:00,11:50
+BUSI 420,23173,"Miles, Jonathan","Tue,Thu",08:00,09:15
+BUSI 420,23178,"Miles, Jonathan","Tue,Thu",08:00,09:15
+BUSI 421,23160,"Miles, Jonathan","Mon,Wed",14:00,15:15
+BUSI 430,22738,"Lansford, Benjamin","Mon,Wed,Fri",12:00,12:50
+BUSI 430,25592,"Lansford, Benjamin","Mon,Wed,Fri",12:00,12:50
+BUSI 431,23161,"Jue-Rajasingh, Diana","Tue,Thu",10:50,12:05
+BUSI 432,22432,"Windsor, Duane","Tue,Thu",09:25,10:40
+BUSI 447,23162,"Barry, John","Tue,Thu",13:00,14:15
+BUSI 447,23967,"Barry, John","Tue,Thu",14:30,15:45
+BUSI 448,22737,"Crotty, Kevin","Tue,Thu",10:50,12:05
+BUSI 448,23968,"Crotty, Kevin","Tue,Thu",09:25,10:40
+BUSI 463,21446,"Tonar, Remington","Tue,Thu",14:30,15:45
+BUSI 465,21704,"Beatty, Deric",Mon,18:15,21:30
+BUSI 480,22740,"Lee, Jung Youn","Mon,Wed",11:00,12:15
+BUSI 521,22149,"Back, Kerry","Tue,Thu",14:30,15:45
+BUSI 524,25499,"Crotty, Kevin",Tue,13:00,16:00
+BUSI 525,25500,"Johnson, Stephanie",Wed,13:00,15:59
+BUSI 533,20274,"Sivaramakrishnan, Shiva",Thu,13:00,16:59
+BUSI 541,21108,"Zhang, Anthea",Mon,09:00,12:00
+BUSI 552,24037,"Piazza, Alessandro",Fri,09:00,12:00
+BUSI 566,25501,"Kwon, Mijeong",Fri,13:00,15:59
+BUSI 573,25502,"Kerimov, Suleyman",Tue,16:30,19:30
+BUSI 721,22780,"Back, Kerry",Mon,20:00,21:30
+BUSI 722,22798,"Back, Kerry",Mon,20:00,21:30
+KORE 142,20540,"Oh, Eun Young","Mon,Wed,Fri",11:00,11:50
+KORE 142,24429,"Oh, Eun Young","Mon,Wed,Fri",14:00,14:50
+KORE 264,22610,"Choi, Jaesu","Mon,Wed,Fri",10:00,10:50
+KORE 264,22970,"Choi, Jaesu","Mon,Wed,Fri",14:00,14:50
+KORE 302,23518,"Oh, Eun Young","Mon,Wed,Fri",13:00,13:50
+KORE 401,23519,"Choi, Jaesu","Mon,Wed,Fri",11:00,11:50
+EMSP 281,20410,"George, Milan He, Nick","Mon,Wed",18:00,21:59
+MGMP 502,25269,"Aghamolla, Cyrus",Wed,18:15,21:30
+MGMP 502,25270,"Aghamolla, Cyrus",Mon,18:15,21:30
+MGMP 511,25271,"Sonenshein, Scott",Fri,08:30,18:30
+MGMP 511,25272,"Sonenshein, Scott",Sat,08:30,18:30
+MGMP 543,25273,"Guttman-Kenney, Benedict",Mon,18:15,21:30
+MGMP 543,25274,"Guttman-Kenney, Benedict",Wed,18:15,21:30
+MGMP 560,25275,"Schuler, Doug",Sat,08:30,18:30
+MGMP 560,25276,"Schuler, Doug",Fri,08:30,18:30
+MGMP 574,25277,"Pazgal, Amit",Mon,18:15,21:30
+MGMP 574,25277,"Pazgal, Amit",Tue,18:15,21:30
+MGMP 574,25277,"Pazgal, Amit",Mon,18:15,21:30
+MGMP 574,25278,"Pazgal, Amit",Wed,18:15,21:30
+MGMP 580,25279,"Borle, Sharad",Wed,18:15,21:30
+MGMP 580,25280,"Borle, Sharad",Mon,18:15,21:30
+MGMP 580,25280,"Borle, Sharad",Tue,18:15,21:30
+MGMP 580,25280,"Borle, Sharad",Mon,18:15,21:30
+MGMP 708,25282,"Van Knippenberg, Daniel",Fri,08:30,18:30
+MGMP 708,25282,"Van Knippenberg, Daniel",Sat,08:30,18:30
+MGMP 708,25283,"Van Knippenberg, Daniel",Fri,08:30,18:30
+MGMP 708,25283,"Van Knippenberg, Daniel",Sat,08:30,18:30
+MGMP 709,25284,"Zhou, Jing",Fri,08:30,18:30
+MGMP 709,25284,"Zhou, Jing",Sat,08:30,18:30
+MGMP 709,25285,"Zhou, Jing",Fri,08:30,18:30
+MGMP 709,25285,"Zhou, Jing",Sat,08:30,18:30
+MGMP 798,25286,"Windsor, Duane",Fri,07:30,18:30
+MGMP 798,25286,"Windsor, Duane",Sat,07:30,18:30
+MGMP 799,25287,"VanHorn, David",Thu,18:15,21:30
+MGMP 799,25287,"VanHorn, David",Thu,18:15,21:30
+MGMP 799,25287,"VanHorn, David",Thu,18:15,21:30
+MGMP 799,25287,"VanHorn, David",Thu,18:15,21:30
+MGMP 799,25287,"VanHorn, David",Thu,18:15,21:30
+MGMP 799,25287,"VanHorn, David",Thu,18:15,21:30
+MGMP 799,25288,"VanHorn, David",Fri,18:15,21:30
+MGMP 799,25288,"VanHorn, David",Fri,18:15,21:30
+MGMP 799,25288,"VanHorn, David",Fri,18:15,21:30
+MGMP 799,25288,"VanHorn, David",Fri,18:15,21:30
+MGMP 799,25288,"VanHorn, David",Fri,18:15,21:30
+MGMP 799,25288,"VanHorn, David",Fri,18:15,21:30
+AAAS 110,25624,"Bongmba, Elias K.","Mon,Wed,Fri",10:00,10:50
+AAAS 115,25673,"Nwokocha, Eziaku",Mon,16:00,18:29
+AAAS 157,25708,"Pinn, Anthony","Tue,Thu",09:25,10:40
+AAAS 200,22858,"Sainte-Claire, Linsey","Tue,Thu",10:50,12:05
+AAAS 217,25621,"Pinn, Anthony","Tue,Thu",10:50,12:05
+AAAS 269,25657,"Osei-Opare, Nana","Tue,Thu",10:50,12:05
+AAAS 309,25628,"Muvhuti, Barnabas","Tue,Thu",16:00,17:15
+AAAS 317,23890,"Jou, Chin","Tue,Thu",14:30,15:45
+AAAS 318,23976,"Hordge-Freeman, Elizabeth","Tue,Thu",13:00,14:15
+COMM 220,25875,"Parker, Steph D.C.",Tue,16:00,16:50
+COMM 220,25876,"Parker, Steph D.C.",Tue,17:30,18:20
+COMM 220,25877,"Parker, Steph D.C.",Wed,19:00,19:50
+COMM 600,22387,"Wilson, Jennifer Zafaranian, Neda",Wed,16:00,17:45
+COMM 601,22408,"Zafaranian, Neda",Thu,12:15,13:59
+COMM 601,26011,"Zafaranian, Neda",Tue,12:15,13:59
+COMM 602,22388,"Burch, Paul",Tue,17:30,19:15
+HONS 471,22458,"Olmos, Joey Walston, Lexi",Tue,17:00,18:15
+HART 201,24405,"Crawford-Brown, Sophie","Mon,Wed",14:00,15:15
+HART 202,24406,"Hughes, Gordon Franco, Ana","Tue,Thu",09:25,10:40
+HART 207,25774,"Manca, Joseph","Mon,Wed,Fri",09:00,09:50
+HART 209,22685,"Winningham, Geoffrey","Tue,Thu",10:50,12:05
+HART 226,25788,"Huntington, Eric","Tue,Thu",16:00,17:15
+HART 231,23810,"Gallant, Denva","Mon,Wed",16:00,17:15
+HART 284,24402,"Dove, Charles",Mon,14:00,17:50
+HART 286,22820,"Snow, Edward","Tue,Thu",16:00,17:15
+HART 307,24408,"Crawford-Brown, Sophie",Fri,13:00,15:30
+HART 309,23760,"Muvhuti, Barnabas","Tue,Thu",16:00,17:15
+HART 319,24409,"Emami, Farshid","Tue,Thu",14:30,15:45
+HART 336,24411,"Oukaderova, Lida",Tue,16:00,18:29
+HART 342,24413,"Manca, Joseph","Tue,Thu",13:00,14:15
+HART 345,20282,"Blakely, Shantel","Tue,Thu",09:25,10:40
+HART 349,23464,"Hainley, Bruce",Wed,18:30,21:20
+HART 369,24415,"Hughes, Gordon",Wed,19:00,21:30
+HART 371,25571,"Huang, Shih-Shan","Mon,Wed",14:00,15:15
+HART 380,25566,"Williamson, Clinton","Tue,Thu",14:30,15:45
+HART 391,25698,"Diel, Lori","Tue,Thu",09:25,10:40
+HART 393,25699,"Bader, Graham",Wed,13:00,15:30
+HART 450,24416,"El-Dahdah, Fares",Thu,16:00,18:30
+HART 519,24410,"Emami, Farshid","Tue,Thu",14:30,15:45
+HART 536,24412,"Oukaderova, Lida",Tue,16:00,18:29
+HART 542,24414,"Manca, Joseph","Tue,Thu",13:00,14:15
+HART 597,24418,"Franco, Ana",Tue,14:30,17:00
+HART 598,25496,"Dango, Michael",Fri,13:00,15:50
+HART 599,25700,"Diel, Lori",Wed,10:00,12:29
+HART 645,20284,"Blakely, Shantel","Tue,Thu",09:25,10:40
+HART 670,24417,"El-Dahdah, Fares",Thu,16:00,18:30
+ASIA 205,23156,"Schoenberger, Kevin","Tue,Thu",09:25,10:40
+ASIA 214,22948,"Huang, Shih-Shan","Mon,Wed",16:00,17:15
+ASIA 222,25585,"Banerjee, Agnibha","Mon,Wed,Fri",10:00,10:50
+ASIA 225,25778,"Chatterjee, Sourav","Mon,Wed",16:00,17:15
+ASIA 226,25777,"Huntington, Eric","Tue,Thu",16:00,17:15
+ASIA 232,24420,"Huntington, Eric","Tue,Thu",13:00,14:15
+ASIA 295,21310,"Xu, Chang Lu, Sidney","Tue,Thu",14:30,15:45
+ASIA 355,25590,"Oukaderova, Lida",Tue,16:00,18:29
+ASIA 360,24422,"Lewis, Steven",Wed,19:00,21:30
+ASIA 362,25776,"Ryang, Sonia",Wed,15:00,17:30
+ASIA 363,25775,"Chatterjee, Sourav","Mon,Wed",14:00,15:15
+ASIA 368,24423,"Balabanlilar, Lisa",Mon,18:30,21:00
+ASIA 371,24425,"Huang, Shih-Shan","Mon,Wed",14:00,15:15
+ASIA 377,24426,"Lewis, Steven",Thu,19:00,21:29
+ASIA 378,23891,"Chen, Shih-Hui",Thu,16:00,18:20
+ASIA 380,24427,"Lu, Sidney","Tue,Thu",10:50,12:05
+AFSC 102,20271,,Wed,12:00,12:50
+AFSC 102,20271,,Wed,14:30,16:20
+AFSC 202,20273,,Wed,13:00,13:50
+AFSC 202,20273,,Wed,14:30,16:20
+AFSC 302,20275,,Wed,08:00,10:59
+AFSC 302,20275,,Wed,14:30,16:20
+AFSC 402,20186,,Wed,10:00,12:50
+AFSC 402,20186,,Wed,14:30,16:20
+MUSI 117,21354,"Marvin, Tyler","Mon,Wed,Fri",09:00,09:50
+MUSI 117,24363,"Sung, Chennie","Tue,Thu",14:30,15:45
+MUSI 117,23610,"Shea, Fiona","Mon,Wed,Fri",11:00,11:50
+MUSI 205,22838,"Dunn, Susan","Tue,Thu",16:00,17:00
+MUSI 212,22040,"Blattler, Damian","Mon,Wed,Fri",10:00,10:50
+MUSI 222,20166,"Loewen, Peter","Mon,Wed,Fri",11:00,11:50
+MUSI 226,23946,"Broess, Erik","Mon,Wed,Fri",13:00,13:50
+MUSI 232,20051,"Blench, Karl Su, Szuyu","Mon,Wed,Fri",09:00,09:50
+MUSI 232,20053,"Su, Szuyu Blench, Karl","Mon,Wed,Fri",09:00,09:50
+MUSI 303,21735,"Jalbert, Pierre D.",Thu,14:30,16:00
+MUSI 307,21529,"Cui, Victor","Mon,Wed,Fri",14:00,14:50
+MUSI 312,20065,"Brandt, Anthony K.","Tue,Thu",09:25,10:40
+MUSI 317,20133,"Ortiz, Angela","Tue,Thu",13:00,14:15
+MUSI 317,22800,"Ng, Ho Fei","Mon,Wed,Fri",11:00,11:50
+MUSI 322,22450,"Kieffer, Allie","Mon,Wed,Fri",10:00,10:50
+MUSI 332,20066,"Blench, Karl Lanners, Ben","Mon,Wed,Fri",11:00,11:50
+MUSI 332,20066,"Blench, Karl Lanners, Ben",Thu,20:00,20:55
+MUSI 332,20067,"Lanners, Ben Blench, Karl","Mon,Wed,Fri",11:00,11:50
+MUSI 332,20067,"Lanners, Ben Blench, Karl",Thu,20:00,20:55
+MUSI 334,22332,"Harth-Bedoya, Miguel",Sat,10:00,12:50
+MUSI 335,22333,"Jaber, Thomas","Mon,Wed",16:00,17:30
+MUSI 339,20486,"Chan, David",Tue,13:00,15:00
+MUSI 339,20487,"Der Hovsepian, Joan",Tue,16:30,19:29
+MUSI 339,20488,"French, Christopher",Tue,16:30,19:29
+MUSI 339,20490,"LeGrand, Thomas",Tue,13:00,14:20
+MUSI 339,20485,"Barnhill, John",Tue,16:00,17:30
+MUSI 340,20091,"Throckmorton, Chuck","Tue,Thu",16:00,17:15
+MUSI 340,22848,"Throckmorton, Chuck","Tue,Thu",19:00,20:30
+MUSI 342,20092,"Kamins, Danny",Mon,19:00,22:00
+MUSI 342,20093,"Kamins, Danny",Sun,18:00,19:30
+MUSI 378,23616,"Chen, Shih-Hui",Thu,16:00,18:20
+MUSI 379,23617,"Brandt, Anthony K.","Tue,Thu",13:00,14:15
+MUSI 389,20094,"Fischer, Jeanne K.",Thu,16:00,17:30
+MUSI 404,20095,"Welch, Chapman","Mon,Wed,Fri",13:00,13:50
+MUSI 405,20531,"Gottschalk, Arthur W.","Tue,Thu",10:50,12:05
+MUSI 410,22041,"Rarick, Janet Kamins, Benjamin",Mon,19:15,20:15
+MUSI 432,20104,"Gottschalk, Arthur W.","Tue,Thu",09:25,10:40
+MUSI 502,23037,"Hou, Jerry",Mon,09:00,10:30
+MUSI 506,24369,"Stallmann, Kurt",Tue,18:00,19:30
+MUSI 507,20197,"Welch, Chapman","Tue,Thu",10:50,12:05
+MUSI 508,21160,"Park, Sohyoung",Wed,12:00,13:30
+MUSI 510,21031,"Rarick, Janet","Tue,Thu",10:50,12:05
+MUSI 512,25670,"Blattler, Damian","Mon,Wed,Fri",09:00,09:50
+MUSI 516,20342,"Jalbert, Pierre D.",Tue,14:30,17:00
+MUSI 519,22334,"Dunn, Susan","Mon,Wed",13:00,13:50
+MUSI 522,20099,"Ward-Griffin, Danielle","Tue,Thu",10:50,12:05
+MUSI 529,24370,"Ferris, David","Tue,Thu",10:50,12:05
+MUSI 531,20441,"Chan, David",Tue,13:00,15:00
+MUSI 531,20442,"Der Hovsepian, Joan",Tue,16:30,19:29
+MUSI 531,20443,"French, Christopher",Tue,16:30,19:29
+MUSI 531,20445,"LeGrand, Thomas",Tue,13:00,14:20
+MUSI 531,20446,"Barnhill, John",Tue,16:00,17:30
+MUSI 540,21530,"Kamins, Danny","Tue,Thu",10:50,12:05
+MUSI 549,24371,"Procter, Teresa B.","Mon,Wed,Fri",09:00,09:50
+MUSI 553,24372,"Palmer, James","Tue,Thu",09:25,10:40
+MUSI 576,20100,"Maus, Lyndsi","Mon,Wed",14:00,14:50
+MUSI 578,25884,"Munger, Alex","Tue,Thu",10:50,12:05
+MUSI 587,20196,"Self, Bethany","Mon,Wed",10:00,10:50
+MUSI 603,21736,"Jalbert, Pierre D.",Thu,14:30,16:00
+MUSI 606,24374,"Stallmann, Kurt",Mon,14:00,16:30
+MUSI 611,22335,"Lavenda, Richard","Tue,Thu",09:25,10:40
+MUSI 617,21161,"Chen, Shih-Hui","Tue,Thu",13:00,14:15
+MUSI 619,24375,"Park, Sohyoung",Mon,12:00,13:20
+MUSI 621,24376,"Ward-Griffin, Danielle","Tue,Thu",13:00,14:15
+MUSI 625,24377,"Ferris, David","Tue,Thu",13:00,14:15
+MUSI 640,22336,"Jaber, Thomas","Mon,Wed",16:00,17:30
+MUSI 717,24379,"Loewen, Peter","Mon,Wed,Fri",10:00,10:50
+MUSI 737,23624,"Broess, Erik","Mon,Wed,Fri",11:00,11:50
+FOTO 205,21431,"Greene, Elissa","Tue,Thu",13:00,15:50
+FOTO 205,23392,"Greene, Elissa","Tue,Thu",18:00,20:50
+FOTO 210,22684,"Winningham, Geoffrey","Tue,Thu",10:50,12:05
+FOTO 220,25663,"Hewitt, Leslie",Wed,09:00,11:50
+FOTO 298,25528,"Greene, Elissa",Wed,13:00,15:50
+FOTO 383,24187,"Winningham, Geoffrey","Tue,Thu",16:00,17:15
+ENGL 114,22703,"Schimmel, Ian",Tue,18:30,21:00
+ENGL 199,24290,"Regier, Alexander","Mon,Wed",08:30,09:45
+ENGL 200,21415,"Parris, Benjamin","Tue,Thu",14:30,15:45
+ENGL 200,20144,"Aranda, Jose","Tue,Thu",10:50,12:05
+ENGL 203,22994,"Bajani, Andrea",Wed,12:00,14:29
+ENGL 203,23180,"Bajani, Andrea",Wed,12:00,14:29
+ENGL 203,24293,"Boshier, Rosa",Mon,16:00,18:29
+ENGL 203,25680,"Boshier, Rosa",Mon,16:00,18:29
+ENGL 210,23560,"Horne, Evan","Tue,Thu",08:00,09:15
+ENGL 211,23900,"Edwardes-Evans, Huw","Tue,Thu",08:00,09:15
+ENGL 222,25495,"Banerjee, Agnibha","Mon,Wed,Fri",10:00,10:50
+ENGL 240,25682,"Ellenzweig, Sarah",Thu,14:30,17:20
+ENGL 242,25660,"Dango, Michael",Wed,16:00,18:30
+ENGL 253,24295,"Srinivasan, Ragini Tharoor",Wed,16:00,18:30
+ENGL 260,23562,"Williamson, Clinton","Tue,Thu",13:00,14:15
+ENGL 271,24297,"Dunbar, Eve","Mon,Wed",14:00,15:15
+ENGL 272,22366,"Hammon, Cameron","Mon,Wed,Fri",11:00,11:50
+ENGL 272,25513,"Hammon, Cameron","Mon,Wed,Fri",10:00,10:50
+ENGL 274,23564,"Campana, Joseph","Tue,Thu",09:25,10:40
+ENGL 286,22814,"Snow, Edward","Tue,Thu",16:00,17:15
+ENGL 300,20102,"Joseph, Betty","Mon,Wed,Fri",13:00,13:50
+ENGL 300,22995,"Srinivasan, Ragini Tharoor","Mon,Wed,Fri",10:00,10:50
+ENGL 301,22344,"Bajani, Andrea","Tue,Thu",09:25,10:40
+ENGL 301,22422,"Bajani, Andrea","Tue,Thu",09:25,10:40
+ENGL 301,22421,"Bajani, Andrea","Tue,Thu",10:50,12:05
+ENGL 301,22423,"Bajani, Andrea","Tue,Thu",10:50,12:05
+ENGL 301,25920,"Schimmel, Ian",Thu,14:30,17:00
+ENGL 302,22033,"Dermont, Amber",Mon,16:00,18:30
+ENGL 302,22746,"Dermont, Amber",Mon,16:00,18:30
+ENGL 302,23565,"Dermont, Amber",Tue,16:00,18:30
+ENGL 302,23822,"Dermont, Amber",Tue,16:00,18:30
+ENGL 304,22345,"Morin, Tomas",Wed,14:00,16:30
+ENGL 304,22424,"Morin, Tomas",Wed,14:00,16:30
+ENGL 304,24298,"Williams, Phillip",Fri,12:00,14:30
+ENGL 305,23566,"Boshier, Rosa",Wed,16:00,18:30
+ENGL 305,23823,"Boshier, Rosa",Wed,16:00,18:30
+ENGL 305,24299,"Boshier, Rosa",Fri,12:00,14:30
+ENGL 306,22996,"Cronin, Justin",Mon,13:00,15:50
+ENGL 306,23181,"Cronin, Justin",Mon,13:00,15:50
+ENGL 307,24301,"Morin, Tomas",Thu,13:00,15:30
+ENGL 307,25724,"Morin, Tomas",Thu,13:00,15:30
+ENGL 307,24302,"Williams, Phillip",Mon,16:00,18:50
+ENGL 307,25725,"Williams, Phillip",Mon,16:00,18:50
+ENGL 309,22346,"Laymon, Kiese",Wed,18:00,20:50
+ENGL 309,22747,"Laymon, Kiese",Wed,18:00,20:50
+ENGL 312,24303,"Houlik-Ritchey, Emily","Tue,Thu",09:25,10:40
+ENGL 313,25851,"Schimmel, Ian",Tue,18:30,21:00
+ENGL 321,23569,"Parris, Benjamin","Tue,Thu",16:00,17:15
+ENGL 332,25482,"Joseph, Betty","Mon,Wed,Fri",15:00,15:50
+ENGL 341,23570,"Browning, Logan","Tue,Thu",10:50,12:05
+ENGL 344,24306,"Browning, Logan","Tue,Thu",14:30,15:45
+ENGL 358,24307,"Morton, Timothy","Mon,Wed,Fri",10:00,10:50
+ENGL 362,22997,"Derrick, Scott","Mon,Wed,Fri",11:00,11:50
+ENGL 368,25711,"Schneider-Mayerson, Matthew",Tue,18:00,20:30
+ENGL 372,24308,"Dun, Ashley","Tue,Thu",08:00,09:15
+ENGL 373,24309,"Williamson, Clinton","Tue,Thu",14:30,15:45
+ENGL 377,24310,"Snow, Edward","Tue,Thu",13:00,14:15
+ENGL 378,23777,"Thomsen, Carly","Mon,Wed",14:00,15:15
+ENGL 390,25580,"Kimbro, Robert","Mon,Wed,Fri",11:00,11:50
+ENGL 393,25454,"Dunbar, Eve","Mon,Wed,Fri",10:00,10:50
+ENGL 401,24312,"Cronin, Justin",Tue,13:00,15:50
+ENGL 401,25734,"Cronin, Justin",Tue,13:00,15:50
+ENGL 402,24313,"Laymon, Kiese",Mon,18:00,20:50
+ENGL 402,25736,"Laymon, Kiese",Mon,18:00,20:50
+ENGL 405,24314,"Johnson, Lacy",Wed,13:00,15:50
+ENGL 405,25737,"Johnson, Lacy",Wed,13:00,15:50
+ENGL 411,21523,"Michie, Helena",Fri,13:00,15:50
+ENGL 411,23000,"Johnson, Lacy",Fri,13:00,15:50
+ENGL 411,23001,"Ellenzweig, Sarah",Fri,13:00,15:50
+ENGL 471,24315,"Aranda, Jose",Mon,15:00,17:29
+ENGL 521,24316,"Campana, Joseph",Tue,11:30,14:20
+ENGL 541,24317,"Michie, Helena",Wed,14:00,16:50
+ENGL 590,24318,"Huseby, Amy",Thu,16:00,18:50
+ENGL 598,24319,"Dango, Michael",Fri,13:00,15:50
+ENGL 606,24320,"Morton, Timothy",Mon,14:00,16:50
+INDS 508,24390,"Lee, Cin-Ty",Thu,18:00,21:00
+INDS 581,24391,"Schoenberger, Kevin",Mon,18:00,21:00
+INDS 600,24392,"Hudson, Ashley",Tue,18:00,21:00
+INDS 600,26000,"Hudson, Ashley",Thu,18:00,21:00
+SOCI 101,20129,"Considine, Craig","Tue,Thu",09:25,10:40
+SOCI 101,22323,"Considine, Craig","Tue,Thu",10:50,12:05
+SOCI 101,22662,"Fiel, Jeremy","Mon,Wed",08:00,09:15
+SOCI 102,22420,"Hurtado Nuez, Melissa",Wed,12:00,12:50
+SOCI 231,24611,"Considine, Craig","Tue,Thu",14:30,15:45
+SOCI 300,25668,"Ewoodzie, Joseph",Wed,15:30,18:00
+SOCI 310,24612,"Jalili, Jaleh","Tue,Thu",10:50,12:05
+SOCI 312,24613,"Ewoodzie, Joseph","Mon,Wed,Fri",12:00,12:50
+SOCI 315,25661,"Jalili, Jaleh","Tue,Thu",14:30,15:45
+SOCI 318,23974,"Hordge-Freeman, Elizabeth","Tue,Thu",13:00,14:15
+SOCI 325,23645,"Padmanabhan, Kavya","Tue,Thu",09:25,10:40
+SOCI 334,23076,"Diaz, Christina","Tue,Thu",14:30,15:45
+SOCI 335,23873,"Ecklund, Elaine Howard","Mon,Wed",14:00,15:15
+SOCI 344,23646,"Brown, Tony","Tue,Thu",09:25,10:40
+SOCI 351,23860,"Waggoner, Miranda","Mon,Wed,Fri",10:00,10:50
+SOCI 357,25662,"Smirnova, Michelle","Tue,Thu",13:00,14:15
+SOCI 368,24616,"Elliott, Jim","Mon,Wed",16:00,17:15
+SOCI 377,24617,"Liu, Jingwen","Tue,Thu",16:00,17:15
+SOCI 380,23647,"Chavez, Sergio","Mon,Wed",08:00,09:15
+SOCI 381,22075,"Roberto, Elizabeth","Tue,Thu",10:50,12:05
+SOCI 399,24618,"Ferguson, Todd","Mon,Wed",14:00,15:15
+SOCI 405,24619,"Chavez, Sergio",Mon,14:00,16:50
+SOCI 407,24624,"Waggoner, Miranda",Wed,13:00,15:30
+SOCI 414,23649,"Brown, Tony",Thu,13:00,15:50
+SOCI 433,25457,"Padmanabhan, Kavya",Fri,09:30,12:30
+SOCI 437,23650,"Turley, Ruth",Fri,13:00,15:50
+SOCI 453,25452,"Thomas, Kevin",Tue,14:30,16:59
+SOCI 470,20205,"Turner, Kieran",Thu,14:30,16:59
+SOCI 505,24620,"Chavez, Sergio",Mon,14:00,16:50
+SOCI 514,23656,"Brown, Tony",Thu,13:00,15:50
+SOCI 521,23148,"Potter, Daniel",Mon,18:00,21:00
+SOCI 537,23657,"Turley, Ruth",Fri,13:00,15:50
+SOCI 541,22667,"Rhodes, Anna",Mon,14:00,16:50
+SOCI 553,25453,"Thomas, Kevin",Tue,14:30,16:59
+SOCI 583,22668,"Bryan, Brielle","Tue,Thu",09:25,10:40
+SOCI 607,24623,"Waggoner, Miranda",Wed,13:00,15:30
+SOCI 609,20370,"Ecklund, Elaine Howard",Thu,11:30,13:29
+SOCI 610,20356,"Fiel, Jeremy",Fri,12:00,12:45
+GLHT 314,24487,"Loyo Rosales, Jorge","Mon,Wed",11:00,12:15
+GLHT 360,20194,"Bond, Meaghan","Tue,Thu",14:30,15:45
+GLHT 452,20169,"Lee, Kiara","Mon,Wed,Fri",08:30,09:50
+GLHT 593,25712,"Lee, Kiara Hopkins, Loren Panahi, Hesam",Thu,16:00,18:30
+GLHT 595,24660,"Lee, Kiara",Tue,17:00,18:15
+NSCI 120,20408,"McNeil, Carrie","Tue,Thu",10:50,12:05
+NSCI 120,20522,"McNeil, Carrie","Tue,Thu",09:25,10:40
+NSCI 320,21087,"Solomon, Scott Kapcha, Lauren",Mon,16:00,16:50
+NSCI 501,20183,"Hernandez Sanchez, Raul",Wed,15:00,15:50
+NSCI 501,22880,"Wagner, Daniel",Wed,15:00,15:50
+NSCI 501,22879,"Siemann, Evan",Wed,15:00,15:50
+NSCI 501,22878,"Zelt, Colin A.",Wed,15:00,15:50
+NSCI 501,22877,"Alexander, David",Wed,15:00,15:50
+NSCI 511,22097,"George, Dalton",Fri,11:00,13:30
+NSCI 515,25893,"Jernigan, Mark","Tue,Thu",13:00,14:15
+NSCI 520,21088,"Solomon, Scott Kapcha, Lauren",Mon,16:00,16:50
+NSCI 590,21332,"Papakonstantinou, Anne",Tue,16:00,18:59
+POLI 102,22065,"Arslan, Ali",Wed,14:00,14:50
+POLI 210,26012,"Arellano, Alec","Mon,Wed",10:00,10:50
+POLI 210,26012,"Arellano, Alec",Fri,10:00,10:50
+POLI 210,26013,"Arellano, Alec","Mon,Wed",10:00,10:50
+POLI 210,26013,"Arellano, Alec",Fri,10:00,10:50
+POLI 210,26014,"Arellano, Alec","Mon,Wed",10:00,10:50
+POLI 210,26014,"Arellano, Alec",Fri,13:00,13:50
+POLI 210,26015,"Arellano, Alec","Mon,Wed",10:00,10:50
+POLI 210,26015,"Arellano, Alec",Fri,14:00,14:50
+POLI 211,22705,"Aktan, Dogus","Mon,Wed,Fri",09:00,09:50
+POLI 260,24585,"Vann, Elizabeth","Tue,Thu",10:50,12:05
+POLI 323,23044,"Arellano, Alec","Tue,Thu",16:00,17:15
+POLI 324,24627,"Wood, Philip","Tue,Thu",16:00,17:15
+POLI 338,23209,"Pugh, Alex","Tue,Thu",10:50,12:05
+POLI 362,24586,"Marschall, Melissa","Tue,Thu",13:00,14:15
+POLI 366,24587,"Kumar, Rithika","Tue,Thu",09:25,10:40
+POLI 369,24588,"Aktan, Dogus","Tue,Thu",13:00,14:15
+POLI 372,24589,"Morgan, Cliff","Mon,Wed,Fri",10:00,10:50
+POLI 375,24590,"Staisch, Matthias","Mon,Wed,Fri",11:00,11:50
+POLI 377,25572,"Lewis, Steven",Thu,19:00,21:29
+POLI 395,21333,"Aktan, Dogus","Tue,Thu",09:25,10:40
+POLI 395,21333,"Aktan, Dogus",Thu,19:00,19:50
+POLI 455,24701,"Jung, Jae-Hee",Mon,15:00,17:30
+POLI 467,22724,"Norman, Kelsey",Wed,14:00,16:30
+POLI 472,24591,"Morgan, Cliff",Mon,14:00,16:30
+POLI 481,24592,"Robinson, Kaitlyn",Tue,14:30,17:00
+POLI 511,22659,"Stevenson, Randolph",Wed,14:00,16:50
+POLI 513,24593,"Tyler, Matthew",Thu,14:30,17:00
+POLI 521,25484,"Kumar, Rithika",Wed,09:00,11:50
+POLI 530,24594,"Peterson, Erik",Thu,09:00,11:50
+POLI 541,24595,"Leeds, Ashley",Mon,14:00,16:50
+EDES 120,24664,"Hunter, Deirdre Holmes, Kevin","Tue,Thu",10:50,12:05
+EDES 120,24665,"Holmes, Kevin Hunter, Deirdre","Tue,Thu",13:00,14:15
+EDES 120,24661,"Hunter, Deirdre Holmes, Kevin","Tue,Thu",14:30,15:45
+EDES 200,23361,"Hunter, Deirdre Oden, Z. Maria","Mon,Wed",15:30,16:45
+EDES 210,23362,"Wettergreen, Matthew","Tue,Thu",16:00,17:15
+EDES 210,24663,"Bisesti, Heather","Tue,Thu",17:30,18:50
+EDES 220,23480,"Hunter, Deirdre Holmes, Kevin","Tue,Thu",10:50,12:05
+EDES 220,23481,"Holmes, Kevin Hunter, Deirdre","Tue,Thu",13:00,14:15
+EDES 220,24662,"Hunter, Deirdre Holmes, Kevin","Tue,Thu",14:30,15:45
+EDES 301,23363,"Welsh, Erik","Tue,Thu",20:00,21:15
+EDES 350,23364,"Bisesti, Heather","Tue,Thu",16:00,17:15
+FWIS 201,23736,"Burch, Paul","Tue,Thu",14:30,15:45
+FWIS 206,24338,"Smith, Amanda","Tue,Thu",09:25,10:40
+FWIS 207,23863,"Derrick, Scott","Mon,Wed,Fri",13:00,13:50
+FWIS 211,23119,"Stenson, Jared","Tue,Thu",14:30,15:45
+FWIS 216,24339,"Sanders, Dru","Mon,Wed,Fri",14:00,14:50
+FWIS 218,24340,"Cook, Nina","Tue,Thu",09:25,10:40
+FWIS 218,24341,"Cook, Nina","Tue,Thu",10:50,12:05
+FWIS 219,25641,"Monroe, Bill","Mon,Wed",16:00,17:15
+FWIS 222,24342,"Cook, Nina","Tue,Thu",13:00,14:15
+FWIS 225,23721,"Garib, Ali","Tue,Thu",14:30,15:45
+FWIS 225,24343,"Garib, Ali","Tue,Thu",16:00,17:15
+FWIS 230,24345,"Smith, Amanda","Tue,Thu",10:50,12:05
+FWIS 233,24346,"Yan, Jiajun","Tue,Thu",13:00,14:15
+FWIS 234,25751,"Suzuki, Mamiko","Mon,Wed",16:00,17:15
+FWIS 235,24347,"Gan, Quan","Tue,Thu",10:50,12:05
+FWIS 237,23215,"Klein, Andrew","Mon,Wed,Fri",13:00,13:50
+FWIS 237,23203,"Nixon, Burke","Mon,Wed,Fri",13:00,13:50
+FWIS 242,23581,"Metcalf, Alida","Mon,Wed,Fri",13:00,13:50
+FWIS 243,24348,"Lee, Cin-Ty","Tue,Thu",09:25,10:40
+FWIS 244,25642,"McCabe, Thomas","Mon,Wed",16:00,17:15
+FWIS 246,24349,"Osei-Opare, Nana","Mon,Wed,Fri",10:00,10:50
+FWIS 250,25703,"Fanger, Claire","Tue,Thu",10:50,12:05
+FWIS 253,25648,"Yunis, Harvey","Tue,Thu",16:00,17:15
+FWIS 255,24350,"Ryang, Sonia",Tue,13:00,15:30
+FWIS 256,24351,"Fache, Caroline","Mon,Wed,Fri",09:00,09:50
+FWIS 258,24352,"Georgic, Quinn","Tue,Thu",16:00,17:15
+FWIS 261,23741,"McCullough, Meredith","Mon,Wed,Fri",14:00,14:50
+FWIS 261,25752,"McCullough, Meredith","Mon,Wed,Fri",15:00,15:50
+FWIS 265,24353,"Huseby, Amy","Tue,Thu",14:30,15:45
+FWIS 269,25643,"Suetterlin, Nicole","Tue,Thu",10:50,12:05
+FWIS 270,24354,"Neill, Heather E.","Mon,Wed,Fri",09:00,09:50
+FWIS 270,24355,"Neill, Heather E.","Mon,Wed,Fri",10:00,10:50
+FWIS 271,24159,"Zaytseva, Arina","Mon,Wed",16:00,17:15
+FWIS 276,24356,"Schoenberger, Kevin","Tue,Thu",14:30,15:45
+FWIS 276,25744,"Schoenberger, Kevin","Mon,Wed",16:00,17:15
+FWIS 278,25637,"Saenz, Victor","Mon,Wed,Fri",11:00,11:50
+FWIS 279,24357,"Kimbro, Robert","Mon,Wed,Fri",09:00,09:50
+FWIS 280,25753,"McCullough, Meredith","Mon,Wed,Fri",10:00,10:50
+FWIS 287,24358,"Ray, Patrick","Tue,Thu",09:25,10:40
+FWIS 288,24359,"Nixon, Burke","Mon,Wed,Fri",14:00,14:50
+FWIS 289,25638,"Richardson, Laura","Tue,Thu",14:30,15:45
+FWIS 291,23007,"Richardson, Laura","Tue,Thu",13:00,14:15
+FWIS 291,23583,"Messmer, David","Tue,Thu",13:00,14:15
+FWIS 295,23837,"Klein, Andrew","Mon,Wed,Fri",10:00,10:50
+FWIS 295,24360,"Klein, Andrew","Mon,Wed,Fri",11:00,11:50
+FWIS 297,23009,"Cone, Michael","Mon,Wed,Fri",15:00,15:50
+GREE 102,20606,"Mackie, Hilary","Mon,Wed,Fri",14:00,14:50
+GREE 310,23033,"Wright, Susannah","Tue,Thu",10:50,12:05
+GREE 510,23034,"Wright, Susannah","Tue,Thu",10:50,12:05
+SOPA 200,21685,"Perry, Steven","Tue,Thu",14:30,15:45
+SOPA 309,22725,"Pugh, Alex","Tue,Thu",09:25,10:40
+SOPA 401,21305,"Vann, Elizabeth Pugh, Alex","Tue,Thu",14:30,15:45
+DSCI 101,22712,"Luzi, Lorenzo","Mon,Wed",16:00,17:15
+DSCI 101,22712,"Luzi, Lorenzo",Tue,16:00,18:00
+DSCI 101,25620,"Luzi, Lorenzo","Mon,Wed",08:00,09:15
+DSCI 101,25620,"Luzi, Lorenzo",Tue,10:00,12:00
+DSCI 238,25990,"Luzi, Lorenzo","Tue,Thu",08:00,09:15
+DSCI 301,22078,"Bertolusso, Roberto","Tue,Thu",14:30,15:45
+DSCI 301,22078,"Bertolusso, Roberto",Tue,18:00,20:00
+DSCI 302,23832,"Myers, Risa","Mon,Wed,Fri",11:00,11:50
+DSCI 303,24026,"Sano, Akane","Tue,Thu",14:30,15:45
+DSCI 304,22153,"Perry, Steven","Tue,Thu",10:50,12:05
+DSCI 305,21699,"Abramson, Corey","Tue,Thu",16:00,17:15
+DSCI 435,21724,"Lan, Xinjie Shaw, Chad Barman, Arko","Mon,Wed",16:00,17:30
+DSCI 535,21726,"Lan, Xinjie Shaw, Chad Barman, Arko","Mon,Wed",16:00,17:30
+DSCI 535,22981,"Lan, Xinjie","Tue,Thu",18:30,19:30
+LATI 102,20001,"Mackie, Hilary","Mon,Wed,Fri",13:00,13:50
+LATI 202,22890,"Somerville, Ted","Tue,Thu",09:25,10:40
+LATI 310,23377,"McGill, Scott","Mon,Wed",11:00,12:15
+LATI 510,24568,"McGill, Scott","Mon,Wed",11:00,12:15
+PHIL 102,25533,"Theunissen, Nandi","Mon,Wed",11:00,11:50
+PHIL 102,25533,"Theunissen, Nandi",Fri,11:00,11:50
+PHIL 108,25442,"Howell, Robert Ferreira Flores, Rodrigo","Tue,Thu",10:50,12:05
+PHIL 130,25456,"Schroeder, Tim","Tue,Thu",09:25,10:40
+PHIL 150,25815,"Pinto Talero, Daniel","Tue,Thu",08:00,09:15
+PHIL 160,25814,"Skretta, Anton","Mon,Wed,Fri",09:00,09:50
+PHIL 266,25458,"Havens, Dallas","Tue,Thu",16:00,17:15
+PHIL 269,23167,"Heisenberg, Thimo","Tue,Thu",13:00,14:15
+PHIL 283,23547,"Miller, Brian","Mon,Wed,Fri",11:00,11:50
+PHIL 285,25813,"Aghahosseini, Mustafa","Mon,Wed,Fri",08:00,08:50
+PHIL 310,23549,"Miller, Brian","Mon,Wed,Fri",10:00,10:50
+PHIL 330,22632,"Amaya, Santiago","Tue,Thu",10:50,12:05
+PHIL 345,25459,"Miller, Brian","Mon,Wed,Fri",09:00,09:50
+PHIL 363,25448,"Amaya, Santiago","Tue,Thu",09:25,10:40
+PHIL 370,23789,"Berg, Amy","Tue,Thu",16:00,17:15
+PHIL 430,23182,"Gubka, Steven","Mon,Wed,Fri",13:00,13:50
+PHIL 431,23551,"Schroeder, Tim","Tue,Thu",13:00,14:15
+PHIL 460,25460,"Theunissen, Nandi",Wed,16:00,18:30
+PHIL 460,25469,"Bruno-Niño, Teresa","Tue,Thu",09:25,10:40
+PHIL 500,25470,"Reis-Dennis, Samuel",Thu,14:30,17:00
+PHIL 505,23801,"Miller, Brian","Mon,Wed,Fri",10:00,10:50
+PHIL 545,25461,"Kriegel, Uriah",Mon,15:00,17:30
+PHIL 560,25487,"Theunissen, Nandi",Wed,16:00,18:30
+PHIL 630,25471,"Siewert, Charles",Tue,14:30,17:00
+PHIL 631,23554,"Schroeder, Tim","Tue,Thu",13:00,14:15
+PHIL 672,23768,"Berg, Amy",Fri,13:00,15:30
+ENGI 221,23983,"Panahi, Hesam","Tue,Thu",13:00,14:15
+ENGI 400,22991,"Volz, Tracy",Mon,16:00,16:50
+ENGI 500,24031,"Volz, Tracy",Mon,16:00,16:50
+ENGI 501,22772,"Dardashti, Amirpooya","Tue,Thu",13:00,14:15
+ENGI 501,23482,"Dardashti, Amirpooya","Tue,Thu",14:30,15:45
+ENGI 501,24507,"Womack, Anne-Marie","Mon,Wed",14:00,15:15
+ENGI 501,26017,"Womack, Anne-Marie","Mon,Wed",12:00,13:15
+ENGI 600,22992,"Escoto, Kamisha",Thu,10:50,12:05
+ENGI 600,24508,"Escoto, Kamisha",Tue,10:50,12:05
+CHEM 122,22163,"Tran, Lesa","Mon,Wed,Fri",10:00,10:50
+CHEM 122,22164,"Tran, Lesa Wittung Stafshede, Pernilla","Mon,Wed,Fri",13:00,13:50
+CHEM 124,20158,"Kobylianskii, Krista",Mon,14:00,17:30
+CHEM 124,20031,"Kobylianskii, Krista",Tue,14:00,14:29
+CHEM 124,20031,"Kobylianskii, Krista",Tue,14:30,17:30
+CHEM 124,20032,"Kobylianskii, Krista",Wed,14:00,17:30
+CHEM 124,20030,"Nankya, Rosalynn Kobylianskii, Krista",Wed,18:30,22:00
+CHEM 124,22463,"Kobylianskii, Krista",Thu,14:00,14:29
+CHEM 124,22463,"Kobylianskii, Krista",Thu,14:30,17:30
+CHEM 176,24457,"Whitmire, Kenton","Tue,Thu",10:50,12:05
+CHEM 178,24014,"Tran, Lesa",Tue,15:00,16:30
+CHEM 178,24014,"Tran, Lesa",Thu,15:00,17:30
+CHEM 210,24458,"Tour, James",Fri,15:00,15:50
+CHEM 211,20150,"Yearty, Kasey Leigh","Tue,Thu",10:50,12:05
+CHEM 213,20551,"O'Leary, Lesley",Fri,09:00,09:50
+CHEM 213,22462,"O'Leary, Lesley",Fri,10:00,10:50
+CHEM 213,24092,"O'Leary, Lesley",Fri,11:00,11:50
+CHEM 213,24051,"Nankya, Rosalynn",Fri,13:00,13:50
+CHEM 213,22496,"Nankya, Rosalynn",Fri,14:00,14:50
+CHEM 213,24027,"Nankya, Rosalynn",Fri,11:00,11:50
+CHEM 213,24029,"O'Leary, Lesley",Fri,13:00,13:50
+CHEM 215,21106,"McNeil, Carrie",Mon,13:00,16:30
+CHEM 215,24461,"McNeil, Carrie Nankya, Rosalynn",Mon,18:30,22:00
+CHEM 215,24462,"McNeil, Carrie",Tue,13:00,16:30
+CHEM 302,21314,"Bagchi, Kushal","Tue,Thu",10:50,12:05
+CHEM 313,22962,"Zubarev, Eugene","Tue,Thu",10:50,12:05
+CHEM 314,22963,"Zubarev, Eugene Phillips, Stephen",Mon,09:00,09:50
+CHEM 314,22964,"Zubarev, Eugene Phillips, Stephen",Mon,10:00,10:50
+CHEM 314,22965,"Zubarev, Eugene",Mon,11:00,11:50
+CHEM 314,22966,"Zubarev, Eugene",Mon,13:00,13:50
+CHEM 320,21714,"Ball, Zachary","Tue,Thu",10:50,12:05
+CHEM 320,21714,"Ball, Zachary",Fri,14:00,14:50
+CHEM 360,20033,"Yruegas, Samantha","Tue,Thu",08:00,09:15
+CHEM 362,21077,"Yruegas, Samantha",Tue,15:00,15:50
+CHEM 362,21076,"Yruegas, Samantha",Thu,15:00,15:50
+CHEM 365,23234,"Yearty, Kasey Leigh",Tue,13:30,14:30
+CHEM 365,23234,"Yearty, Kasey Leigh",Thu,13:30,17:30
+CHEM 368,20419,"Nienhaus, Lea",Tue,13:30,17:30
+CHEM 369,25772,"Mou, Quanbing",Tue,13:30,14:30
+CHEM 369,25772,"Mou, Quanbing",Thu,13:30,17:30
+CHEM 420,20151,"Kolomeisky, Anatoly","Mon,Wed",08:00,09:15
+CHEM 454,25779,"Ma, Yuan","Mon,Wed",19:00,20:15
+CHEM 475,21518,"Hernandez Sanchez, Raul","Mon,Wed,Fri",10:00,10:50
+CHEM 511,24467,"Sarlah, David","Tue,Thu",08:00,09:15
+CHEM 520,20550,"Kolomeisky, Anatoly","Mon,Wed",08:00,09:15
+CHEM 525,24468,"Weisman, Bruce","Mon,Wed,Fri",10:00,10:50
+CHEM 531,24469,"Scuseria, Gustavo","Wed,Fri",11:00,12:15
+CHEM 545,23478,"West, Julian","Tue,Thu",16:00,17:15
+CHEM 548,23479,"Hartgerink, Jeffrey","Mon,Wed,Fri",09:00,09:50
+CHEM 553,22348,"Kurti, Laszlo","Mon,Wed",11:00,12:15
+CHEM 554,25780,"Ma, Yuan","Mon,Wed",19:00,20:15
+CHEM 558,22090,"Jones, Matt","Tue,Thu",10:50,12:05
+CHEM 575,21517,"Hernandez Sanchez, Raul","Mon,Wed,Fri",10:00,10:50
+CHEM 600,20148,"Neumann, Oara",Mon,12:00,12:50
+CHEM 600,20034,"Kurti, Laszlo",Tue,12:15,13:29
+CHEM 600,24470,"Jones, Matt",Thu,12:15,13:15
+CHEM 600,20149,"Ma, Yuan Hartgerink, Jeffrey",Fri,13:00,14:15
+CHEM 656,22091,"Renata, Hans","Tue,Thu",09:25,10:40
+CHBE 305,20123,"Garcia Camargo, Lucas","Tue,Thu",16:00,17:15
+CHBE 310,20141,"Thyer, Ross","Mon,Wed",14:00,15:15
+CHBE 344,24453,"Wong, Michael",Tue,12:30,15:30
+CHBE 344,24453,"Wong, Michael",Mon,13:00,13:50
+CHBE 344,24454,"Wong, Michael",Fri,12:00,15:00
+CHBE 344,24454,"Wong, Michael",Mon,13:00,13:50
+CHBE 350,20388,"Cox, Ken Perez, John",Fri,15:30,16:20
+CHBE 402,20400,"Mohite, Aditya Kampouri, Stavroula","Mon,Wed,Fri",11:00,11:50
+CHBE 404,20124,"McGlamery, Gerry","Tue,Thu",10:50,12:05
+CHBE 405,22382,"McGlamery, Gerry","Tue,Thu",08:00,09:15
+CHBE 406,24001,"Mikos, Antonios","Mon,Wed",11:00,12:15
+CHBE 410,22301,"Garcia Camargo, Lucas","Tue,Thu",09:25,10:40
+CHBE 411,22599,"Senftle, Thomas","Mon,Wed,Fri",09:00,09:50
+CHBE 415,22600,"Cox, Ken Zofchak, Everett","Tue,Thu",16:00,17:15
+CHBE 462,26023,"Zhang, Yirui Arlene","Mon,Wed",15:30,16:45
+CHBE 506,22383,"McGlamery, Gerry","Tue,Thu",08:00,09:15
+CHBE 510,22961,"Wang, Haotian","Mon,Wed",14:00,15:15
+CHBE 515,22819,"Cox, Ken Zofchak, Everett","Tue,Thu",16:00,17:15
+CHBE 545,22103,"Thyer, Ross","Mon,Wed",15:30,16:45
+CHBE 548,24045,"De Paula, Ericson","Tue,Thu",16:00,17:15
+CHBE 549,24007,"Medlock, Kenneth Meidl, Rachel","Tue,Thu",10:50,12:05
+CHBE 562,26024,"Zhang, Yirui Arlene","Mon,Wed",15:30,16:45
+CHBE 590,22601,"Adams, Jason","Mon,Wed,Fri",11:00,11:50
+CHBE 594,24041,"Verduzco, Rafael","Mon,Wed",16:00,17:15
+CHBE 602,20125,"Marciel, Amanda","Tue,Thu",10:50,12:05
+CHBE 603,23322,"Pasquali, Matteo","Tue,Thu",13:00,14:15
+CHBE 614,24455,"Halsey, Thomas","Mon,Wed",12:30,13:45
+CHBE 615,25963,"Chapman, Walter","Mon,Wed",16:00,17:15
+CHBE 620,23878,"Mikos, Antonios","Mon,Wed",11:00,12:15
+CHBE 657,24065,"Bakhshian, Sahar",Thu,16:00,18:50
+CHBE 662,22843,"Wang, Haotian",Thu,14:30,15:29
+MDIA 203,24287,"O'Malley, Hayley Oukaderova, Lida","Tue,Thu",13:00,14:15
+MDIA 204,24288,"Huggins, Julia","Tue,Thu",09:25,10:40
+MDIA 242,25606,"Dango, Michael",Wed,16:00,18:30
+MDIA 341,25613,"Mayes, Liam","Tue,Thu",16:00,17:15
+MDIA 381,25630,"Evans, Christopher","Tue,Thu",10:50,12:05
+THEA 100,24604,"Krouskop, Mark","Tue,Thu",14:30,15:45
+THEA 102,21210,"Clark, Kyle","Tue,Thu",10:50,12:05
+THEA 102,23625,"Clark, Kyle","Mon,Wed,Fri",10:00,10:50
+THEA 207,24605,"Stepanik, Amber","Mon,Wed",13:00,14:15
+THEA 250,25669,"Kimbro, Robert","Mon,Wed,Fri",10:00,10:50
+THEA 303,24606,"Kimbro, Robert","Mon,Wed,Fri",11:00,11:50
+THEA 308,24607,"Coriell, Alison","Mon,Wed",13:00,14:15
+THEA 324,22947,"Clark, Kyle","Tue,Thu",14:30,15:45
+THEA 331,23630,"Krouskop, Mark Stepanik, Amber","Mon,Tue,Wed,Thu,Fri",19:00,21:59
+THEA 331,23631,"Keefe, Christina","Mon,Tue,Wed,Thu,Fri",19:00,21:59
+STAT 280,20185,"Peterson, Leif","Mon,Wed",14:00,15:15
+STAT 280,20185,"Peterson, Leif",Tue,18:30,19:50
+STAT 305,20925,"Peterson, Leif","Tue,Thu",09:25,10:40
+STAT 305,20925,"Peterson, Leif",Mon,18:30,19:50
+STAT 305,20923,"Peterson, Leif","Tue,Thu",09:25,10:40
+STAT 305,20923,"Peterson, Leif",Wed,18:30,19:50
+STAT 310,21081,"McGuffey, Elizabeth","Tue,Thu",13:00,14:15
+STAT 310,22574,"Graves, Rose","Mon,Wed",14:00,15:15
+STAT 313,22380,"Duenas Osorio, Leonardo","Mon,Wed,Fri",10:00,10:50
+STAT 315,22077,"Bertolusso, Roberto","Tue,Thu",14:30,15:45
+STAT 315,22077,"Bertolusso, Roberto",Tue,18:00,20:00
+STAT 376,22116,"Brown, Bryan","Mon,Wed",16:00,17:15
+STAT 376,22116,"Brown, Bryan",Thu,18:00,18:50
+STAT 405,20281,"Bertolusso, Roberto","Tue,Thu",16:00,17:15
+STAT 410,21289,"Pizzo, Gina","Tue,Thu",13:00,14:15
+STAT 410,21289,"Pizzo, Gina",Thu,17:30,19:30
+STAT 411,20136,"Harmon, James","Tue,Thu",14:30,15:45
+STAT 419,21456,"Pizzo, Gina Lenderman, Jason","Tue,Thu",10:50,12:05
+STAT 421,20574,"Ensor, Katherine","Mon,Wed",14:00,15:15
+STAT 423,25986,"Kimmel, Marek","Tue,Thu",09:25,10:40
+STAT 450,22079,"McGuffey, Elizabeth","Tue,Thu",09:25,10:40
+STAT 453,20119,"Yuan, Ying Liu, Suyu","Tue,Thu",16:00,17:15
+STAT 486,23254,"Jackson, Mike","Tue,Thu",17:30,18:45
+STAT 499,20394,"Jackson, Mike",Wed,11:00,11:50
+STAT 499,25728,"Peterson, Christine",Wed,14:00,14:50
+STAT 499,25836,"Powers, Scott",Mon,15:00,15:50
+STAT 502,25754,"Merenyi, Erzsebet","Tue,Thu",13:00,14:15
+STAT 510,20121,"Osborn, Seth","Tue,Thu",13:00,14:15
+STAT 519,21457,"Cox, Dennis","Tue,Thu",10:50,12:05
+STAT 533,21030,"Luo, Hengrui","Tue,Thu",13:00,14:15
+STAT 552,24225,"Pang, Guodong",Wed,16:00,18:15
+STAT 553,20122,"Yuan, Ying Liu, Suyu","Tue,Thu",16:00,17:15
+STAT 581,24597,"Viens, Frederi",Tue,18:30,21:00
+STAT 601,20140,"Wang, Judy",Mon,16:00,16:50
+STAT 605,23263,"Bertolusso, Roberto","Tue,Thu",16:00,17:15
+STAT 611,20421,"Thirkettle, Matt","Mon,Wed",10:30,11:45
+STAT 613,23730,"Zhang, Cindy",Wed,13:00,15:30
+STAT 616,25940,"Zhu, Hongjian","Mon,Wed",18:30,19:45
+STAT 621,20575,"Ensor, Katherine","Mon,Wed",14:00,15:15
+STAT 623,25987,"Kimmel, Marek","Tue,Thu",09:25,10:40
+STAT 625,24600,"Li, Meng","Mon,Wed",14:00,15:15
+STAT 686,23255,"Jackson, Mike","Tue,Thu",17:30,18:45
+STAT 699,20395,"Jackson, Mike",Wed,11:00,11:50
+STAT 699,23179,"Vannucci, Marina",Fri,10:00,10:50
+STAT 699,24601,"Peterson, Christine",Wed,14:00,14:50
+STAT 699,25837,"Powers, Scott",Mon,15:00,15:50
+FILM 284,24401,"Dove, Charles",Mon,14:00,17:50
+FILM 288,25607,"Thirumalaisamy, Sindhu","Tue,Thu",16:30,17:59
+FILM 308,25581,"Coriell, Alison","Mon,Wed",13:00,14:15
+FILM 327,24403,"Thirumalaisamy, Sindhu","Tue,Thu",14:30,15:59
+FILM 328,25568,"Newsome, Marc","Mon,Wed",10:30,11:59
+FILM 336,25591,"Oukaderova, Lida",Tue,16:00,18:29
+FILM 373,25565,"Williamson, Clinton","Tue,Thu",14:30,15:45
+FILM 433,24404,"Dove, Charles",Wed,13:00,16:50
+ECON 100,22012,"DeNicco, James","Tue,Thu",10:50,12:05
+ECON 100,22305,"DeNicco, James","Tue,Thu",13:00,14:15
+ECON 100,22306,"DeNicco, James","Mon,Wed",14:00,15:15
+ECON 100,22307,"DeNicco, James","Mon,Wed",16:00,17:15
+ECON 102,25787,"Ryan, James",Wed,16:00,16:50
+ECON 200,22013,"Brown, Jim","Tue,Thu",10:50,12:05
+ECON 200,22013,"Brown, Jim",Wed,13:00,13:50
+ECON 200,22308,"Brown, Jim","Tue,Thu",13:00,14:15
+ECON 200,22308,"Brown, Jim",Wed,13:00,13:50
+ECON 203,22014,"Carlton, Amelie","Mon,Wed,Fri",10:00,10:50
+ECON 203,22309,"Carlton, Amelie","Mon,Wed,Fri",14:00,14:50
+ECON 205,22015,"Dudey, Marc P.",Tue,18:30,21:00
+ECON 208,25756,"Coleman, Chase",Fri,13:00,15:30
+ECON 208,25756,"Coleman, Chase",Wed,18:00,18:50
+ECON 209,22016,"Ore Monago, Tilsa","Tue,Thu",09:25,10:40
+ECON 209,22016,"Ore Monago, Tilsa",Thu,18:00,18:59
+ECON 209,22017,"Ore Monago, Tilsa","Tue,Thu",09:25,10:40
+ECON 209,22017,"Ore Monago, Tilsa",Thu,19:00,19:59
+ECON 209,24509,"Dominitz, Jeff","Mon,Wed",14:00,15:15
+ECON 209,24509,"Dominitz, Jeff",Tue,19:00,19:50
+ECON 210,24511,"Yektansani, Kiana","Mon,Wed,Fri",09:00,09:50
+ECON 211,24512,"Yektansani, Kiana","Mon,Wed,Fri",15:00,15:50
+ECON 214,25861,"Yektansani, Kiana","Mon,Wed,Fri",16:00,16:50
+ECON 300,22018,"Ore Monago, Tilsa","Tue,Thu",10:50,12:05
+ECON 305,22019,"Boylan, Richard","Tue,Thu",10:50,12:05
+ECON 307,21082,"McGuffey, Elizabeth","Tue,Thu",13:00,14:15
+ECON 307,22575,"Graves, Rose","Mon,Wed",14:00,15:15
+ECON 308,22020,"Alva, Samson","Tue,Thu",10:50,12:05
+ECON 308,22020,"Alva, Samson",Mon,19:00,19:50
+ECON 310,22021,"Brown, Bryan","Mon,Wed",16:00,17:15
+ECON 310,22021,"Brown, Bryan",Thu,18:00,18:50
+ECON 343,20963,"Hartley, Peter","Mon,Wed,Fri",13:00,13:50
+ECON 365,25576,"Lopez Alonso, Moramay","Tue,Thu",14:30,15:45
+ECON 434,25646,"Coleman, Chase",Fri,16:00,18:30
+ECON 434,25646,"Coleman, Chase",Thu,19:00,19:50
+ECON 445,22022,"Boylan, Richard","Tue,Thu",09:25,10:40
+ECON 450,24513,"Calvi, Rossella","Mon,Wed,Fri",14:00,14:50
+ECON 471,25692,"Kong, Yunmi","Tue,Thu",08:00,09:15
+ECON 471,25692,"Kong, Yunmi",Mon,18:00,18:50
+ECON 480,23541,"Hartley, Peter","Mon,Wed,Fri",11:00,11:50
+ECON 489,24515,"Thirkettle, Matt","Mon,Wed",18:30,19:45
+ECON 494,25705,"Eraslan, Hulya",Fri,11:00,11:50
+ECON 494,25705,"Eraslan, Hulya","Tue,Thu",13:00,14:15
+ECON 496,24516,"Alva, Samson","Tue,Thu",14:30,15:45
+ECON 505,22023,"Back, Kerry","Tue,Thu",14:30,15:45
+ECON 508,22565,"Eraslan, Hulya",Wed,16:00,18:30
+ECON 509,22637,"Dudey, Marc P.",Fri,14:00,16:30
+ECON 511,20420,"Thirkettle, Matt","Mon,Wed",10:30,11:45
+ECON 516,24517,"Kong, Yunmi",Mon,16:00,18:30
+ECON 547,22024,"Medlock, Kenneth","Mon,Wed,Fri",10:00,10:50
+ECON 575,23289,"Shen, Shihan",Mon,13:00,15:29
+ECON 577,24518,"Loch-Temzelides, Ted",Wed,13:00,15:30
+ECON 594,23545,"Bethune, Zachary Back, Kerry",Wed,14:00,16:50
+ECON 594,23546,"Coughlin, Maura Rezende Cunha, Flavio","Tue,Thu",16:00,17:59
+ECON 596,22025,"Perrigne, Isabelle",Wed,13:00,15:50
+ECON 604,20577,"Medlock, Kenneth",Fri,08:00,08:50
+ECON 604,20577,"Medlock, Kenneth","Mon,Wed,Fri",10:00,10:50
+ECON 607,22638,"Hartley, Peter","Mon,Wed,Fri",11:00,11:50
+ECON 608,20578,"Cacho-Diaz, Julio",Fri,15:00,15:50
+ECON 608,20578,"Cacho-Diaz, Julio","Tue,Thu",17:30,18:45
+ECON 609,23737,"Brown, Bryan",Tue,08:00,09:15
+ECON 609,23737,"Brown, Bryan","Mon,Wed,Fri",13:00,13:50
+ECON 610,22026,"Carlton, Amelie","Mon,Wed",08:00,09:15
+ECON 616,25745,"Kong, Yunmi","Tue,Thu",08:00,09:15
+ECON 616,25745,"Kong, Yunmi",Mon,18:00,18:50
+ECON 620,22892,"Ore Monago, Tilsa",Fri,09:00,09:50
+ECON 620,22892,"Ore Monago, Tilsa","Tue,Thu",13:00,14:15
+ECON 622,24238,"Loch-Temzelides, Ted",Fri,14:00,14:50
+ECON 622,24238,"Loch-Temzelides, Ted",Wed,16:00,18:30
+ECON 632,24520,"Coleman, Chase",Fri,11:00,11:50
+ECON 632,24520,"Coleman, Chase",Fri,13:00,15:30
+ECON 634,25746,"Coleman, Chase",Fri,16:00,18:30
+ECON 634,25746,"Coleman, Chase",Thu,19:00,19:50
+MGMT 502,25289,"Ferreira, Petrus","Mon,Wed",12:30,14:00
+MGMT 502,25290,"Ferreira, Petrus","Mon,Wed",08:00,09:30
+MGMT 502,25291,"Ferreira, Petrus","Mon,Wed",09:45,11:15
+MGMT 502,25292,"Sivaramakrishnan, Shiva",Tue,18:30,20:00
+MGMT 502,25292,"Sivaramakrishnan, Shiva",Fri,08:30,12:00
+MGMT 502,25292,"Sivaramakrishnan, Shiva",Thu,18:30,20:00
+MGMT 502,25292,"Sivaramakrishnan, Shiva",Fri,14:00,17:30
+MGMT 502,25292,"Sivaramakrishnan, Shiva",Thu,20:30,22:00
+MGMT 502,25292,"Sivaramakrishnan, Shiva",Sat,14:00,18:30
+MGMT 502,25292,"Sivaramakrishnan, Shiva",Thu,20:30,22:00
+MGMT 503,25293,"Aghamolla, Cyrus","Mon,Wed",16:00,17:30
+MGMT 503,25294,"Aghamolla, Cyrus",Tue,18:15,21:30
+MGMT 512,25295,"Sonenshein, Scott",Mon,08:00,12:45
+MGMT 512,25295,"Sonenshein, Scott",Wed,08:00,12:45
+MGMT 512,25296,"Sonenshein, Scott",Mon,08:00,12:45
+MGMT 512,25296,"Sonenshein, Scott",Wed,08:00,12:45
+MGMT 512,25297,"Sonenshein, Scott",Mon,08:00,12:45
+MGMT 512,25297,"Sonenshein, Scott",Wed,08:00,12:45
+MGMT 541,25298,"Farnsworth, Heber","Tue,Thu",09:45,11:15
+MGMT 541,25299,"Farnsworth, Heber","Tue,Thu",08:00,09:30
+MGMT 543,25300,"Weston, James",Thu,18:30,20:00
+MGMT 543,25300,"Weston, James",Fri,08:30,12:00
+MGMT 543,25300,"Weston, James",Sat,08:30,12:00
+MGMT 543,25300,"Weston, James",Thu,18:30,20:00
+MGMT 543,25300,"Weston, James",Sun,08:30,12:00
+MGMT 543,25300,"Weston, James",Thu,18:30,20:00
+MGMT 543,25300,"Weston, James",Fri,08:30,12:00
+MGMT 543,25300,"Weston, James",Sat,14:00,17:30
+MGMT 543,25300,"Weston, James",Thu,18:30,20:00
+MGMT 543,25300,"Weston, James",Fri,14:00,17:30
+MGMT 543,25300,"Weston, James",Thu,18:30,20:00
+MGMT 560,25301,"Schuler, Doug",Mon,08:00,12:45
+MGMT 560,25301,"Schuler, Doug",Wed,08:00,12:45
+MGMT 560,25302,"Schuler, Doug",Mon,08:00,12:45
+MGMT 560,25302,"Schuler, Doug",Wed,08:00,12:45
+MGMT 560,25303,"Schuler, Doug",Mon,08:00,12:45
+MGMT 560,25303,"Schuler, Doug",Wed,08:00,12:45
+MGMT 561,25304,"McNeese, Marvin R.","Tue,Thu",16:00,17:30
+MGMT 563,25305,"Windsor, Duane",Thu,18:30,20:00
+MGMT 563,25305,"Windsor, Duane",Thu,20:30,22:00
+MGMT 563,25305,"Windsor, Duane",Thu,18:30,20:00
+MGMT 563,25305,"Windsor, Duane",Sat,08:30,13:00
+MGMT 563,25305,"Windsor, Duane",Sat,14:00,18:30
+MGMT 563,25305,"Windsor, Duane",Sun,08:30,13:00
+MGMT 563,25305,"Windsor, Duane",Thu,18:30,20:00
+MGMT 570,26021,"Koka, Balaji",Thu,20:30,22:00
+MGMT 571,25306,"Jue-Rajasingh, Diana","Mon,Wed",08:00,09:30
+MGMT 571,25307,"Jue-Rajasingh, Diana","Mon,Wed",09:45,11:15
+MGMT 571,25308,"Jue-Rajasingh, Diana","Mon,Wed",12:30,14:00
+MGMT 574,25309,"Tezcan, Tolga","Mon,Wed",09:45,11:15
+MGMT 574,25310,"Tezcan, Tolga","Mon,Wed",12:30,14:00
+MGMT 574,25311,"Tezcan, Tolga","Mon,Wed",08:00,09:30
+MGMT 574,25312,"VanHorn, David",Sat,08:30,12:00
+MGMT 574,25312,"VanHorn, David",Thu,20:30,22:00
+MGMT 574,25312,"VanHorn, David",Thu,18:30,20:00
+MGMT 574,25312,"VanHorn, David",Sat,08:30,12:00
+MGMT 574,25312,"VanHorn, David",Thu,20:30,22:00
+MGMT 574,25312,"VanHorn, David",Fri,08:30,12:00
+MGMT 574,25312,"VanHorn, David",Thu,20:30,22:00
+MGMT 580,25313,"Borle, Sharad",Sat,08:30,12:00
+MGMT 580,25313,"Borle, Sharad",Sat,14:00,17:30
+MGMT 580,25313,"Borle, Sharad",Thu,18:30,20:00
+MGMT 580,25313,"Borle, Sharad",Thu,20:30,22:00
+MGMT 580,25313,"Borle, Sharad",Sat,14:00,18:30
+MGMT 580,25313,"Borle, Sharad",Thu,18:30,20:00
+MGMT 580,25313,"Borle, Sharad",Thu,18:30,20:00
+MGMT 580,25313,"Borle, Sharad",Fri,08:30,12:00
+MGMT 580,25313,"Borle, Sharad",Fri,14:00,17:30
+MGMT 580,25313,"Borle, Sharad",Thu,18:30,20:00
+MGMT 580,25313,"Borle, Sharad",Thu,20:30,22:00
+MGMT 580,25313,"Borle, Sharad",Fri,14:00,18:30
+MGMT 580,25313,"Borle, Sharad",Thu,20:30,22:00
+MGMT 587,25314,"VanHorn, David",Fri,08:30,13:00
+MGMT 587,25314,"VanHorn, David",Fri,08:30,13:00
+MGMT 587,25314,"VanHorn, David",Fri,14:00,18:30
+MGMT 587,25314,"VanHorn, David",Fri,08:30,13:00
+MGMT 587,25314,"VanHorn, David",Fri,14:00,18:30
+MGMT 587,25314,"VanHorn, David",Fri,14:00,18:30
+MGMT 589,25315,"Putnam-Farr, Nell",Fri,14:00,18:30
+MGMT 589,25315,"Putnam-Farr, Nell",Thu,18:30,20:00
+MGMT 589,25315,"Putnam-Farr, Nell",Fri,08:30,13:00
+MGMT 589,25315,"Putnam-Farr, Nell",Thu,18:30,20:00
+MGMT 589,25315,"Putnam-Farr, Nell","Sun,Mon,Tue,Wed,Thu,Fri,Sat",08:00,18:00
+MGMT 590,25316,"Vaughn, Ginger",Fri,14:00,18:30
+MGMT 590,25316,"Vaughn, Ginger",Sun,08:30,13:00
+MGMT 590,25316,"Vaughn, Ginger",Sun,08:30,13:00
+MGMT 601,25835,"Lansford, Benjamin",Tue,20:30,22:00
+MGMT 601,25835,"Lansford, Benjamin",Sat,08:00,12:30
+MGMT 601,25835,"Lansford, Benjamin",Thu,20:30,22:00
+MGMT 601,25835,"Lansford, Benjamin",Thu,20:30,22:00
+MGMT 601,25835,"Lansford, Benjamin",Sat,14:00,18:30
+MGMT 601,25835,"Lansford, Benjamin",Thu,20:30,22:00
+MGMT 601,25835,"Lansford, Benjamin",Thu,20:30,22:00
+MGMT 601,25835,"Lansford, Benjamin",Sat,14:00,18:30
+MGMT 601,25835,"Lansford, Benjamin",Thu,20:30,22:00
+MGMT 601,25835,"Lansford, Benjamin",Thu,20:30,22:00
+MGMT 601,25835,"Lansford, Benjamin",Sat,14:00,18:30
+MGMT 601,25835,"Lansford, Benjamin",Thu,20:30,22:00
+MGMT 604,25318,"Wisneski, John",Fri,12:30,15:45
+MGMT 604,25318,"Wisneski, John",Fri,12:30,15:45
+MGMT 604,25318,"Wisneski, John",Fri,12:30,15:45
+MGMT 604,25318,"Wisneski, John",Fri,12:30,15:45
+MGMT 604,25318,"Wisneski, John",Fri,12:30,15:45
+MGMT 604,25318,"Wisneski, John",Fri,12:30,15:45
+MGMT 604,25319,"Wisneski, John",Thu,20:30,22:00
+MGMT 604,25319,"Wisneski, John",Sat,14:00,18:30
+MGMT 604,25319,"Wisneski, John",Thu,20:30,22:00
+MGMT 604,25319,"Wisneski, John",Thu,20:30,22:00
+MGMT 604,25319,"Wisneski, John",Sat,14:00,18:30
+MGMT 604,25319,"Wisneski, John",Thu,20:30,22:00
+MGMT 606,25320,"Farnsworth, Heber","Tue,Thu",09:45,11:15
+MGMT 606,25321,"Farnsworth, Heber",Sat,07:30,12:30
+MGMT 606,25321,"Farnsworth, Heber",Sat,13:30,18:30
+MGMT 606,25321,"Farnsworth, Heber",Sat,07:30,12:30
+MGMT 606,25321,"Farnsworth, Heber",Sat,13:30,18:30
+MGMT 606,25322,"Farnsworth, Heber",Wed,18:15,21:30
+MGMT 610,25323,"Spector, Brian","Mon,Wed",14:15,15:45
+MGMT 611,25324,"Krane, James",Tue,18:15,21:30
+MGMT 619,25325,"Lopez Alonso, Moramay","Tue,Thu",16:00,17:30
+MGMT 621,25326,"Sklar, Michael","Tue,Thu",12:30,14:00
+MGMT 621,25326,"Sklar, Michael","Tue,Thu",12:30,14:00
+MGMT 624,25327,"Abou-Sayed, Omar",Thu,18:15,21:30
+MGMT 624,25327,"Abou-Sayed, Omar",Sat,08:00,18:00
+MGMT 624,25327,"Abou-Sayed, Omar",Thu,18:15,21:30
+MGMT 625,25328,"Ray, Patrick","Mon,Wed",14:15,15:45
+MGMT 625,25329,"Ray, Patrick",Thu,18:30,20:00
+MGMT 625,25329,"Ray, Patrick",Sat,08:00,12:30
+MGMT 625,25329,"Ray, Patrick",Thu,18:30,20:00
+MGMT 625,25329,"Ray, Patrick",Thu,18:30,20:00
+MGMT 625,25329,"Ray, Patrick",Sat,08:00,12:30
+MGMT 625,25329,"Ray, Patrick",Thu,18:30,20:00
+MGMT 627,25330,"Galindo, Alfonso",Thu,20:30,22:00
+MGMT 627,25330,"Galindo, Alfonso",Sat,14:00,18:30
+MGMT 627,25330,"Galindo, Alfonso",Thu,20:30,22:00
+MGMT 627,25330,"Galindo, Alfonso",Thu,20:30,22:00
+MGMT 627,25330,"Galindo, Alfonso",Sat,14:00,18:30
+MGMT 627,25330,"Galindo, Alfonso",Thu,20:30,22:00
+MGMT 628,25331,"Watkins, Thomas",Thu,18:15,21:30
+MGMT 628,25331,"Watkins, Thomas",Sat,08:00,18:00
+MGMT 628,25331,"Watkins, Thomas",Thu,18:15,21:30
+MGMT 636,25334,"Phillips, Robert",Thu,18:15,21:30
+MGMT 636,25334,"Phillips, Robert",Sat,08:00,18:00
+MGMT 636,25334,"Phillips, Robert",Thu,18:15,21:30
+MGMT 637,25335,"Zarinfar, Rassul D.","Mon,Wed",09:45,11:15
+MGMT 641,25336,"Hochberg, Yael",Tue,14:15,17:30
+MGMT 641,25337,"Hochberg, Yael",Tue,20:30,22:00
+MGMT 641,25337,"Hochberg, Yael",Sat,08:00,12:30
+MGMT 641,25337,"Hochberg, Yael",Thu,20:30,22:00
+MGMT 641,25337,"Hochberg, Yael",Thu,20:30,22:00
+MGMT 641,25337,"Hochberg, Yael",Sat,14:00,18:30
+MGMT 641,25337,"Hochberg, Yael",Thu,20:30,22:00
+MGMT 643,25338,"Farnsworth, Heber",Mon,18:15,21:30
+MGMT 643,25338,"Farnsworth, Heber",Mon,18:15,21:30
+MGMT 646,25339,"Barry, John",Tue,18:15,21:30
+MGMT 648,25340,"Zhang, David","Tue,Thu",12:30,14:00
+MGMT 648,25341,"Zhang, David","Tue,Thu",14:15,15:45
+MGMT 652,25342,"Grullon, Gustavo","Mon,Wed",14:15,15:45
+MGMT 652,25343,"Grullon, Gustavo",Wed,18:15,21:30
+MGMT 652,25344,"Grullon, Gustavo",Sat,13:30,18:30
+MGMT 652,25344,"Grullon, Gustavo",Sat,07:30,12:30
+MGMT 652,25344,"Grullon, Gustavo",Sat,07:30,12:30
+MGMT 652,25344,"Grullon, Gustavo",Sat,13:30,18:30
+MGMT 655,25345,"Sanchez Rodriguez, Manolo",Thu,18:15,21:30
+MGMT 655,25345,"Sanchez Rodriguez, Manolo",Sat,08:00,18:00
+MGMT 655,25345,"Sanchez Rodriguez, Manolo",Thu,18:15,21:30
+MGMT 656,25346,"Kaminski, Vincent",Wed,18:15,21:30
+MGMT 656,25346,"Kaminski, Vincent",Wed,18:15,21:30
+MGMT 659,25347,"Johnson, Stephanie","Tue,Thu",12:30,14:00
+MGMT 659,25348,"Johnson, Stephanie",Sat,07:30,12:30
+MGMT 659,25348,"Johnson, Stephanie",Sat,13:30,18:30
+MGMT 659,25348,"Johnson, Stephanie",Sat,13:30,18:30
+MGMT 659,25348,"Johnson, Stephanie",Sat,07:30,12:30
+MGMT 660,25349,"Roffwarg, Aaron",Mon,18:15,21:30
+MGMT 668,25350,"Schuler, Doug","Tue,Thu",16:00,17:30
+MGMT 670,25351,"VanHorn, David",Sat,13:30,18:30
+MGMT 670,25351,"VanHorn, David",Sat,07:30,12:30
+MGMT 670,25351,"VanHorn, David",Sat,13:30,18:30
+MGMT 670,25351,"VanHorn, David",Sat,07:30,12:30
+MGMT 675,25352,"Back, Kerry","Tue,Thu",12:30,14:00
+MGMT 678,25353,"Kroger, Edward","Tue,Thu",16:00,17:30
+MGMT 686,25354,"Porter, Constance","Mon,Wed",14:15,15:45
+MGMT 687,25355,"Lee, Jung Youn","Mon,Wed",12:30,14:00
+MGMT 687,25356,"Lee, Jung Youn",Mon,18:15,21:30
+MGMT 687,25357,"Lee, Jung Youn",Tue,20:30,22:00
+MGMT 687,25357,"Lee, Jung Youn",Sat,08:00,12:30
+MGMT 687,25357,"Lee, Jung Youn",Thu,20:30,22:00
+MGMT 687,25357,"Lee, Jung Youn",Thu,20:30,22:00
+MGMT 687,25357,"Lee, Jung Youn",Sat,14:00,18:30
+MGMT 687,25357,"Lee, Jung Youn",Thu,20:30,22:00
+MGMT 688,25358,"Chung, Jaeyeon","Tue,Thu",12:30,14:00
+MGMT 690,25359,"Kale, Prashant",Fri,08:00,18:00
+MGMT 690,25359,"Kale, Prashant",Sat,08:00,18:00
+MGMT 691,25360,"Wisneski, John",Fri,08:00,18:00
+MGMT 691,25360,"Wisneski, John",Sat,08:00,18:00
+MGMT 692,25361,"Mittal, Vikas",Fri,08:00,18:00
+MGMT 692,25361,"Mittal, Vikas",Sat,08:00,18:00
+MGMT 693,25362,"Prinsloo, Emily","Tue,Thu",09:45,11:15
+MGMT 693,25363,"Prinsloo, Emily",Tue,18:15,21:30
+MGMT 693,25364,"Prinsloo, Emily",Sat,13:30,18:30
+MGMT 693,25364,"Prinsloo, Emily",Sat,07:30,12:30
+MGMT 693,25364,"Prinsloo, Emily",Sat,07:30,12:30
+MGMT 693,25364,"Prinsloo, Emily",Sat,13:30,18:30
+MGMT 695,25365,"Matuk-Villazon, Omar",Mon,18:15,21:30
+MGMT 697,25366,"Hemmer, Thomas","Mon,Wed",14:15,15:45
+MGMT 697,25367,"Hemmer, Thomas",Wed,18:15,21:30
+MGMT 697,25368,"Hemmer, Thomas",Sat,07:30,12:30
+MGMT 697,25368,"Hemmer, Thomas",Sat,13:30,18:30
+MGMT 697,25368,"Hemmer, Thomas",Sat,07:30,12:30
+MGMT 697,25368,"Hemmer, Thomas",Sat,13:30,18:30
+MGMT 706,25371,"Antonoff, Michael Ravi, Vinod",Thu,18:15,21:30
+MGMT 706,25371,"Antonoff, Michael Ravi, Vinod",Sat,08:00,18:00
+MGMT 706,25371,"Antonoff, Michael Ravi, Vinod",Thu,18:15,21:30
+MGMT 715,25372,"Pan Fang, Tommy","Tue,Thu",12:30,14:00
+MGMT 720,25373,"Perley, Kathleen",Tue,18:15,21:30
+MGMT 721,25374,"Butler, Lee Ann","Tue,Thu",14:15,15:45
+MGMT 721,25375,"Butler, Lee Ann","Tue,Thu",14:15,15:45
+MGMT 721,25376,"Butler, Lee Ann",Thu,18:30,20:00
+MGMT 721,25376,"Butler, Lee Ann",Sat,08:00,12:30
+MGMT 721,25376,"Butler, Lee Ann",Thu,18:30,20:00
+MGMT 721,25376,"Butler, Lee Ann",Thu,18:30,20:00
+MGMT 721,25376,"Butler, Lee Ann",Sat,08:00,12:30
+MGMT 721,25376,"Butler, Lee Ann",Thu,18:30,20:00
+MGMT 725,25377,"Toedt, D.C.","Mon,Wed",09:45,11:15
+MGMT 728,25378,"Huffman, Burdette",Fri,08:00,18:00
+MGMT 730,25379,"VanHorn, David","Tue,Thu",08:00,09:30
+MGMT 732,25380,"Massaro, Diana Wulf, Adam","Mon,Wed",16:00,17:30
+MGMT 732,25381,"Massaro, Diana Wulf, Adam",Mon,18:15,21:30
+MGMT 733,25382,"Kale, Prashant",Sat,07:30,12:30
+MGMT 733,25382,"Kale, Prashant",Sat,13:30,18:30
+MGMT 733,25382,"Kale, Prashant",Sat,07:30,12:30
+MGMT 733,25382,"Kale, Prashant",Sat,13:30,18:30
+MGMT 736,25383,"Windsor, Duane","Tue,Thu",14:15,15:45
+MGMT 739,25384,"Pruner, David",Wed,18:15,21:30
+MGMT 740,21708,"Beatty, Deric",Mon,18:15,21:30
+MGMT 742,25385,"Chavada, Mehul",Mon,18:15,21:30
+MGMT 743,25386,"Schafer, Rob",Tue,18:15,21:30
+MGMT 744,25387,"Cimino, Todd","Tue,Thu",16:00,17:30
+MGMT 746,25388,"Dubrowski, Daniel","Tue,Thu",16:00,17:30
+MGMT 748,25389,"Wedgwood, Ian","Tue,Thu",09:45,11:15
+MGMT 749,25390,"Wedgwood, Ian",Sat,07:30,12:30
+MGMT 749,25390,"Wedgwood, Ian",Sat,13:30,18:30
+MGMT 749,25390,"Wedgwood, Ian",Sat,13:30,18:30
+MGMT 749,25390,"Wedgwood, Ian",Sat,07:30,12:30
+MGMT 750,25391,"Tezcan, Tolga",Mon,18:15,21:30
+MGMT 753,25393,"Wedgwood, Ian",Sat,13:30,18:30
+MGMT 753,25393,"Wedgwood, Ian",Sat,07:30,12:30
+MGMT 753,25393,"Wedgwood, Ian",Sat,07:30,12:30
+MGMT 753,25393,"Wedgwood, Ian",Sat,13:30,18:30
+MGMT 753,25393,"Wedgwood, Ian",Sat,07:30,12:30
+MGMT 753,25393,"Wedgwood, Ian",Sat,13:30,18:30
+MGMT 753,25393,"Wedgwood, Ian",Sat,07:30,12:30
+MGMT 753,25393,"Wedgwood, Ian",Sat,13:30,18:30
+MGMT 754,25394,"Shah, Nikhil N.",Thu,18:15,21:30
+MGMT 754,25394,"Shah, Nikhil N.",Thu,18:15,21:30
+MGMT 754,25394,"Shah, Nikhil N.",Thu,18:15,21:30
+MGMT 754,25394,"Shah, Nikhil N.",Thu,18:15,21:30
+MGMT 754,25394,"Shah, Nikhil N.",Thu,18:15,21:30
+MGMT 754,25394,"Shah, Nikhil N.",Thu,18:15,21:30
+MGMT 761,25396,"Danto, Allan",Thu,18:15,21:30
+MGMT 761,25396,"Danto, Allan",Thu,18:15,21:30
+MGMT 761,25396,"Danto, Allan",Thu,18:15,21:30
+MGMT 761,25396,"Danto, Allan",Thu,18:15,21:30
+MGMT 761,25396,"Danto, Allan",Thu,18:15,21:30
+MGMT 761,25396,"Danto, Allan",Thu,18:15,21:30
+MGMT 762,25397,"Hochberg, Yael",Thu,18:15,21:30
+MGMT 762,25397,"Hochberg, Yael",Thu,18:15,21:30
+MGMT 762,25397,"Hochberg, Yael",Thu,18:15,21:30
+MGMT 762,25397,"Hochberg, Yael",Thu,18:15,21:30
+MGMT 762,25397,"Hochberg, Yael",Thu,18:15,21:30
+MGMT 762,25397,"Hochberg, Yael",Thu,18:15,21:30
+MGMT 771,25398,"Ferris, Chris",Sat,13:30,18:30
+MGMT 771,25398,"Ferris, Chris",Sat,07:30,12:30
+MGMT 771,25398,"Ferris, Chris",Sat,13:30,18:30
+MGMT 771,25398,"Ferris, Chris",Sat,07:30,12:30
+MGMT 774,25400,"Van Knippenberg, Daniel",Sat,07:30,12:30
+MGMT 774,25400,"Van Knippenberg, Daniel",Sat,13:30,18:30
+MGMT 774,25400,"Van Knippenberg, Daniel",Sat,13:30,18:30
+MGMT 774,25400,"Van Knippenberg, Daniel",Sat,07:30,12:30
+MGMT 774,25401,"Van Knippenberg, Daniel",Sat,13:30,18:00
+MGMT 774,25401,"Van Knippenberg, Daniel",Sat,08:00,12:30
+MGMT 774,25401,"Van Knippenberg, Daniel",Sat,08:00,12:30
+MGMT 774,25401,"Van Knippenberg, Daniel",Sat,13:30,18:00
+MGMT 775,25402,"Capuano, Linda Dickerson, Duncan T.",Sat,08:00,18:00
+MGMT 775,25402,"Capuano, Linda Dickerson, Duncan T.",Thu,18:15,21:30
+MGMT 775,25402,"Capuano, Linda Dickerson, Duncan T.",Thu,18:15,21:30
+MGMT 775,25402,"Capuano, Linda Dickerson, Duncan T.",Thu,18:15,21:30
+MGMT 776,25403,"Donaldson, Edmund Jett, Kenneth",Thu,18:15,21:30
+MGMT 776,25403,"Donaldson, Edmund Jett, Kenneth",Fri,08:00,18:00
+MGMT 778,25404,"Dholakia, Utpal","Mon,Wed",14:15,15:45
+MGMT 778,25405,"Dholakia, Utpal",Wed,18:15,21:30
+MGMT 778,25406,"Dholakia, Utpal",Thu,18:30,20:00
+MGMT 778,25406,"Dholakia, Utpal",Sat,08:00,12:30
+MGMT 778,25406,"Dholakia, Utpal",Thu,18:30,20:00
+MGMT 778,25406,"Dholakia, Utpal",Thu,18:30,20:00
+MGMT 778,25406,"Dholakia, Utpal",Sat,08:00,12:30
+MGMT 778,25406,"Dholakia, Utpal",Thu,18:30,20:00
+MGMT 784,25407,"Miles, Jonathan",Sat,13:30,18:00
+MGMT 784,25407,"Miles, Jonathan",Sat,08:00,12:30
+MGMT 784,25407,"Miles, Jonathan",Sat,13:30,18:00
+MGMT 784,25407,"Miles, Jonathan",Sat,08:00,12:30
+MGMT 788,25408,"Carlin, Bruce","Tue,Thu",16:00,17:30
+MGMT 788,25409,"Carlin, Bruce","Tue,Thu",12:30,14:00
+MGMT 788,25410,"Carlin, Bruce",Tue,18:30,20:00
+MGMT 788,25410,"Carlin, Bruce",Sat,14:00,18:30
+MGMT 788,25410,"Carlin, Bruce",Thu,18:30,20:00
+MGMT 788,25410,"Carlin, Bruce",Thu,18:30,20:00
+MGMT 788,25410,"Carlin, Bruce",Sat,08:00,12:30
+MGMT 788,25410,"Carlin, Bruce",Thu,18:30,20:00
+MGMT 788,25411,"Carlin, Bruce",Mon,18:15,21:30
+MGMT 789,25412,"Zhang, Anthea",Fri,09:00,12:00
+MGMT 789,25412,"Zhang, Anthea",Mon,08:00,11:15
+MGMT 789,25412,"Zhang, Anthea",Wed,08:00,11:15
+MGMT 789,25412,"Zhang, Anthea",Mon,08:00,11:15
+MGMT 789,25412,"Zhang, Anthea",Wed,08:00,11:15
+MGMT 789,25412,"Zhang, Anthea",Mon,08:00,11:15
+MGMT 789,25412,"Zhang, Anthea",Wed,08:00,11:15
+MGMT 789,25412,"Zhang, Anthea","Sun,Mon,Tue,Wed,Thu,Fri,Sat",08:00,18:00
+MGMT 789,25413,"Koka, Balaji",Fri,09:00,12:00
+MGMT 789,25413,"Koka, Balaji",Mon,08:00,11:15
+MGMT 789,25413,"Koka, Balaji",Wed,08:00,11:15
+MGMT 789,25413,"Koka, Balaji",Mon,08:00,11:15
+MGMT 789,25413,"Koka, Balaji",Wed,08:00,11:15
+MGMT 789,25413,"Koka, Balaji",Mon,08:00,11:15
+MGMT 789,25413,"Koka, Balaji",Wed,08:00,11:15
+MGMT 789,25413,"Koka, Balaji","Sun,Mon,Tue,Wed,Thu,Fri,Sat",08:00,18:00
+MGMT 789,25414,"Akins, Brian",Fri,09:00,12:00
+MGMT 789,25414,"Akins, Brian",Mon,08:00,11:15
+MGMT 789,25414,"Akins, Brian",Wed,08:00,11:15
+MGMT 789,25414,"Akins, Brian",Mon,08:00,11:15
+MGMT 789,25414,"Akins, Brian",Wed,08:00,11:15
+MGMT 789,25414,"Akins, Brian",Mon,08:00,11:15
+MGMT 789,25414,"Akins, Brian",Wed,08:00,11:15
+MGMT 789,25414,"Akins, Brian","Sun,Mon,Tue,Wed,Thu,Fri,Sat",08:00,18:00
+MGMT 790,25415,"Ramesh, Kris",Tue,18:15,21:30
+MGMT 802,25416,"Sivaramakrishnan, Shiva",Fri,10:30,12:30
+MGMT 802,25416,"Sivaramakrishnan, Shiva",Fri,13:30,18:00
+MGMT 802,25416,"Sivaramakrishnan, Shiva",Sat,08:00,12:30
+MGMT 802,25416,"Sivaramakrishnan, Shiva",Sat,13:30,18:00
+MGMT 802,25416,"Sivaramakrishnan, Shiva",Fri,13:30,18:00
+MGMT 803,25417,"Perley, Kathleen","Mon,Wed",14:15,15:45
+MGMT 803,25419,"Perley, Kathleen",Wed,18:15,21:30
+MGMT 807,25709,"Hamidieh, Kam",Mon,18:15,21:30
+MGMT 813,25422,"Wisneski, John","Tue,Thu",14:15,15:45
+MGMT 821,25423,"Jun, Sora","Mon,Wed",16:00,17:30
+MGMT 827,25710,"Guttman-Kenney, Benedict",Tue,18:15,21:30
+MGMT 838,25789,"Edmondson, Brandy",Wed,18:15,21:30
+MGMT 843,25425,"Umar, Tarik",Fri,08:00,12:30
+MGMT 843,25425,"Umar, Tarik",Fri,13:30,15:30
+MGMT 843,25425,"Umar, Tarik",Fri,08:00,12:30
+MGMT 843,25425,"Umar, Tarik",Fri,13:30,18:00
+MGMT 843,25425,"Umar, Tarik",Sat,08:00,12:30
+MGMT 843,25425,"Umar, Tarik",Sat,13:30,18:00
+MGMT 843,25425,"Umar, Tarik",Fri,08:00,12:30
+MGMT 843,25425,"Umar, Tarik",Fri,10:30,12:30
+MGMT 843,25425,"Umar, Tarik",Fri,13:30,18:00
+MGMT 843,25425,"Umar, Tarik",Fri,08:00,12:30
+MGMT 874,25426,"Pazgal, Amit",Fri,08:00,12:30
+MGMT 874,25426,"Pazgal, Amit",Sat,08:00,12:30
+MGMT 874,25426,"Pazgal, Amit",Sat,08:00,12:30
+MGMT 874,25426,"Pazgal, Amit",Sat,13:30,15:30
+MGMT 874,25426,"Pazgal, Amit",Sat,13:30,18:00
+MGMT 880,25427,"Porter, Constance",Fri,13:30,18:00
+MGMT 880,25427,"Porter, Constance",Sat,13:30,18:00
+MGMT 880,25427,"Porter, Constance",Fri,13:30,18:00
+MGMT 880,25427,"Porter, Constance",Fri,08:00,12:30
+MGMT 880,25427,"Porter, Constance",Sat,13:30,18:00
+MGMT 880,25427,"Porter, Constance",Sat,08:00,12:30
+MGMT 880,25427,"Porter, Constance",Sat,13:30,18:00
+MGMT 880,25427,"Porter, Constance",Sat,08:00,12:30
+MGMT 880,25427,"Porter, Constance",Sat,08:00,12:30
+MGMT 910,26040,"Windsor, Duane","Mon,Tue,Wed,Thu,Fri",08:00,18:00
+MGMT 927,25428,"Galindo, Alfonso",Tue,18:30,20:00
+MGMT 927,25428,"Galindo, Alfonso",Sat,14:00,18:30
+MGMT 927,25428,"Galindo, Alfonso",Thu,18:30,20:00
+MGMT 927,25428,"Galindo, Alfonso",Thu,18:30,20:00
+MGMT 927,25428,"Galindo, Alfonso",Sat,08:00,12:30
+MGMT 927,25428,"Galindo, Alfonso",Thu,18:30,20:00
+MGMT 961,25429,"Stuart, Larry",Sat,08:00,12:30
+MGMT 961,25429,"Stuart, Larry",Sat,13:30,18:00
+MGMT 961,25429,"Stuart, Larry",Sat,08:00,12:30
+MGMT 961,25429,"Stuart, Larry",Sat,13:30,18:00
+MGMT 973,25430,"Capuano, Linda",Sat,13:30,18:30
+MGMT 973,25430,"Capuano, Linda",Sat,07:30,12:30
+MGMT 973,25430,"Capuano, Linda",Sat,07:30,12:30
+MGMT 973,25430,"Capuano, Linda",Sat,13:30,18:30
+MGMT 973,25431,"Capuano, Linda",Sat,08:00,12:30
+MGMT 973,25431,"Capuano, Linda",Sat,13:30,18:00
+MGMT 973,25431,"Capuano, Linda",Sat,13:30,18:00
+MGMT 973,25431,"Capuano, Linda",Sat,08:00,12:30
+MGMT 973,25432,"Capuano, Linda","Mon,Wed",12:30,14:00
+MGMT 995,25433,"Tezcan, Tolga","Mon,Wed",14:15,15:45
+MGMT 995,25434,"Tezcan, Tolga",Wed,18:15,21:30
+CLAS 108,21519,"McGill, Scott","Mon,Wed,Fri",16:00,16:50
+CLAS 207,24556,"Somerville, Ted","Tue,Thu",10:50,12:05
+CLAS 235,22686,"Mackie, Hilary","Tue,Thu",14:30,15:45
+CLAS 307,23888,"Wright, Susannah","Mon,Wed,Fri",10:00,10:50
+CLAS 316,24646,"Yunis, Harvey","Tue,Thu",14:30,15:45
+FREN 142,20533,"Ossia, Nelly","Mon,Wed,Fri",10:00,10:50
+FREN 142,20534,"Ossia, Nelly","Mon,Wed,Fri",11:00,11:50
+FREN 250,25619,"Fache, Caroline","Mon,Wed",11:00,12:15
+FREN 264,21476,"Emami, Maryam","Mon,Wed,Fri",11:00,11:50
+FREN 264,21521,"Emami, Maryam","Mon,Wed,Fri",10:00,10:50
+FREN 314,24557,"Fette, Julie","Tue,Thu",10:50,12:05
+FREN 324,24626,"Wood, Philip","Tue,Thu",16:00,17:15
+FREN 325,24558,"Wood, Philip","Tue,Thu",18:30,19:45
+FREN 328,25614,"Duquet, Valentin","Mon,Wed,Fri",10:00,10:50
+FREN 350,24560,"Ossia, Nelly","Mon,Wed",14:00,15:15
+FREN 370,24561,"Sainte-Claire, Linsey","Tue,Thu",09:25,10:40
+FREN 452,25625,"Fette, Julie","Tue,Thu",13:00,14:15
+FREN 525,24559,"Wood, Philip","Tue,Thu",18:30,19:45
+ASTR 101,23042,"Reiter, Megan","Tue,Thu",14:30,15:45
+ASTR 102,23671,"Levy, Eugene","Tue,Thu",09:25,10:40
+ASTR 230,20002,"Hartigan, Patrick","Tue,Thu",16:00,17:15
+ASTR 360,20552,"Isella, Andrea","Tue,Thu",13:00,14:15
+ASTR 400,20003,"Reiter, Megan",Wed,12:00,12:50
+ASTR 452,20004,"Amin, Mustafa","Tue,Thu",14:30,15:45
+ASTR 500,20005,"Reiter, Megan",Wed,12:00,12:50
+ASTR 503,24577,"Reiff, Pat",Mon,18:00,20:50
+ASTR 554,24578,"Alexander, David","Mon,Wed",13:00,14:15
+PLST 201,25678,"Bruno-Niño, Teresa","Tue,Thu",08:00,09:15
+PLST 308,24644,"Donatti, David",Thu,16:00,18:30
+PLST 309,25686,"Williamson, Frances","Tue,Thu",18:30,19:45
+PLST 310,25694,"Mayes, Liam",Fri,12:00,14:30
+PLST 316,24645,"Yunis, Harvey","Tue,Thu",14:30,15:45
+PLST 331,22444,"Ramirez, Rudy",Mon,18:30,21:20
+PLST 402,22157,"Padmanabhan, Kavya",Mon,18:00,20:00
+ARTS 165,23107,"Lapinski, Lisa","Mon,Wed",13:00,15:50
+ARTS 165,23385,"Lapinski, Lisa","Mon,Wed",18:00,20:50
+ARTS 165,26006,"Tam, Kenneth","Tue,Thu",13:00,15:50
+ARTS 225,22946,"Bernstein, Josh","Mon,Wed",09:00,11:50
+ARTS 225,24398,"Fowler, Will","Mon,Wed",18:00,20:50
+ARTS 225,24399,"Sperandio, Christopher","Tue,Thu",13:00,15:50
+ARTS 227,25645,"Rosenblatt, Ella","Mon,Wed",16:00,17:30
+ARTS 301,21660,"Fowler, Will","Mon,Wed",09:00,11:50
+ARTS 301,21209,"Bowdoin, Natasha","Tue,Thu",13:00,15:50
+ARTS 311,23387,"Masterson, Patrick","Tue,Thu",18:00,20:50
+ARTS 323,25667,"Bernstein, Josh","Mon,Wed",13:00,15:50
+ARTS 326,22324,"Sparagana, John","Mon,Wed",18:00,20:50
+ARTS 327,25570,"Thirumalaisamy, Sindhu","Tue,Thu",14:30,15:59
+ARTS 328,24400,"Newsome, Marc","Mon,Wed",10:30,11:59
+ARTS 349,24059,"Masterson, Patrick","Tue,Thu",13:00,15:50
+ARTS 350,23807,"Hainley, Bruce",Wed,18:30,21:20
+ARTS 384,22683,"Sperandio, Christopher","Tue,Thu",09:00,11:50
+ARTS 387,21650,"Mays, Devin Bowdoin, Natasha",Thu,18:00,20:50
+ARTS 401,22143,"Fowler, Will","Mon,Wed",13:00,15:50
+ARTS 460,22175,"Warren, Joe D.","Mon,Fri",14:00,16:15
+ARTS 498,23390,"Hewitt, Leslie","Tue,Thu",18:00,20:50
+ARTS 499,20230,"Hainley, Bruce Tam, Kenneth","Tue,Thu",18:00,20:50
+ELEC 220,21286,"LiKamWa, Robert","Tue,Thu",09:25,10:40
+ELEC 242,20063,"Segarra, Santiago","Mon,Wed",11:00,12:15
+ELEC 243,20064,"Xie, Chong Moreto, Jose","Tue,Thu",09:25,10:40
+ELEC 243,20064,"Xie, Chong Moreto, Jose",Tue,15:30,17:59
+ELEC 244,21458,"Young, Joseph",Fri,11:00,11:59
+ELEC 244,21458,"Young, Joseph",Mon,14:30,16:59
+ELEC 244,21459,"Young, Joseph",Fri,11:00,11:59
+ELEC 244,21459,"Young, Joseph",Thu,14:30,16:59
+ELEC 262,22028,"Alabastri, Alessandro","Mon,Wed,Fri",10:00,10:50
+ELEC 263,25781,"Naik, Gururaj",Wed,14:30,16:59
+ELEC 263,25782,"Naik, Gururaj",Fri,14:30,16:59
+ELEC 305,20162,"Chi, Taiyun","Tue,Thu",13:00,14:15
+ELEC 327,22460,"Kemere, Caleb","Mon,Wed",14:00,15:15
+ELEC 364,24200,"Woods, Gary","Tue,Thu",08:30,09:15
+ELEC 364,24200,"Woods, Gary",Wed,14:00,16:59
+ELEC 378,22801,"Baraniuk, Richard G","Tue,Thu",10:50,12:05
+ELEC 403,25718,"Halas, Naomi",Tue,14:30,17:00
+ELEC 418,24170,"Li, Lei","Tue,Thu",16:00,17:15
+ELEC 420,25706,"Simar, Ray","Tue,Thu",10:50,12:05
+ELEC 421,20068,"Johnson, Dave","Tue,Thu",10:50,12:05
+ELEC 422,22386,"Cavallaro, Joseph","Tue,Thu",13:00,14:15
+ELEC 423,22461,"Yang, Kaiyuan","Mon,Wed",16:00,17:15
+ELEC 424,24052,"Garg, Nakul","Tue,Thu",09:25,10:40
+ELEC 428,24666,"Varman, Peter","Tue,Thu",10:50,12:05
+ELEC 431,20069,"Orchard, Michael","Mon,Wed,Fri",11:00,11:50
+ELEC 436,25860,"Ghorbel, Fathi","Mon,Wed,Fri",11:00,11:50
+ELEC 439,22713,"Antoulas, Athanasios C","Mon,Wed,Fri",10:00,10:50
+ELEC 440,23121,"Subramanian, Devika","Tue,Thu",09:25,10:40
+ELEC 447,21687,"Balakrishnan, Guha","Mon,Wed",16:00,17:15
+ELEC 459,25697,"Orchard, Michael","Tue,Thu",14:30,15:45
+ELEC 475,20607,"Veeraraghavan, Ashok Khan, Salman","Tue,Thu",09:25,10:40
+ELEC 481,23183,"Seymour, John","Mon,Wed",16:00,17:15
+ELEC 483,24669,"Shah, Nishal","Tue,Thu",10:50,12:05
+ELEC 487,22146,"Luan, Lan","Tue,Thu",10:50,12:05
+ELEC 489,25981,"Flynn, Jonathan","Mon,Wed,Fri",11:00,11:50
+ELEC 496,23924,"Woods, Gary","Mon,Wed,Fri",08:30,09:50
+ELEC 498,25588,"Farrell, Logan","Tue,Thu",08:00,09:15
+ELEC 502,25761,"Merenyi, Erzsebet","Tue,Thu",13:00,14:15
+ELEC 503,22756,"Halas, Naomi",Tue,14:30,17:00
+ELEC 505,25707,"Simar, Ray","Tue,Thu",10:50,12:05
+ELEC 512,22457,"Chia, Nai-Hui","Tue,Thu",14:30,15:45
+ELEC 518,24171,"Li, Lei","Tue,Thu",16:00,17:15
+ELEC 519,22714,"Antoulas, Athanasios C","Mon,Wed,Fri",10:00,10:50
+ELEC 527,22418,"Cavallaro, Joseph","Tue,Thu",13:00,14:15
+ELEC 529,22979,"Ng, T. S. Eugene","Tue,Thu",09:25,10:40
+ELEC 535,24667,"Sabharwal, Ashutosh",Mon,16:00,18:30
+ELEC 538,22032,"Knightly, Edward",Wed,16:00,18:29
+ELEC 540,23977,"Sempionatto Moreto, Juliane","Mon,Wed",14:00,15:15
+ELEC 546,21700,"Balakrishnan, Guha","Mon,Wed",16:00,17:15
+ELEC 547,23978,"Yamagami, Momona","Tue,Thu",14:30,15:45
+ELEC 548,24668,"Shah, Nishal","Tue,Thu",10:50,12:05
+ELEC 552,20616,"Johnson, Dave","Tue,Thu",10:50,12:05
+ELEC 553,24054,"Garg, Nakul","Tue,Thu",09:25,10:40
+ELEC 557,23123,"Subramanian, Devika","Tue,Thu",09:25,10:40
+ELEC 558,20618,"Orchard, Michael","Mon,Wed,Fri",11:00,11:50
+ELEC 559,25701,"Orchard, Michael","Tue,Thu",14:30,15:45
+ELEC 561,25702,"Kono, Junichiro","Tue,Thu",16:00,17:15
+ELEC 565,22757,"Huang, Shengxi","Mon,Wed",16:00,17:15
+ELEC 566,24670,"Naik, Gururaj","Tue,Thu",13:00,14:15
+ELEC 571,24671,"Kelly, Kevin","Mon,Wed",14:00,15:15
+ELEC 575,20608,"Veeraraghavan, Ashok Khan, Salman","Tue,Thu",09:25,10:40
+ELEC 582,22152,"Luan, Lan","Tue,Thu",10:50,12:05
+ELEC 583,22752,"Seymour, John","Mon,Wed",16:00,17:15
+ELEC 589,25983,"Flynn, Jonathan","Mon,Wed,Fri",11:00,11:50
+ELEC 594,22419,"Young, Joseph Moreto, Jose","Mon,Wed,Fri",10:00,10:50
+ELEC 599,20422,"Segarra, Santiago Escoto, Kamisha",Wed,10:00,10:50

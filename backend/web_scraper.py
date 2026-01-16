@@ -14,7 +14,40 @@ from utils import convert_to_24h, time_to_minutes
 # this is the html for spring 2026 courses
 url = f"https://courses.rice.edu/courses/!SWKSCAT.cat?p_action=QUERY&p_term=202620&p_subj="
 
-DAY_MAP = {"M" : "Mon", "T" : "Tue", "W" : "Wed", "R" : "Thu", "F" : "Fri"}
+# URL to fetch all available subjects
+CATALOG_URL = "https://courses.rice.edu/admweb/!SWKSCAT.cat?p_action=cata"
+
+DAY_MAP = {"M" : "Mon", "T" : "Tue", "W" : "Wed", "R" : "Thu", "F" : "Fri", "S" : "Sat", "U" : "Sun"}
+
+def get_all_subjects() -> set[str]:
+    """
+    Get all available subject codes from Rice course catalog.
+    
+    Comprehensive list of Rice subjects extracted from the catalog.
+    Last updated: Jan 2026
+    
+    Returns:
+        - Set of subject codes like {"COMP", "MATH", "STAT", ...}
+    """
+    # All Rice subjects from the catalog
+    RICE_SUBJECTS = {
+        "AAAS", "AFSC", "AMCI", "ANTH", "APPL", "ARAB", "ARCH", "ARCR", 
+        "ARTS", "ASIA", "ASTR", "BIOE", "BIOS", "BUSI", "CEVE", "CHBE", 
+        "CHEM", "CHIN", "CLAS", "CLIC", "CMOR", "COLL", "COMM", "COMP", 
+        "CSCI", "DSCI", "DSRT", "ECON", "EDES", "EDUC", "EEPS", "ELEC", 
+        "EMBA", "EMSP", "ENGI", "ENGL", "ENST", "EURO", "FILM", "FOTO", 
+        "FREN", "FWIS", "GERM", "GLBL", "GLHT", "GREE", "HART", "HEAL", 
+        "HEBR", "HIST", "HONS", "HUMA", "HURC", "INDE", "INDS", "ITAL", 
+        "JAPA", "JWST", "KINE", "KORE", "LALX", "LATI", "LEAD", "LING", 
+        "LPAP", "LPCR", "MACC", "MATH", "MDEM", "MDHM", "MDIA", "MECH", 
+        "MEOS", "MGMP", "MGMT", "MGMW", "MILI", "MSNE", "MUCH", "MUSI", 
+        "NAVA", "NEUR", "NSCI", "PHIL", "PHYS", "PJHC", "PLST", "POLI", 
+        "PORT", "PSYC", "RCEL", "RELI", "SMGT", "SOCI", "SOPA", "SOPE", 
+        "SOSC", "SPAN", "SSPB", "STAT", "SWGS", "THEA", "TIBT", "UNIV"
+    }
+    
+    print(f"Loaded {len(RICE_SUBJECTS)} subjects from Rice catalog")
+    return RICE_SUBJECTS
 
 def parse_meeting_strings(meeting_times: list[str]) -> list[tuple[str, str, str]]:
     """

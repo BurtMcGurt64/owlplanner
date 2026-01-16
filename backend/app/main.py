@@ -47,7 +47,9 @@ app.include_router(schedules.router, prefix="/api")
 @app.on_event("startup")
 def startup():
     try:
-        count = load_courses_from_csv("course_data.csv")
+        from pathlib import Path
+        csv_path = Path(__file__).parent.parent / "course_data.csv"
+        count = load_courses_from_csv(str(csv_path))
         print(f"[startup] Loaded {count} course rows into cache.")
     except FileNotFoundError:
         print("[startup] course_data.csv not found, run the scraper first.")

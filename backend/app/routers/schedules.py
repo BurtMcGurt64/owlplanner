@@ -5,6 +5,9 @@ This router is the endpoint for the schedule generator.
 from fastapi import APIRouter, HTTPException
 from app.schemas import ScheduleRequest, ScheduleResponse
 from app.services.scorer import score_schedule, get_satisfied_preferences
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from csv_parser import parse_csv
 from scheduler import generate_schedule
 
