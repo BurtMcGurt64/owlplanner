@@ -100,10 +100,10 @@ def calculate_gaps(schedule: list) -> list:
 
 def has_lunch_break(schedule: list) -> bool:
     """
-    Checks if there is a 1-hour gap that fits entirely within 11:00am - 1:00pm (660-780 minutes).
+    Checks if there is at least 60 continuous minutes of free time between 11:00am - 1:00pm (660-780 minutes).
     This represents a lunch break.
 
-    Returns True if there exists such a gap, False otherwise.
+    Returns True if such a break exists on any day, False otherwise.
     """
     schedule_by_day = {"Mon" : [],
                        "Tue" : [],
@@ -115,27 +115,42 @@ def has_lunch_break(schedule: list) -> bool:
         for meeting in course_section.meeting_times:
             schedule_by_day[meeting.day].append((meeting.start, meeting.end))
     
-    # Check each day for lunch gap
+    LUNCH_START = 660  # 11:00 AM in minutes
+    LUNCH_END = 780    # 1:00 PM in minutes
+    BREAK_DURATION = 60  # 60 minutes
+    
+    # Check each day for lunch availability
     for meetings in schedule_by_day.values():
-        if len(meetings) < 2:
-            continue
+        if not meetings:
+            # No classes this day, entire lunch window is free
+            return True
         
         meetings.sort()
         
+        # Check if free time before first class covers lunch start
+        if meetings[0][0] >= LUNCH_START + BREAK_DURATION:
+            # At least 60 minutes free before first class, starting from 11am
+            return True
+        
+        # Check gaps between consecutive classes
         for i in range(len(meetings) - 1):
-            end_current = meetings[i][1]
-            start_next = meetings[i+1][0]
-            gap = start_next - end_current
+            gap_start = meetings[i][1]
+            gap_end = meetings[i+1][0]
+            gap_duration = gap_end - gap_start
             
-            # Calculate how much of the gap overlaps with lunch window (11am-1pm, 660-780 minutes)
-            if gap >= 60:
-                overlap_start = max(end_current, 660)
-                overlap_end = min(start_next, 780)
+            # If gap is 60+ minutes and overlaps with lunch window
+            if gap_duration >= BREAK_DURATION:
+                overlap_start = max(gap_start, LUNCH_START)
+                overlap_end = min(gap_end, LUNCH_END)
                 overlap_duration = overlap_end - overlap_start
                 
-                # If at least 60 minutes overlap with lunch window
-                if overlap_duration >= 60:
+                if overlap_duration >= BREAK_DURATION:
                     return True
+        
+        # Check if free time after last class covers lunch end
+        if meetings[-1][1] <= LUNCH_END - BREAK_DURATION:
+            # At least 60 minutes free after last class, ending by 1pm
+            return True
     
     return False
 
