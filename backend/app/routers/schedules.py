@@ -8,6 +8,8 @@ from ..services.scorer import score_schedule, get_satisfied_preferences
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
+from pathlib import Path
+
 from csv_parser import parse_csv
 from scheduler import generate_schedule
 
@@ -18,8 +20,9 @@ def create_schedule(payload: ScheduleRequest):
     if not payload.courses:
         raise HTTPException(status_code=400, detail="No courses provided")
     
-    # parse the requested courses
-    sections = parse_csv("course_data.csv", payload.courses)
+    # parse the requested courses from the backend data file
+    data_path = Path(__file__).parent.parent.parent / "course_data.csv"
+    sections = parse_csv(str(data_path), payload.courses)
     
     courses_by_name = {}
     for sec in sections:
