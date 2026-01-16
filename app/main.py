@@ -19,6 +19,8 @@ origins = [
     "http://127.0.0.1:5174",
     "http://127.0.0.1:5176",
     "https://owlplanner.onrender.com",
+    "https://owlplanner.vercel.app",
+    "https://owlplanner-9ypnivlqr-burtmcgurt64s-projects.vercel.app",
 ]
 app.add_middleware(
     CORSMiddleware,
