@@ -1,0 +1,527 @@
+/* ============================================
+   GLOBAL STYLES
+   ============================================ */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #1a202c;
+  color: #a0aec0;
+}
+
+/* ============================================
+   APP LAYOUT
+   ============================================ */
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: #2d3748;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.header h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 3rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.header p {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #a0aec0;
+}
+
+.main-content {
+  flex: 1;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ============================================
+   FORMS
+   ============================================ */
+
+.course-input-form {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: white;
+  font-size: 1.1rem;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 2px solid #4a5568;
+  border-radius: 8px;
+  background-color: #2d3748;
+  color: white;
+  margin-bottom: 1rem;
+  font-family: inherit;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.form-input:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* ============================================
+   BUTTONS
+   ============================================ */
+
+.btn {
+  width: 100%;
+  padding: 0.75rem 2rem;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.btn-primary {
+  background-color: #667eea;
+  color: white;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background-color: #764ba2;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+.btn-primary:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+/* ============================================
+   MESSAGES
+   ============================================ */
+
+.error-box {
+  padding: 1rem;
+  background-color: #742a2a;
+  border: 2px solid #fc8181;
+  border-radius: 8px;
+  color: #feb2b2;
+  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.error-box strong {
+  font-weight: bold;
+}
+
+.loading {
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.spinner {
+  font-size: 2rem;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ============================================
+   SCHEDULES
+   ============================================ */
+
+.schedule-list {
+  margin-top: 2rem;
+  width: 100%;
+  max-width: 1400px;
+}
+
+.schedule-list-title {
+  margin-bottom: 1.5rem;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.schedule-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  width: 100%;
+}
+
+.schedule-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.schedule-card {
+  padding: 0.75rem 1rem;
+  background-color: #2d3748;
+  border-radius: 8px;
+  border: 2px solid #4a5568;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  opacity: 0.4;
+  filter: grayscale(50%);
+}
+
+.schedule-card:hover {
+  opacity: 0.6;
+  filter: grayscale(30%);
+  transform: translateX(5px);
+}
+
+.schedule-card.selected {
+  opacity: 1;
+  filter: grayscale(0%);
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: 3px solid #a78bfa;
+  transform: translateX(5px) scale(1.02);
+  box-shadow: 0 8px 24px rgba(102, 126, 234, 0.6), 
+              0 0 40px rgba(118, 75, 162, 0.4);
+}
+
+.schedule-card h3 {
+  margin: 0 0 0.25rem 0;
+  color: white;
+  font-size: 1rem;
+}
+
+.schedule-card.selected h3 {
+  color: rgba(255, 255, 255, 1);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.schedule-card .course-count {
+  margin: 0 0 0.5rem 0;
+  color: #a0aec0;
+  font-size: 0.85rem;
+}
+
+.schedule-card.selected .course-count {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.best-badge {
+  color: #48bb78;
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.preferences-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+}
+
+.pref-badge {
+  background-color: rgba(72, 187, 120, 0.25);
+  color: #48bb78;
+  padding: 0.3rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  border: 1px solid rgba(72, 187, 120, 0.5);
+  white-space: nowrap;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.schedule-card.selected .pref-badge {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: white;
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.schedule-details {
+  background-color: #2d3748;
+  border-radius: 12px;
+  padding: 2rem;
+}
+
+.schedule-details h3 {
+  margin-top: 0;
+  color: white;
+  font-size: 1.1rem;
+}
+
+.schedule-details h3 {
+  margin-top: 0;
+  color: white;
+  font-size: 1.1rem;
+}
+
+.schedule-score {
+  padding: 1rem;
+  background-color: #1a202c;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  color: #48bb78;
+  font-size: 1rem;
+}
+
+.courses-list h4 {
+  color: #a0aec0;
+  margin: 1rem 0 0.5rem 0;
+}
+
+.course-item {
+  padding: 1rem;
+  background-color: #1a202c;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  border-left: 4px solid #667eea;
+}
+
+.course-name {
+  font-weight: bold;
+  color: white;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.course-instructor {
+  color: #a0aec0;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.course-times {
+  color: #cbd5e0;
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 1024px) {
+  .schedule-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .header h1 {
+    font-size: 2rem;
+  }
+
+  .main-content {
+    padding: 1rem;
+  }
+
+  .schedule-list-title {
+    font-size: 1.5rem;
+  }
+}
+
+/* ============================================
+   CALENDAR VIEW
+   ============================================ */
+
+.calendar-view {
+  background-color: #2d3748;
+  border-radius: 12px;
+  padding: 1.5rem;
+  overflow-x: auto;
+}
+
+.calendar-view h3 {
+  margin-top: 0;
+  color: white;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: 60px repeat(5, 1fr);
+  grid-auto-rows: 40px;
+  gap: 1px;
+  background-color: #1a202c;
+  border-radius: 8px;
+  overflow: hidden;
+  min-width: 700px;
+  position: relative;
+}
+
+.calendar-header {
+  display: contents;
+}
+
+.calendar-header .time-column,
+.calendar-header .day-column {
+  background-color: #2d3748;
+  padding: 0.75rem;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 2px solid #4a5568;
+  font-size: 0.9rem;
+}
+
+.calendar-row {
+  display: contents;
+}
+
+.time-label {
+  background-color: #1a202c;
+  padding: 0.75rem 0.5rem;
+  color: #a0aec0;
+  font-size: 0.8rem;
+  text-align: center;
+  border-right: 1px solid #4a5568;
+  font-weight: bold;
+}
+
+.calendar-cell {
+  background-color: #1a202c;
+  border: 1px solid #4a5568;
+  position: relative;
+}
+
+.course-block {
+  background-color: #667eea;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 0.75rem;
+  overflow: hidden;
+  position: relative;
+  z-index: 10;
+}
+
+.course-label {
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.time-range {
+  font-size: 0.7rem;
+  opacity: 0.9;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ============================================
+   PREFERENCE SELECTOR
+   ============================================ */
+
+.preference-selector {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+  background-color: #2d3748;
+  border-radius: 12px;
+  padding: 1.5rem;
+  border: 2px solid #4a5568;
+}
+
+.preference-title {
+  margin: 0 0 1rem 0;
+  color: white;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.preference-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.preference-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem;
+  background-color: #1a202c;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 2px solid transparent;
+}
+
+.preference-item:hover {
+  background-color: #374151;
+  border-color: #667eea;
+}
+
+.preference-item input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  accent-color: #667eea;
+}
+
+.preference-item span {
+  color: #e2e8f0;
+  font-size: 0.95rem;
+  user-select: none;
+}
+
+.preference-item input[type="checkbox"]:checked + span {
+  color: white;
+  font-weight: 500;
+}

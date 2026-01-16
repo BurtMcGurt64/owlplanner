@@ -1,6 +1,7 @@
 from models import CourseSection
+import time
 
-def generate_schedule(courses: dict[str, list[CourseSection]]) -> list[list[CourseSection]]:
+def generate_schedule(courses: dict[str, list[CourseSection]], max_schedules: int | None = None, deadline: float | None = None) -> list[list[CourseSection]]:
     """
     Generates a valid set of schedules given a selection of courses.
 
@@ -16,7 +17,7 @@ def generate_schedule(courses: dict[str, list[CourseSection]]) -> list[list[Cour
     """
 
     course_names = list(courses.keys())
-    schedules = []
+    schedules: list[list[CourseSection]] = []
 
     # we will use recursive dfs here to generate all schedules
     # skip to the next section when there is a time conflict
@@ -29,9 +30,19 @@ def generate_schedule(courses: dict[str, list[CourseSection]]) -> list[list[Cour
             - current_schedule, a list of CourseSection objects, representing the courses chosen so far at the depth. 
         """
 
+        # Respect deadline/time budget
+        if deadline is not None and time.time() >= deadline:
+            return
+
+        # Respect max_schedules budget
+        if max_schedules is not None and len(schedules) >= max_schedules:
+            return
+
         # base case: if all courses have been chosen
         if idx == len(course_names):
-            schedules.append(current_schedule.copy())
+            # double-check budget before append
+            if max_schedules is None or len(schedules) < max_schedules:
+                schedules.append(current_schedule.copy())
             return
         
         course_name = course_names[idx]

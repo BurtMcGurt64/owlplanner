@@ -2,7 +2,7 @@
 Pydantic models so FastAPI knows what data type to expect and return.
 """
 from pydantic import BaseModel
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 class SubjectsResponse(BaseModel):
     subjects: List[str]
@@ -12,6 +12,7 @@ class CoursesResponse(BaseModel):
     
 class ScheduleRequest(BaseModel):
     courses: List[str]  # e.g., ["COMP 140", "MATH 212"]
+    preferences: Optional[Dict[str, bool]] = None  # e.g., {"morning_preference": True}
 
 class ScheduleResponse(BaseModel):
     total: int

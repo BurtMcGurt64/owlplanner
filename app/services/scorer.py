@@ -100,7 +100,8 @@ def calculate_gaps(schedule: list) -> list:
 
 def has_lunch_break(schedule: list) -> bool:
     """
-    Checks if there is a 1-hour gap between 11:30am - 1:30pm (at 690-810 minutes). This represents a lunch break.
+    Checks if there is a 1-hour gap that fits entirely within 11:00am - 1:00pm (660-780 minutes).
+    This represents a lunch break.
 
     Returns True if there exists such a gap, False otherwise.
     """
@@ -126,10 +127,15 @@ def has_lunch_break(schedule: list) -> bool:
             start_next = meetings[i+1][0]
             gap = start_next - end_current
             
-            # Check if gap is during lunch time (690-810 minutes = 11:30am-1:30pm)
-            # and gap is at least 60 minutes
-            if gap >= 60 and end_current >= 690 and start_next <= 810:
-                return True
+            # Calculate how much of the gap overlaps with lunch window (11am-1pm, 660-780 minutes)
+            if gap >= 60:
+                overlap_start = max(end_current, 660)
+                overlap_end = min(start_next, 780)
+                overlap_duration = overlap_end - overlap_start
+                
+                # If at least 60 minutes overlap with lunch window
+                if overlap_duration >= 60:
+                    return True
     
     return False
 
@@ -206,3 +212,58 @@ def score_schedule(schedule: list, preferences: dict = None, weights: dict = Non
                 score += wts["class_count_penalty"] * (count - 2)  # penalty per extra class
     
     return score
+
+def get_satisfied_preferences(schedule: list, preferences: dict = None) -> list:
+    """
+    Returns a list of preference names that this schedule satisfies.
+    
+    Inputs:
+        - schedule: a list of CourseSection objects
+        - preferences: dictionary of enabled categories (use DEFAULT_PREFERENCES if None)
+    
+    Returns:
+        - list of strings: names of satisfied preferences
+    """
+    satisfied = []
+    prefs = {**DEFAULT_PREFERENCES, **(preferences or {})}
+    
+    # Check if avoids 5-day week
+    if prefs["avoid_5_days"]:
+        days = count_unique_days(schedule)
+        if days < 5:
+            satisfied.append("4-Day Week")
+    
+    # Check if no early mornings
+    if prefs["morning_preference"]:
+        earliest = earliest_start_time(schedule)
+        if earliest >= 540:  # 9am or later
+            satisfied.append("No Early Classes (before 9 AM)")
+    
+    # Check if no late nights
+    if prefs["avoid_late_nights"]:
+        latest = latest_end_time(schedule)
+        if latest <= 1140:  # before 7pm
+            satisfied.append("No Late Classes")
+    
+    # Check for balanced gaps
+    if prefs["balance_gaps"]:
+        gaps = calculate_gaps(schedule)
+        # Only show badge if there are gaps and none are bad
+        if gaps and not any(gap < 10 or gap > 120 for gap in gaps):
+            satisfied.append("Balanced Gaps")
+        # If there are no gaps at all (back-to-back classes), also show as balanced
+        elif not gaps:
+            satisfied.append("Balanced Gaps")
+    
+    # Check for lunch break
+    if prefs["lunch_break"] and has_lunch_break(schedule):
+        satisfied.append("Lunch Break (1 hour)")
+    
+    # Check for reasonable class count per day
+    if prefs["limit_classes_per_day"]:
+        per_day = classes_per_day(schedule)
+        max_per_day = max(per_day.values()) if per_day else 0
+        if max_per_day <= 2:
+            satisfied.append("Max 2 Classes/Day")
+    
+    return satisfied

@@ -26,6 +26,10 @@ Course registration often involves manually comparing different sections to avoi
 - Interactive schedule visualization
 - Admin endpoint for data refresh
 
+### Version 3
+- Deployed on cloud with Render
+- 
+
 ## Technical Overview
 
 ### Data Layer

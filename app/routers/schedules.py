@@ -4,7 +4,7 @@ This router is the endpoint for the schedule generator.
 
 from fastapi import APIRouter, HTTPException
 from app.schemas import ScheduleRequest, ScheduleResponse
-from app.services.scorer import score_schedule
+from app.services.scorer import score_schedule, get_satisfied_preferences
 from csv_parser import parse_csv
 from scheduler import generate_schedule
 
@@ -33,8 +33,9 @@ def create_schedule(payload: ScheduleRequest):
     # Score each schedule
     scored_schedules = []
     for schedule in schedules:
-        score = score_schedule(schedule)
-        scored_schedules.append((score, schedule))
+        score = score_schedule(schedule, preferences=payload.preferences)
+        satisfied_prefs = get_satisfied_preferences(schedule, preferences=payload.preferences)
+        scored_schedules.append((score, schedule, satisfied_prefs))
     
     # Sort by score (highest first)
     scored_schedules.sort(key=lambda x: x[0], reverse=True)
@@ -58,9 +59,10 @@ def create_schedule(payload: ScheduleRequest):
     schedules_with_scores = [
         {
             "score": score,
+            "satisfied_preferences": satisfied_prefs,
             "courses": [section_to_dict(sec) for sec in schedule]
         }
-        for score, schedule in scored_schedules
+        for score, schedule, satisfied_prefs in scored_schedules
     ]
 
     return ScheduleResponse(total=len(schedules_with_scores), schedules=schedules_with_scores)
