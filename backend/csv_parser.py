@@ -64,6 +64,52 @@ def parse_csv(filename, course_names: list[str] | None = None):
 
     return sections
 
+def parse_rows(rows: list[dict], course_names: list[str] | None = None):
+    """
+    Parse a list of dict rows (as loaded by loader.get_courses) into CourseSection objects.
+
+    If course_names is provided, only include those courses.
+    Assumes rows with the same CRN are consecutive.
+    """
+    sections = []
+    current_section = None
+    current_crn = None
+
+    for row in rows:
+        course_name = row['course']
+        crn = row['crn']
+        instructor = row['instructor']
+        days = row['days']
+        start_time = row['start_time']
+        end_time = row['end_time']
+
+        if course_names is not None and course_name not in course_names:
+            continue
+
+        if crn == current_crn:
+            list_days = days.split(",")
+            for day in list_days:
+                current_section.add_meet_time(
+                    MeetingTime(day, time_to_minutes(start_time), time_to_minutes(end_time))
+                )
+        else:
+            if current_section is not None:
+                sections.append(current_section)
+
+            current_section = CourseSection(course_name, crn, instructor)
+            current_crn = crn
+
+            list_days = days.split(",")
+            for day in list_days:
+                current_section.add_meet_time(
+                    MeetingTime(day, time_to_minutes(start_time), time_to_minutes(end_time))
+                )
+
+    if current_section is not None:
+        sections.append(current_section)
+
+    return sections
+
 def write_csv(all_results: list[tuple], filename: str = "course_data.csv"):
     """
     Write course data to CSV file.

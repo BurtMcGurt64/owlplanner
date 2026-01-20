@@ -1,9 +1,9 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import './App.css';
 import CourseInput from './components/CourseInput';
 import PreferenceSelector from './components/PreferenceSelector';
 import ScheduleList from './components/ScheduleList';
-import { fetchSchedules } from './api';
+import { fetchSchedules, pingHealth } from './api';
 
 /**
  * App.jsx - Main component that manages the app state and layout
@@ -15,6 +15,10 @@ import { fetchSchedules } from './api';
  */
 
 function App() {
+    // Warm the backend on first load to avoid cold-start delay
+    useEffect(() => {
+      pingHealth();
+    }, []);
   
   // These store the schedule results from the API
   const [schedules, setSchedules] = useState(null);

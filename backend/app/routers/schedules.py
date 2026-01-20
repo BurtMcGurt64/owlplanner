@@ -10,8 +10,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from pathlib import Path
 
-from csv_parser import parse_csv
+from csv_parser import parse_rows
 from scheduler import generate_schedule
+import time
+from ..services.loader import get_courses
 
 router = APIRouter()
 
@@ -20,9 +22,9 @@ def create_schedule(payload: ScheduleRequest):
     if not payload.courses:
         raise HTTPException(status_code=400, detail="No courses provided")
     
-    # parse the requested courses from the backend data file
-    data_path = Path(__file__).parent.parent.parent / "course_data.csv"
-    sections = parse_csv(str(data_path), payload.courses)
+    # build sections from cached rows (loaded at startup) to avoid file I/O
+    rows = get_courses()
+    sections = parse_rows(rows, payload.courses)
     
     # deduplicate by CRN to ensure each section is unique
     seen_crns = set()
@@ -42,8 +44,11 @@ def create_schedule(payload: ScheduleRequest):
     if missing:
         raise HTTPException(status_code=404, detail=f"Coruses not found: {', '.join(missing)}")
     
-    # generate schedules
-    schedules = generate_schedule(courses_by_name)
+    # generate schedules with a time/quantity budget to avoid long runtimes
+    budget_seconds = 8
+    max_results = 250
+    deadline = time.time() + budget_seconds
+    schedules = generate_schedule(courses_by_name, max_schedules=max_results, deadline=deadline)
 
     # Score each schedule
     scored_schedules = []
@@ -52,8 +57,9 @@ def create_schedule(payload: ScheduleRequest):
         satisfied_prefs = get_satisfied_preferences(schedule, preferences=payload.preferences)
         scored_schedules.append((score, schedule, satisfied_prefs))
     
-    # Sort by score (highest first)
+    # Sort by score (highest first) and cap the payload sizje
     scored_schedules.sort(key=lambda x: x[0], reverse=True)
+    scored_schedules = scored_schedules[:100]
 
     # convert to dicts for JSON
     def section_to_dict(sec):

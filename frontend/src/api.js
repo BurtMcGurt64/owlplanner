@@ -1,6 +1,19 @@
 // API helper functions
 const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000';
 
+export async function pingHealth(timeoutMs = 10000) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const res = await fetch(`${API_BASE}/health`, { signal: controller.signal });
+    clearTimeout(timeout);
+    return res.ok;
+  } catch (e) {
+    clearTimeout(timeout);
+    return false;
+  }
+}
+
 export async function fetchSchedules(courses, preferences = null) {
   console.log('Calling API:', `${API_BASE}/api/schedules`);
   console.log('With courses:', courses);
