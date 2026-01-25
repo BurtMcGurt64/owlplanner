@@ -295,7 +295,7 @@ wheels = [
 ]
 
 [[package]]
-name = "schedule-optimizer"
+name = "owlPlanner"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

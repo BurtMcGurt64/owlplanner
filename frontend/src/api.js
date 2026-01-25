@@ -20,7 +20,7 @@ export async function fetchSchedules(courses, preferences = null) {
   console.log('With preferences:', preferences);
 
   const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 20000); // 20s timeout
+  const timeout = setTimeout(() => controller.abort(), 30000); // 30s timeout (backend should be warmed up)
   
   try {
     const res = await fetch(`${API_BASE}/api/schedules`, {
@@ -41,10 +41,10 @@ export async function fetchSchedules(courses, preferences = null) {
     clearTimeout(timeout);
     console.error('API Error:', err);
     if (err.name === 'AbortError') {
-      throw new Error('Request timed out. Try reducing course combinations or retrying.');
+      throw new Error('Request timed out. Please try again.');
     }
     if (err.message === 'Failed to fetch') {
-      throw new Error('Cannot reach backend. The server might be starting up or there may be a CORS issue.');
+      throw new Error('Cannot reach backend. Please check your connection or try again in a moment.');
     }
     throw err;
   }

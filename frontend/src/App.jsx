@@ -15,10 +15,29 @@ import { fetchSchedules, pingHealth } from './api';
  */
 
 function App() {
-    // Warm the backend on first load to avoid cold-start delay
-    useEffect(() => {
-      pingHealth();
-    }, []);
+  // Backend warmup state
+  const [backendReady, setBackendReady] = useState(false);
+  const [warmingUp, setWarmingUp] = useState(true);
+  
+  // Warm the backend on first load to avoid cold-start delay
+  useEffect(() => {
+    const warmupBackend = async () => {
+      setWarmingUp(true);
+      // Try multiple times with increasing timeout
+      for (let attempt = 0; attempt < 3; attempt++) {
+        const ready = await pingHealth(30000); // 30s per attempt
+        if (ready) {
+          setBackendReady(true);
+          setWarmingUp(false);
+          return;
+        }
+      }
+      // After 3 attempts, give up but let user try anyway
+      setWarmingUp(false);
+      setBackendReady(false);
+    };
+    warmupBackend();
+  }, []);
   
   // These store the schedule results from the API
   const [schedules, setSchedules] = useState(null);
@@ -65,6 +84,13 @@ function App() {
 
       {/* Main Content */}
       <main className="main-content">
+        {/* Backend warmup banner */}
+        {warmingUp && (
+          <div className="info-box" style={{ backgroundColor: '#fff3cd', borderColor: '#ffc107' }}>
+            <strong> Waking up backend...</strong> This takes ~30 seconds on first visit.
+          </div>
+        )}
+        
         {/* Preference Selector */}
         <PreferenceSelector 
           preferences={preferences} 
@@ -72,19 +98,23 @@ function App() {
         />
 
         {/* Course Input Form */}
-        <CourseInput onGenerate={handleGenerate} isLoading={isLoading} />
+        <CourseInput 
+          onGenerate={handleGenerate} 
+          isLoading={isLoading || warmingUp} 
+        />
 
         {/* Error Message */}
         {error && (
-          <div className="error-box">
-            <strong>Error:</strong> {error}
-          </div>
-        )}
+          
 
         {/* Loading Spinner */}
         {isLoading && (
           <div className="loading">
             <div className="spinner">⏳</div>
+            <p>Generating schedules...</p>
+            <p style={{ fontSize: '0.9em', opacity: 0.7 }}>
+              First request may take 30-60 seconds as the server wakes up
+            </p>
           </div>
         )}
 
