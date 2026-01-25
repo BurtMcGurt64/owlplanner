@@ -112,9 +112,9 @@ function App() {
 
         {/* Loading Spinner */}
         {isLoading && (
-            <p style={{ fontSize: '0.9em', opacity: 0.7 }}>
-              First request may take 30-60 seconds as the server wakes up
-            </p>
+          <div className="loading">
+            <div className="spinner">⏳</div>
+            <p>Generating schedules...</p>
           </div>
         )}
 
