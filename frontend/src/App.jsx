@@ -105,13 +105,13 @@ function App() {
 
         {/* Error Message */}
         {error && (
-          
+          <div className="error-box">
+            <strong>Error:</strong> {error}
+          </div>
+        )}
 
         {/* Loading Spinner */}
         {isLoading && (
-          <div className="loading">
-            <div className="spinner">⏳</div>
-            <p>Generating schedules...</p>
             <p style={{ fontSize: '0.9em', opacity: 0.7 }}>
               First request may take 30-60 seconds as the server wakes up
             </p>
