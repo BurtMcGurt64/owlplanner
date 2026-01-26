@@ -48,13 +48,30 @@ html, body, #root {
 
 .main-content {
   flex: 1;
-  max-width: 1400px;
   margin: 0 auto;
   padding: 2rem;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: flex-start;
+  min-height: 70vh;
+}
+
+/* Side-by-side container for input and preferences */
+.input-preferences-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  width: 100%;
+  max-width: 1400px;
+  align-items: start;
+}
+
+@media (max-width: 1024px) {
+  .input-preferences-container {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* ============================================
@@ -63,8 +80,10 @@ html, body, #root {
 
 .course-input-form {
   width: 100%;
-  max-width: 800px;
-  margin: 0 auto 2rem auto;
+  background-color: #3a4556;
+  border-radius: 8px;
+  padding: 1.5rem;
+  border: 1px solid #4a5568;
 }
 
 .form-label {
@@ -138,17 +157,28 @@ html, body, #root {
    MESSAGES
    ============================================ */
 
-.error-box {
+.error-box,
+.info-box {
   padding: 1rem;
-  background-color: #742a2a;
-  border: 2px solid #fc8181;
+  border: 2px solid;
   border-radius: 8px;
-  color: #feb2b2;
   margin-bottom: 2rem;
   width: 100%;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.error-box {
+  background-color: #742a2a;
+  border-color: #fc8181;
+  color: #feb2b2;
+}
+
+.info-box {
+  background-color: #fff3cd;
+  border-color: #ffc107;
+  color: #856904;
 }
 
 .error-box strong {
@@ -184,7 +214,6 @@ html, body, #root {
 .schedule-list {
   margin-top: 2rem;
   width: 100%;
-  max-width: 1400px;
 }
 
 .schedule-list-title {
@@ -470,12 +499,38 @@ html, body, #root {
 
 .preference-selector {
   width: 100%;
-  max-width: 800px;
-  margin: 0 auto 2rem auto;
-  background-color: #2d3748;
-  border-radius: 12px;
-  padding: 1.5rem;
-  border: 2px solid #4a5568;
+  background-color: #3a4556;
+  border-radius: 8px;
+  padding: 1rem;
+  border: 1px solid #4a5568;
+}
+
+.preference-toggle-btn {
+  width: 100%;
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  transition: color 0.2s;
+}
+
+.preference-toggle-btn:hover {
+  color: #667eea;
+}
+
+.preference-toggle-btn .arrow {
+  transition: transform 0.3s ease;
+  font-size: 0.9rem;
+}
+
+.preference-toggle-btn .arrow.open {
+  transform: rotate(180deg);
 }
 
 .preference-title {
@@ -487,20 +542,33 @@ html, body, #root {
 
 .preference-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+  margin-top: 1rem;
+  animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .preference-item {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  padding: 0.75rem;
-  background-color: #1a202c;
-  border-radius: 8px;
+  gap: 0.5rem;
+  padding: 0.6rem;
+  background-color: rgba(26, 32, 44, 0.5);
+  border-radius: 6px;
   cursor: pointer;
   transition: all 0.2s;
-  border: 2px solid transparent;
+  border: 1px solid transparent;
 }
 
 .preference-item:hover {
@@ -517,11 +585,112 @@ html, body, #root {
 
 .preference-item span {
   color: #e2e8f0;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   user-select: none;
 }
 
 .preference-item input[type="checkbox"]:checked + span {
   color: white;
   font-weight: 500;
+}
+
+/* ============================================
+   EMPTY CALENDAR PLACEHOLDER
+   ============================================ */
+
+/* Empty calendar on startup - centered */
+.empty-calendar-container {
+  margin-top: 2rem;
+  width: 100%;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.empty-calendar-message {
+  font-size: 1.1rem;
+  color: #a0aec0;
+  text-align: center;
+  margin: 0;
+}
+
+.empty-calendar-container .empty-calendar {
+  width: 100%;
+  background-color: #2d3748;
+  border-radius: 12px;
+  padding: 2rem;
+  border: 2px solid #4a5568;
+  overflow-x: auto;
+}
+
+/* ============================================
+   COURSE PICKER (REMOVED)
+   ============================================ */
+
+.course-picker {
+  background-color: #2d3748;
+  border-radius: 12px;
+  padding: 1.5rem;
+  border: 2px solid #4a5568;
+  height: fit-content;
+  max-height: 700px;
+  display: flex;
+  flex-direction: column;
+}
+
+.course-picker h3 {
+  color: white;
+  margin: 0 0 1rem 0;
+  font-size: 1.2rem;
+}
+
+.course-search {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 0.95rem;
+  border: 2px solid #4a5568;
+  border-radius: 8px;
+  background-color: #1a202c;
+  color: white;
+  margin-bottom: 1rem;
+  font-family: inherit;
+}
+
+.course-search:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.course-list {
+  overflow-y: auto;
+  flex: 1;
+}
+
+.course-list-item {
+  padding: 0.5rem 0.75rem;
+  color: #e2e8f0;
+  cursor: pointer;
+  transition: all 0.15s;
+  border-bottom: 1px solid #374151;
+  font-size: 0.9rem;
+}
+
+.course-list-item:hover {
+  background-color: #374151;
+}
+
+.course-list-message {
+  color: #a0aec0;
+  text-align: center;
+  padding: 2rem;
+  font-size: 0.9rem;
+}
+
+.course-list-message.error {
+  color: #fc8181;
 }

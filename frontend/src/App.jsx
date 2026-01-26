@@ -3,6 +3,7 @@ import './App.css';
 import CourseInput from './components/CourseInput';
 import PreferenceSelector from './components/PreferenceSelector';
 import ScheduleList from './components/ScheduleList';
+import EmptyCalendarView from './components/EmptyCalendarView';
 import { fetchSchedules, pingHealth } from './api';
 
 /**
@@ -87,21 +88,25 @@ function App() {
         {/* Backend warmup banner */}
         {warmingUp && (
           <div className="info-box" style={{ backgroundColor: '#fff3cd', borderColor: '#ffc107' }}>
-            <strong> Waking up backend...</strong> This takes ~30 seconds on first visit.
+            <strong>⏳ Waking up backend...</strong> This takes ~30 seconds on first visit.
           </div>
         )}
         
-        {/* Preference Selector */}
-        <PreferenceSelector 
-          preferences={preferences} 
-          onPreferencesChange={setPreferences} 
-        />
-
-        {/* Course Input Form */}
-        <CourseInput 
-          onGenerate={handleGenerate} 
-          isLoading={isLoading || warmingUp} 
-        />
+        {/* Side-by-side layout for input and preferences */}
+        <div className="input-preferences-container">
+          {/* Course Input Form - Left side */}
+          <CourseInput 
+            onGenerate={handleGenerate} 
+            isLoading={isLoading || warmingUp}
+          />
+          
+          {/* Preference Selector - Right side */}
+          <PreferenceSelector 
+            preferences={preferences} 
+            onPreferencesChange={setPreferences}
+            defaultOpen={true}
+          />
+        </div>
 
         {/* Error Message */}
         {error && (
@@ -118,9 +123,14 @@ function App() {
           </div>
         )}
 
-        {/* Schedule Results */}
-        {schedules && !isLoading && (
+        {/* Schedule Results or Empty Calendar */}
+        {schedules && !isLoading ? (
           <ScheduleList schedules={schedules} total={total} />
+        ) : !isLoading && (
+          <div className="empty-calendar-container">
+            <p className="empty-calendar-message">Enter courses above to see your schedule</p>
+            <EmptyCalendarView />
+          </div>
         )}
       </main>
     </div>

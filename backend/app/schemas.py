@@ -11,8 +11,8 @@ class CoursesResponse(BaseModel):
     courses: List[Dict[str, Any]]
     
 class ScheduleRequest(BaseModel):
-    courses: List[str]  # e.g., ["COMP 140", "MATH 212"]
-    preferences: Optional[Dict[str, bool]] = None  # e.g., {"morning_preference": True}
+    courses: List[str]  # ex: ["COMP 140", "MATH 212"]
+    preferences: Optional[Dict[str, bool]] = None  # ex: {"morning_preference": True}
 
 class ScheduleResponse(BaseModel):
     total: int

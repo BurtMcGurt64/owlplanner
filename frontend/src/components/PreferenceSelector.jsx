@@ -1,12 +1,22 @@
+import { useState, useEffect } from 'react';
+
 /**
  * PreferenceSelector.jsx - Component for selecting scheduling preferences
  * 
  * Props:
  *   preferences: object with boolean values for each preference
  *   onPreferencesChange: function called when any preference changes
+ *   defaultOpen: boolean - whether to start open or closed
  */
 
-function PreferenceSelector({ preferences, onPreferencesChange }) {
+function PreferenceSelector({ preferences, onPreferencesChange, defaultOpen = false }) {
+  const [isOpen, setIsOpen] = useState(defaultOpen);
+
+  // Update isOpen when defaultOpen changes (e.g., after generating schedules)
+  useEffect(() => {
+    setIsOpen(defaultOpen);
+  }, [defaultOpen]);
+
   const handleToggle = (key) => {
     onPreferencesChange({
       ...preferences,
@@ -16,8 +26,17 @@ function PreferenceSelector({ preferences, onPreferencesChange }) {
 
   return (
     <div className="preference-selector">
-      <h3 className="preference-title">Scheduling Preferences</h3>
-      <div className="preference-grid">
+      <button 
+        className="preference-toggle-btn" 
+        onClick={() => setIsOpen(!isOpen)}
+        type="button"
+      >
+        <span>Scheduling Preferences</span>
+        <span className={`arrow ${isOpen ? 'open' : ''}`}>▼</span>
+      </button>
+      
+      {isOpen && (
+        <div className="preference-grid">
         <label className="preference-item">
           <input
             type="checkbox"
@@ -72,6 +91,7 @@ function PreferenceSelector({ preferences, onPreferencesChange }) {
           <span>Balanced gaps between classes</span>
         </label>
       </div>
+      )}
     </div>
   );
 }
