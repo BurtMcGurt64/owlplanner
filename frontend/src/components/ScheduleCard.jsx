@@ -26,7 +26,7 @@ function ScheduleCard({ schedule, index, isSelected, onClick }) {
         <div className="preferences-badges">
           {satisfiedPrefs.map((pref, idx) => (
             <span key={idx} className="pref-badge">
-              ✓ {pref}
+              {pref}
             </span>
           ))}
         </div>

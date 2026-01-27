@@ -34,8 +34,8 @@ function ScheduleList({ schedules, total }) {
   return (
     <div className="schedule-list">
       <h2 className="schedule-list-title">
-        Found {total} valid schedule{total !== 1 ? 's' : ''}
-        {total > schedules.length && ` (showing top ${schedules.length})`}
+        Your schedules
+        {total > schedules.length && ` (showing top ${schedules.length} of ${total})`}
       </h2>
       
       <div className="schedule-container">

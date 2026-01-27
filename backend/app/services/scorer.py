@@ -19,7 +19,7 @@ DEFAULT_WEIGHTS = {
     "gap_too_short_penalty": -5,  # < 10 min
     "gap_too_long_penalty": -3,   # > 2 hours
     "lunch_bonus": +10,
-    "class_count_penalty": -4,     # per class > 2 on a day
+    "class_count_penalty": -4,     # per class > 3 on a day
     "late_night_penalty": -10,
 }
 
@@ -223,8 +223,8 @@ def score_schedule(schedule: list, preferences: dict = None, weights: dict = Non
     if prefs["limit_classes_per_day"]:
         per_day = classes_per_day(schedule)
         for day, count in per_day.items():
-            if count >= 3:
-                score += wts["class_count_penalty"] * (count - 2)  # penalty per extra class
+            if count > 3:
+                score += wts["class_count_penalty"] * (count - 3)  # penalty per extra class
     
     return score
 
@@ -278,7 +278,7 @@ def get_satisfied_preferences(schedule: list, preferences: dict = None) -> list:
     if prefs["limit_classes_per_day"]:
         per_day = classes_per_day(schedule)
         max_per_day = max(per_day.values()) if per_day else 0
-        if max_per_day <= 2:
-            satisfied.append("Max 2 Classes/Day")
+        if max_per_day <= 3:
+            satisfied.append("Max 3 Classes/Day")
     
     return satisfied

@@ -3,24 +3,21 @@
 This is a web application that atomatically generates and ranks course schedules for Rice University students given a selection of courses, based on student preferences.
 
 ## Demo
-**Live App:** https://owlplanner.vercel.app/
+https://owlplanner.vercel.app/
 ![alt text](demo.png)
-
-## What is OwlPlanner?
-OwlPlanner solves the tedious problem of course registration by automatically generating **all valid schedules** from your course selections and ranking them by your preferences. Instead of manually checking for conflicts and comparing different combinations, you can get an optimized schedule in seconds.
 
 ---
 ### Customizable Preferences
 - No classes before 9 AM
 - Prefer 4-day weeks
 - 1-hour lunch break (11 AM–1 PM)
-- Max 2 classes per day
+- Max 3 classes per day
 - No classes after 7 PM
 - Balanced gaps between classes
 
 ---
 ### Scoring System
-Each schedule is ranked by weighted preferences:
+Each schedule is ranked by weighted preferences - these weights were chosen based on my subjective experiences:
 - Early class penalty: -5 pts
 - 5-day week penalty: -30 pts
 - Gap penalties: -5 pts (too short), -3 pts (too long)
@@ -33,14 +30,9 @@ Each schedule is ranked by weighted preferences:
 
 **Frontend:** React 18 + Vite + CSS3 (Vercel)  
 **Backend:** FastAPI + Pydantic + Python 3.12 (Render)  
-**Data:** CSV with in-memory caching (~631 courses)
+**Data:** CSV with in-memory caching (~2450 courses)
 
 ---
-
-## Quick Start
-
-### Try It Live
-Visit **[owlplanner.vercel.app](https://owlplanner.vercel.app)** to generate your schedule now!
 
 ### Run Locally
 

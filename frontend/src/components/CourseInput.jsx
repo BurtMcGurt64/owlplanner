@@ -30,7 +30,6 @@ function CourseInput({ onGenerate, isLoading }) {
       });
     
     if (courses.length === 0) {
-      alert('Please enter at least one course');
       return;
     }
     

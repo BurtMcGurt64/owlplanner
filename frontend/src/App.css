@@ -1,7 +1,3 @@
-/* ============================================
-   GLOBAL STYLES
-   ============================================ */
-
 * {
   box-sizing: border-box;
 }
@@ -10,13 +6,10 @@ html, body, #root {
   margin: 0;
   padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-  background-color: #1a202c;
-  color: #a0aec0;
+  background-color: #000000;
+  color: #cccccc;
 }
 
-/* ============================================
-   APP LAYOUT
-   ============================================ */
 
 .app {
   min-height: 100vh;
@@ -25,25 +18,21 @@ html, body, #root {
 }
 
 .header {
-  background-color: #2d3748;
+  background-color: #000000;
   padding: 2rem;
   text-align: center;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 .header h1 {
   margin: 0 0 0.5rem 0;
   font-size: 3rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #ffffff;
 }
 
 .header p {
   margin: 0;
   font-size: 1.2rem;
-  color: #a0aec0;
+  color: #cccccc;
 }
 
 .main-content {
@@ -58,7 +47,7 @@ html, body, #root {
   min-height: 70vh;
 }
 
-/* Side-by-side container for input and preferences */
+/* container for input and preferences */
 .input-preferences-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -74,42 +63,39 @@ html, body, #root {
   }
 }
 
-/* ============================================
-   FORMS
-   ============================================ */
+/* input */
 
 .course-input-form {
   width: 100%;
-  background-color: #3a4556;
-  border-radius: 8px;
+  background-color: #0a0a0a;
+  border-radius: 6px;
   padding: 1.5rem;
-  border: 1px solid #4a5568;
+  border: 1px solid #333333;
 }
 
 .form-label {
   display: block;
   margin-bottom: 0.5rem;
-  font-weight: bold;
-  color: white;
-  font-size: 1.1rem;
+  font-weight: 600;
+  color: #7C7E7F;
+  font-size: 1rem;
 }
 
 .form-input {
   width: 100%;
   padding: 0.75rem;
   font-size: 1rem;
-  border: 2px solid #4a5568;
-  border-radius: 8px;
-  background-color: #2d3748;
-  color: white;
-  margin-bottom: 1rem;
-  font-family: inherit;
+  border: 1px solid #333333;
+  border-radius: 6px;
+  background-color: #000000;
+  color: #ffffff;
+  resize: none;
 }
 
 .form-input:focus {
   outline: none;
-  border-color: #667eea;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  border-color: #00205B;
+  box-shadow: 0 0 0 3px rgba(0, 122, 204, 0.15);
 }
 
 .form-input:disabled {
@@ -117,19 +103,17 @@ html, body, #root {
   cursor: not-allowed;
 }
 
-/* ============================================
-   BUTTONS
-   ============================================ */
+/* buttons */
 
 .btn {
   width: 100%;
   padding: 0.75rem 2rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
   border: none;
-  border-radius: 8px;
-  font-weight: bold;
+  border-radius: 6px;
+  font-weight: 600;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: background-color 0.15s ease;
   font-family: inherit;
 }
 
@@ -139,29 +123,25 @@ html, body, #root {
 }
 
 .btn-primary {
-  background-color: #667eea;
-  color: white;
+  background-color: #00205B;
+  color: #7C7E7F;
 }
 
 .btn-primary:hover:not(:disabled) {
-  background-color: #764ba2;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  background-color: #00205B;
 }
 
 .btn-primary:active:not(:disabled) {
-  transform: translateY(0);
+  transform: none;
 }
 
-/* ============================================
-   MESSAGES
-   ============================================ */
+/* for any error messages*/
 
 .error-box,
 .info-box {
   padding: 1rem;
-  border: 2px solid;
-  border-radius: 8px;
+  border: 1px solid;
+  border-radius: 3px;
   margin-bottom: 2rem;
   width: 100%;
   max-width: 800px;
@@ -207,9 +187,7 @@ html, body, #root {
   }
 }
 
-/* ============================================
-   SCHEDULES
-   ============================================ */
+/* schedules */
 
 .schedule-list {
   margin-top: 2rem;
@@ -218,7 +196,7 @@ html, body, #root {
 
 .schedule-list-title {
   margin-bottom: 1.5rem;
-  color: white;
+  color: #24292f;
   font-size: 2rem;
   text-align: center;
 }
@@ -237,55 +215,45 @@ html, body, #root {
 }
 
 .schedule-card {
-  padding: 0.75rem 1rem;
-  background-color: #2d3748;
-  border-radius: 8px;
-  border: 2px solid #4a5568;
+  padding: 1rem;
+  background-color: #0a0a0a;
+  border-radius: 6px;
+  border: 1px solid #333333;
   cursor: pointer;
-  transition: all 0.3s ease;
-  opacity: 0.4;
-  filter: grayscale(50%);
-}
-
-.schedule-card:hover {
-  opacity: 0.6;
-  filter: grayscale(30%);
-  transform: translateX(5px);
+  transition: all 0.2s ease;
+  opacity: 0.5;
 }
 
 .schedule-card.selected {
   opacity: 1;
-  filter: grayscale(0%);
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border: 3px solid #a78bfa;
-  transform: translateX(5px) scale(1.02);
-  box-shadow: 0 8px 24px rgba(102, 126, 234, 0.6), 
-              0 0 40px rgba(118, 75, 162, 0.4);
+  background-color: #0a0a0a;
+  border: 2px solid #00205B;
+  box-shadow: 0 0 0 3px rgba(0, 122, 204, 0.15);
 }
 
 .schedule-card h3 {
   margin: 0 0 0.25rem 0;
-  color: white;
+  color: #ffffff;
   font-size: 1rem;
+  font-weight: 600;
 }
 
 .schedule-card.selected h3 {
-  color: rgba(255, 255, 255, 1);
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: #ffffff;
 }
 
 .schedule-card .course-count {
   margin: 0 0 0.5rem 0;
-  color: #a0aec0;
+  color: #cccccc;
   font-size: 0.85rem;
 }
 
 .schedule-card.selected .course-count {
-  color: rgba(255, 255, 255, 0.9);
+  color: #cccccc;
 }
 
 .best-badge {
-  color: #48bb78;
+  color: #00205B;
   margin-left: 0.5rem;
   font-size: 0.9rem;
 }
@@ -298,72 +266,64 @@ html, body, #root {
 }
 
 .pref-badge {
-  background-color: rgba(72, 187, 120, 0.25);
-  color: #48bb78;
+  background-color: transparent;
+  color: #888888;
   padding: 0.3rem 0.6rem;
-  border-radius: 12px;
-  font-size: 0.7rem;
-  font-weight: 600;
-  border: 1px solid rgba(72, 187, 120, 0.5);
+  border-radius: 3px;
+  font-size: 0.75rem;
+  font-weight: 400;
+  border: 1px solid #333333;
   white-space: nowrap;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-}
-
-.schedule-card.selected .pref-badge {
-  background-color: rgba(255, 255, 255, 0.2);
-  color: white;
-  border-color: rgba(255, 255, 255, 0.4);
 }
 
 .schedule-details {
-  background-color: #2d3748;
-  border-radius: 12px;
-  padding: 2rem;
+  background-color: #000000;
+  padding: 0;
 }
 
 .schedule-details h3 {
   margin-top: 0;
-  color: white;
+  color: #cccccc;
   font-size: 1.1rem;
 }
 
 .schedule-details h3 {
   margin-top: 0;
-  color: white;
+  color: #24292f;
   font-size: 1.1rem;
 }
 
 .schedule-score {
   padding: 1rem;
-  background-color: #1a202c;
-  border-radius: 8px;
+  background-color: #f6f8fa;
+  border-radius: 3px;
   margin-bottom: 1.5rem;
   color: #48bb78;
   font-size: 1rem;
 }
 
 .courses-list h4 {
-  color: #a0aec0;
+  color: #57606a;
   margin: 1rem 0 0.5rem 0;
 }
 
 .course-item {
   padding: 1rem;
-  background-color: #1a202c;
-  border-radius: 8px;
+  background-color: #f6f8fa;
+  border-radius: 3px;
   margin-bottom: 1rem;
   border-left: 4px solid #667eea;
 }
 
 .course-name {
   font-weight: bold;
-  color: white;
+  color: #24292f;
   margin-bottom: 0.5rem;
   font-size: 1rem;
 }
 
 .course-instructor {
-  color: #a0aec0;
+  color: #57606a;
   font-size: 0.9rem;
   margin-bottom: 0.5rem;
 }
@@ -374,9 +334,6 @@ html, body, #root {
   font-style: italic;
 }
 
-/* ============================================
-   RESPONSIVE
-   ============================================ */
 
 @media (max-width: 1024px) {
   .schedule-container {
@@ -398,20 +355,18 @@ html, body, #root {
   }
 }
 
-/* ============================================
-   CALENDAR VIEW
-   ============================================ */
+/* calender view
+*/
 
 .calendar-view {
-  background-color: #2d3748;
-  border-radius: 12px;
-  padding: 1.5rem;
+  background-color: #000000;
+  padding: 0;
   overflow-x: auto;
 }
 
 .calendar-view h3 {
   margin-top: 0;
-  color: white;
+  color: #cccccc;
   font-size: 1.1rem;
   margin-bottom: 1rem;
 }
@@ -421,8 +376,7 @@ html, body, #root {
   grid-template-columns: 60px repeat(5, 1fr);
   grid-auto-rows: 40px;
   gap: 1px;
-  background-color: #1a202c;
-  border-radius: 8px;
+  background-color: #000000;
   overflow: hidden;
   min-width: 700px;
   position: relative;
@@ -434,12 +388,12 @@ html, body, #root {
 
 .calendar-header .time-column,
 .calendar-header .day-column {
-  background-color: #2d3748;
+  background-color: #0a0a0a;
   padding: 0.75rem;
-  color: white;
+  color: #cccccc;
   font-weight: bold;
   text-align: center;
-  border-bottom: 2px solid #4a5568;
+  border-bottom: 2px solid #333333;
   font-size: 0.9rem;
 }
 
@@ -448,24 +402,24 @@ html, body, #root {
 }
 
 .time-label {
-  background-color: #1a202c;
+  background-color: #000000;
   padding: 0.75rem 0.5rem;
-  color: #a0aec0;
+  color: #888888;
   font-size: 0.8rem;
   text-align: center;
-  border-right: 1px solid #4a5568;
+  border-right: 1px solid #333333;
   font-weight: bold;
 }
 
 .calendar-cell {
-  background-color: #1a202c;
-  border: 1px solid #4a5568;
+  background-color: #000000;
+  border: 1px solid #333333;
   position: relative;
 }
 
 .course-block {
-  background-color: #667eea;
-  color: white;
+  background-color: #00205B;
+  color: #ffffff;
   padding: 0.5rem;
   border-radius: 4px;
   display: flex;
@@ -493,23 +447,22 @@ html, body, #root {
   text-overflow: ellipsis;
 }
 
-/* ============================================
-   PREFERENCE SELECTOR
-   ============================================ */
+/*
+   preference selector*/
 
 .preference-selector {
   width: 100%;
-  background-color: #3a4556;
-  border-radius: 8px;
+  background-color: #0a0a0a;
+  border-radius: 6px;
   padding: 1rem;
-  border: 1px solid #4a5568;
+  border: 1px solid #333333;
 }
 
 .preference-toggle-btn {
   width: 100%;
   background: transparent;
   border: none;
-  color: white;
+  color: #7C7E7F;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
@@ -521,7 +474,7 @@ html, body, #root {
 }
 
 .preference-toggle-btn:hover {
-  color: #667eea;
+  color: #7C7E7F;
 }
 
 .preference-toggle-btn .arrow {
@@ -535,7 +488,7 @@ html, body, #root {
 
 .preference-title {
   margin: 0 0 1rem 0;
-  color: white;
+  color: #24292f;
   font-size: 1.2rem;
   text-align: center;
 }
@@ -564,39 +517,35 @@ html, body, #root {
   align-items: center;
   gap: 0.5rem;
   padding: 0.6rem;
-  background-color: rgba(26, 32, 44, 0.5);
-  border-radius: 6px;
+  background-color: transparent;
+  border-radius: 3px;
   cursor: pointer;
   transition: all 0.2s;
   border: 1px solid transparent;
 }
 
 .preference-item:hover {
-  background-color: #374151;
-  border-color: #667eea;
+  background-color: transparent;
+  border-color: transparent;
 }
 
 .preference-item input[type="checkbox"] {
   width: 20px;
   height: 20px;
   cursor: pointer;
-  accent-color: #667eea;
+  accent-color: #7C7E7F;
 }
 
 .preference-item span {
-  color: #e2e8f0;
+  color: #7C7E7F;
   font-size: 0.9rem;
   user-select: none;
 }
 
 .preference-item input[type="checkbox"]:checked + span {
-  color: white;
+  color: #7C7E7F;
   font-weight: 500;
 }
-
-/* ============================================
-   EMPTY CALENDAR PLACEHOLDER
-   ============================================ */
 
 /* Empty calendar on startup - centered */
 .empty-calendar-container {
@@ -613,84 +562,17 @@ html, body, #root {
 
 .empty-calendar-message {
   font-size: 1.1rem;
-  color: #a0aec0;
+  color: #57606a;
   text-align: center;
   margin: 0;
 }
 
 .empty-calendar-container .empty-calendar {
   width: 100%;
-  background-color: #2d3748;
-  border-radius: 12px;
+  background-color: #ffffff;
+  border-radius: 4px;
   padding: 2rem;
-  border: 2px solid #4a5568;
+  border: 1px solid #d0d7de;
   overflow-x: auto;
 }
 
-/* ============================================
-   COURSE PICKER (REMOVED)
-   ============================================ */
-
-.course-picker {
-  background-color: #2d3748;
-  border-radius: 12px;
-  padding: 1.5rem;
-  border: 2px solid #4a5568;
-  height: fit-content;
-  max-height: 700px;
-  display: flex;
-  flex-direction: column;
-}
-
-.course-picker h3 {
-  color: white;
-  margin: 0 0 1rem 0;
-  font-size: 1.2rem;
-}
-
-.course-search {
-  width: 100%;
-  padding: 0.75rem;
-  font-size: 0.95rem;
-  border: 2px solid #4a5568;
-  border-radius: 8px;
-  background-color: #1a202c;
-  color: white;
-  margin-bottom: 1rem;
-  font-family: inherit;
-}
-
-.course-search:focus {
-  outline: none;
-  border-color: #667eea;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
-}
-
-.course-list {
-  overflow-y: auto;
-  flex: 1;
-}
-
-.course-list-item {
-  padding: 0.5rem 0.75rem;
-  color: #e2e8f0;
-  cursor: pointer;
-  transition: all 0.15s;
-  border-bottom: 1px solid #374151;
-  font-size: 0.9rem;
-}
-
-.course-list-item:hover {
-  background-color: #374151;
-}
-
-.course-list-message {
-  color: #a0aec0;
-  text-align: center;
-  padding: 2rem;
-  font-size: 0.9rem;
-}
-
-.course-list-message.error {
-  color: #fc8181;
-}

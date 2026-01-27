@@ -79,17 +79,17 @@ function App() {
     <div className="app">
       {/* Header */}
       <header className="header">
-        <h1>🦉 OwlPlanner</h1>
-        <p>Course Scheduler for Rice University</p>
+        <h1><span style={{ color: '#7C7E7F' }}>Owl</span><span style={{ color: '#00205B' }}>Planner</span></h1>
+        <p>Course Scheduler for Rice Students</p>
       </header>
 
       {/* Main Content */}
       <main className="main-content">
-        {/* Backend warmup banner */}
+        {/* Backend warmup message */}
         {warmingUp && (
-          <div className="info-box" style={{ backgroundColor: '#fff3cd', borderColor: '#ffc107' }}>
-            <strong>⏳ Waking up backend...</strong> This takes ~30 seconds on first visit.
-          </div>
+          <p style={{ color: '#7C7E7F', textAlign: 'center', marginBottom: '2rem' }}>
+            Waking up backend... This takes ~30 seconds on first visit.
+          </p>
         )}
         
         {/* Side-by-side layout for input and preferences */}
@@ -112,14 +112,6 @@ function App() {
         {error && (
           <div className="error-box">
             <strong>Error:</strong> {error}
-          </div>
-        )}
-
-        {/* Loading Spinner */}
-        {isLoading && (
-          <div className="loading">
-            <div className="spinner">⏳</div>
-            <p>Generating schedules...</p>
           </div>
         )}
 

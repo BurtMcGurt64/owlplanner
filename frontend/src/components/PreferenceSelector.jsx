@@ -70,7 +70,7 @@ function PreferenceSelector({ preferences, onPreferencesChange, defaultOpen = fa
             checked={preferences.limit_classes_per_day}
             onChange={() => handleToggle('limit_classes_per_day')}
           />
-          <span>Max 2 classes per day</span>
+          <span>Max 3 classes per day</span>
         </label>
 
         <label className="preference-item">
